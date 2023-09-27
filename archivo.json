@@ -1,0 +1,9057 @@
+[
+    {
+        "titulo": "Blanco",
+        "color": "f3efe9",
+        "codigo": 1501
+    },
+    {
+        "titulo": "Gris Basalto",
+        "color": "928A7C",
+        "codigo": 1502
+    },
+    {
+        "titulo": "Crema Sutil",
+        "color": "F2F5E9",
+        "codigo": 1503
+    },
+    {
+        "titulo": "Verde Agua",
+        "color": "D3CFAD",
+        "codigo": 1504
+    },
+    {
+        "titulo": "Verde Chartreuse",
+        "color": "C1BC83",
+        "codigo": 1505
+    },
+    {
+        "titulo": "Blanco Sensible",
+        "color": "EDF5EF",
+        "codigo": 1506
+    },
+    {
+        "titulo": "Verde Pino",
+        "color": "5D7353",
+        "codigo": 1507
+    },
+    {
+        "titulo": "Verde Apacible",
+        "color": "D9E1D5",
+        "codigo": 1508
+    },
+    {
+        "titulo": "Crema",
+        "color": "F3D2AC",
+        "codigo": 1509
+    },
+    {
+        "titulo": "Cafe Paris",
+        "color": "B48D69",
+        "codigo": 1511
+    },
+    {
+        "titulo": "Verde Turquesa",
+        "color": "77A89E",
+        "codigo": 1512
+    },
+    {
+        "titulo": "Azul Horizonte",
+        "color": "B8DDDE",
+        "codigo": 1513
+    },
+    {
+        "titulo": "Rosa",
+        "color": "E7C9B7",
+        "codigo": 1515
+    },
+    {
+        "titulo": "Crema Chantilli",
+        "color": "E1C28D",
+        "codigo": 1516
+    },
+    {
+        "titulo": "Aquamarina",
+        "color": "B2DFD7",
+        "codigo": 1517
+    },
+    {
+        "titulo": "Naranja Chic",
+        "color": "FAC69C",
+        "codigo": 1518
+    },
+    {
+        "titulo": "Lino Crudo",
+        "color": "EDDBCC",
+        "codigo": 1519
+    },
+    {
+        "titulo": "Verde Seda",
+        "color": "E4E5B2",
+        "codigo": 1521
+    },
+    {
+        "titulo": "Conchas",
+        "color": "EAE8C3",
+        "codigo": 1523
+    },
+    {
+        "titulo": "Azul Dinamico",
+        "color": "6E99AD",
+        "codigo": 1524
+    },
+    {
+        "titulo": "Ocre",
+        "color": "BE8242",
+        "codigo": 1526
+    },
+    {
+        "titulo": "Amarillo Energico",
+        "color": "C1A058",
+        "codigo": 1527
+    },
+    {
+        "titulo": "Rojo Colonial",
+        "color": "84463C",
+        "codigo": 1528
+    },
+    {
+        "titulo": "Castano",
+        "color": 876552,
+        "codigo": 1529
+    },
+    {
+        "titulo": "Naranja Tentacion",
+        "color": "D46039",
+        "codigo": 1530
+    },
+    {
+        "titulo": "Azul Porcelana",
+        "color": "C4DCE0",
+        "codigo": 1532
+    },
+    {
+        "titulo": "Chocolate Intenso",
+        "color": "74583F",
+        "codigo": 1533
+    },
+    {
+        "titulo": "Azul Extremo",
+        "color": 27185,
+        "codigo": 1535
+    },
+    {
+        "titulo": "Mora Provocacion",
+        "color": "A198A0",
+        "codigo": 1536
+    },
+    {
+        "titulo": "Crema Sensacion",
+        "color": "F3D59E",
+        "codigo": 1537
+    },
+    {
+        "titulo": "Blanco Hueso",
+        "color": "E9D6BC",
+        "codigo": 1538
+    },
+    {
+        "titulo": "Verde Intrepido",
+        "color": "D9C055",
+        "codigo": 1539
+    },
+    {
+        "titulo": "Rojo Emocion",
+        "color": "B68275",
+        "codigo": 1540
+    },
+    {
+        "titulo": "Amarillo Vital",
+        "color": "D4A97E",
+        "codigo": 1541
+    },
+    {
+        "titulo": "Azul Ensueño",
+        "color": "9DB0BF",
+        "codigo": 1542
+    },
+    {
+        "titulo": "Blanco Ilusion",
+        "color": "DBE0DE",
+        "codigo": 1543
+    },
+    {
+        "titulo": "Violeta",
+        "color": "6B79A1",
+        "codigo": 1544
+    },
+    {
+        "titulo": "Crema Suave",
+        "color": "E0C5AB",
+        "codigo": 1545
+    },
+    {
+        "titulo": "Verde Autentico",
+        "color": "8CA487",
+        "codigo": 1546
+    },
+    {
+        "titulo": "Verde Jamaicano",
+        "color": "ADC7B4",
+        "codigo": 1547
+    },
+    {
+        "titulo": "Blanco Invernal",
+        "color": "E9E4E4",
+        "codigo": 1548
+    },
+    {
+        "titulo": "Menta Fresca",
+        "color": "E5EADF",
+        "codigo": 1549
+    },
+    {
+        "titulo": "Avellana Boreal",
+        "color": "E7C4A0",
+        "codigo": 1555
+    },
+    {
+        "titulo": "Verde Complice",
+        "color": 99799999999999994520661794836199118605485981264289784378949632,
+        "codigo": 1556
+    },
+    {
+        "titulo": "Blanco Arena",
+        "color": "F4E8D7",
+        "codigo": 1557
+    },
+    {
+        "titulo": "Blanco Ostra",
+        "color": "DAD6BD",
+        "codigo": 1558
+    },
+    {
+        "titulo": "Blanco Almendra",
+        "color": "EFE3D1",
+        "codigo": 1561
+    },
+    {
+        "titulo": "Blanco Manzana",
+        "color": "E3E3D1",
+        "codigo": 1562
+    },
+    {
+        "titulo": "Blanco Celeste",
+        "color": "EDFDFD",
+        "codigo": 1563
+    },
+    {
+        "titulo": "Blanco Lila",
+        "color": "EFE1D6",
+        "codigo": 1564
+    },
+    {
+        "titulo": "Blanco Durazno",
+        "color": "E7DFD6",
+        "codigo": 1565
+    },
+    {
+        "titulo": "Curuba",
+        "color": "EFC19C",
+        "codigo": 1566
+    },
+    {
+        "titulo": "Palo De Rosa",
+        "color": "E6C0AA",
+        "codigo": 1567
+    },
+    {
+        "titulo": "Trigo",
+        "color": "DAC1A7",
+        "codigo": 1568
+    },
+    {
+        "titulo": "Gris Nube",
+        "color": "C9CBC8",
+        "codigo": 1569
+    },
+    {
+        "titulo": "Blanco Luna",
+        "color": "F3E4CC",
+        "codigo": 1571
+    },
+    {
+        "titulo": "Verde Aceituna",
+        "color": "66846F",
+        "codigo": 1572
+    },
+    {
+        "titulo": "Azul Pacifico",
+        "color": "6695B6",
+        "codigo": 1573
+    },
+    {
+        "titulo": "Pomarrosa",
+        "color": "F8F0F1",
+        "codigo": 1575
+    },
+    {
+        "titulo": "Terracota",
+        "color": "CB8382",
+        "codigo": 1576
+    },
+    {
+        "titulo": "Azafran",
+        "color": "CB8A54",
+        "codigo": 1577
+    },
+    {
+        "titulo": "Thai",
+        "color": "FBC589",
+        "codigo": 1578
+    },
+    {
+        "titulo": "Bruma",
+        "color": "E9E1CF",
+        "codigo": 1579
+    },
+    {
+        "titulo": "Lima",
+        "color": "DED190",
+        "codigo": 1580
+    },
+    {
+        "titulo": "Lirio",
+        "color": "CFD8E0",
+        "codigo": 1581
+    },
+    {
+        "titulo": "Orquidea",
+        "color": "EBE6E1",
+        "codigo": 1582
+    },
+    {
+        "titulo": "Camelia",
+        "color": "F4E2BC",
+        "codigo": 1583
+    },
+    {
+        "titulo": "Sauce",
+        "color": "C9BF99",
+        "codigo": 1584
+    },
+    {
+        "titulo": "Nuez",
+        "color": "CFC3B7",
+        "codigo": 1585
+    },
+    {
+        "titulo": "Oceanico",
+        "color": "00989F",
+        "codigo": 1587
+    },
+    {
+        "titulo": "Boreal",
+        "color": "D4CCCC",
+        "codigo": 1588
+    },
+    {
+        "titulo": "Estepa",
+        "color": "B3C2B7",
+        "codigo": 1589
+    },
+    {
+        "titulo": "Tierra Vibrante",
+        "color": "9F5F44",
+        "codigo": 1590
+    },
+    {
+        "titulo": "Coral",
+        "color": "F5D0C1",
+        "codigo": 1591
+    },
+    {
+        "titulo": "Melon",
+        "color": "F7DEC8",
+        "codigo": 1592
+    },
+    {
+        "titulo": "Mora",
+        "color": "E3C3BC",
+        "codigo": 1593
+    },
+    {
+        "titulo": "Champaña",
+        "color": "E6DACA",
+        "codigo": 1594
+    },
+    {
+        "titulo": "Lila",
+        "color": "E1DFE6",
+        "codigo": 1595
+    },
+    {
+        "titulo": "Azul Sereno",
+        "color": "9AC5C1",
+        "codigo": 1596
+    },
+    {
+        "titulo": "Blanco Armonia",
+        "color": "F0F2EB",
+        "codigo": 1597
+    },
+    {
+        "titulo": "Blanco Tradicional 1501",
+        "color": "FBFFFC",
+        "codigo": 1801
+    },
+    {
+        "titulo": "Naranja Fuerte",
+        "color": "E17255",
+        "codigo": 1810
+    },
+    {
+        "titulo": "Amarillo Profundo",
+        "color": "FFC657",
+        "codigo": 1811
+    },
+    {
+        "titulo": "Salmon Suave",
+        "color": "FBF0DF",
+        "codigo": 1812
+    },
+    {
+        "titulo": "Azul Puro",
+        "color": "0B8AAE",
+        "codigo": 1813
+    },
+    {
+        "titulo": "Mora Natural",
+        "color": "8A5164",
+        "codigo": 1814
+    },
+    {
+        "titulo": "Rojo Brillante",
+        "color": "D45B58",
+        "codigo": 1815
+    },
+    {
+        "titulo": "Verde Intenso",
+        "color": "42966C",
+        "codigo": 1816
+    },
+    {
+        "titulo": "Blanco Luminoso",
+        "color": "F1E9E0",
+        "codigo": 1817
+    },
+    {
+        "titulo": "Rojo Exotico",
+        "color": "B2503D",
+        "codigo": 1818
+    },
+    {
+        "titulo": "Azul Jovial",
+        "color": "4B89C3",
+        "codigo": 1819
+    },
+    {
+        "titulo": "Ocre Aventura",
+        "color": "CA8E48",
+        "codigo": 1820
+    },
+    {
+        "titulo": "Verde Calma",
+        "color": "B1AC8A",
+        "codigo": 1821
+    },
+    {
+        "titulo": "Lima Actual",
+        "color": "ECDE8F",
+        "codigo": 1822
+    },
+    {
+        "titulo": "Blanco Creativo",
+        "color": "EFE7CD",
+        "codigo": 1823
+    },
+    {
+        "titulo": "Gris Profesional",
+        "color": "A3ACB9",
+        "codigo": 1824
+    },
+    {
+        "titulo": "Lila Romance",
+        "color": "F4F6F6",
+        "codigo": 1825
+    },
+    {
+        "titulo": "Paris Rose",
+        "color": "DAC8C3",
+        "codigo": 1826
+    },
+    {
+        "titulo": "Rosa Mexicano",
+        "color": "C05166",
+        "codigo": 1827
+    },
+    {
+        "titulo": "Naranja Curry",
+        "color": "F79945",
+        "codigo": 1828
+    },
+    {
+        "titulo": "Azul Patagonia",
+        "color": "BCD9DA",
+        "codigo": 1829
+    },
+    {
+        "titulo": "Verde Persa",
+        "color": "00696F",
+        "codigo": 1830
+    },
+    {
+        "titulo": "Menta Mojito",
+        "color": "E3E3B3",
+        "codigo": 1831
+    },
+    {
+        "titulo": "Safari Africano",
+        "color": "8F7A4A",
+        "codigo": 1832
+    },
+    {
+        "titulo": "Gris Royal",
+        "color": "5F6B77",
+        "codigo": 1833
+    },
+    {
+        "titulo": "Blanco Macadamia",
+        "color": "F1E6D1",
+        "codigo": 1834
+    },
+    {
+        "titulo": "Blanco Fique",
+        "color": "D5CDB3",
+        "codigo": 1835
+    },
+    {
+        "titulo": "Balso Del Bosque",
+        "color": "BC9B74",
+        "codigo": 1836
+    },
+    {
+        "titulo": "Cerezo Silvestre",
+        "color": 877066,
+        "codigo": 1837
+    },
+    {
+        "titulo": "Rosa Cobrizo",
+        "color": "CA8071",
+        "codigo": 1838
+    },
+    {
+        "titulo": "Verde Bambú",
+        "color": 939973,
+        "codigo": 1839
+    },
+    {
+        "titulo": "Piedra Del Mar",
+        "color": "7CA1B0",
+        "codigo": 1840
+    },
+    {
+        "titulo": "Rojo Siena",
+        "color": "BE7756",
+        "codigo": 1841
+    },
+    {
+        "titulo": "Just A Tease",
+        "color": "FFF9FE",
+        "codigo": "08-1P"
+    },
+    {
+        "titulo": "How Sweet It Is",
+        "color": "FFE4EC",
+        "codigo": "08-2P"
+    },
+    {
+        "titulo": "Dogwood Blossom",
+        "color": "FED6DF",
+        "codigo": "08-3P"
+    },
+    {
+        "titulo": "Girl Power",
+        "color": "FBBCCB",
+        "codigo": "08-4T"
+    },
+    {
+        "titulo": "Pretty Please",
+        "color": "F8AABA",
+        "codigo": "08-5T"
+    },
+    {
+        "titulo": "Young At Heart",
+        "color": "F18A9A",
+        "codigo": "08-6D"
+    },
+    {
+        "titulo": "Eternal Gold",
+        "color": "DBBC2E",
+        "codigo": "48-8A"
+    },
+    {
+        "titulo": "White Corn",
+        "color": "FFFFE0",
+        "codigo": "49-1P"
+    },
+    {
+        "titulo": "Lemon Frost",
+        "color": "FFFED5",
+        "codigo": "49-2P"
+    },
+    {
+        "titulo": "Lemon Light",
+        "color": "FEFBC8",
+        "codigo": "49-3P"
+    },
+    {
+        "titulo": "Yellow Rose",
+        "color": "FAF1AF",
+        "codigo": "49-4T"
+    },
+    {
+        "titulo": "Yellow River",
+        "color": "F2E397",
+        "codigo": "49-5T"
+    },
+    {
+        "titulo": "Winter Grass",
+        "color": "E6D372",
+        "codigo": "49-6D"
+    },
+    {
+        "titulo": "Green Bananas",
+        "color": "D5BE59",
+        "codigo": "49-7D"
+    },
+    {
+        "titulo": "Grenville Gold",
+        "color": "AE9B3F",
+        "codigo": "49-8A"
+    },
+    {
+        "titulo": "Glimpse Of Spring",
+        "color": "F5FCD9",
+        "codigo": "50-1P"
+    },
+    {
+        "titulo": "Slight Light",
+        "color": "F6F9CA",
+        "codigo": "50-2P"
+    },
+    {
+        "titulo": "Meadow Mist",
+        "color": "F7F7BF",
+        "codigo": "50-3P"
+    },
+    {
+        "titulo": "The Great Plains",
+        "color": "F0EEAD",
+        "codigo": "50-4T"
+    },
+    {
+        "titulo": "Olive Oil",
+        "color": "E9E59A",
+        "codigo": "50-5T"
+    },
+    {
+        "titulo": "Tall Prairie Grass",
+        "color": "DAD272",
+        "codigo": "50-6D"
+    },
+    {
+        "titulo": "Dry Pine Needles",
+        "color": "CDC65E",
+        "codigo": "50-7D"
+    },
+    {
+        "titulo": "Prairie View",
+        "color": "9C9439",
+        "codigo": "50-8A"
+    },
+    {
+        "titulo": "Sweet Spring",
+        "color": "FAFFDA",
+        "codigo": "51-1P"
+    },
+    {
+        "titulo": "Slight Celery",
+        "color": "FCFFD5",
+        "codigo": "51-2P"
+    },
+    {
+        "titulo": "Joy Of Nature",
+        "color": "F8FBC1",
+        "codigo": "51-3P"
+    },
+    {
+        "titulo": "Garden Of Light",
+        "color": "F9F9B1",
+        "codigo": "51-4T"
+    },
+    {
+        "titulo": "Prairie Harvest",
+        "color": "F8F39D",
+        "codigo": "51-5T"
+    },
+    {
+        "titulo": "Soft Summer",
+        "color": "EEE574",
+        "codigo": "51-6D"
+    },
+    {
+        "titulo": "Endless Summer",
+        "color": "E5D95D",
+        "codigo": "51-7D"
+    },
+    {
+        "titulo": "Sierra Grande",
+        "color": "C6B631",
+        "codigo": "51-8A"
+    },
+    {
+        "titulo": "Soft Lime",
+        "color": "FCFFDB",
+        "codigo": "52-1P"
+    },
+    {
+        "titulo": "Peppermint Patty",
+        "color": "F9FFD4",
+        "codigo": "52-2P"
+    },
+    {
+        "titulo": "Lime Sorbet",
+        "color": "F8FFC4",
+        "codigo": "52-3P"
+    },
+    {
+        "titulo": "Sour Apple",
+        "color": "F5FBAD",
+        "codigo": "52-4T"
+    },
+    {
+        "titulo": "Burst Of Lime",
+        "color": "F5F591",
+        "codigo": "52-5T"
+    },
+    {
+        "titulo": "Limeade",
+        "color": "ECED6D",
+        "codigo": "52-6D"
+    },
+    {
+        "titulo": "Tangy Lime",
+        "color": "E0E451",
+        "codigo": "52-7D"
+    },
+    {
+        "titulo": "Wedge Of Lime",
+        "color": "DED411",
+        "codigo": "52-8A"
+    },
+    {
+        "titulo": "Sea Grass",
+        "color": "FAFFDF",
+        "codigo": "53-1P"
+    },
+    {
+        "titulo": "Valley Mist",
+        "color": "F8FED3",
+        "codigo": "53-2P"
+    },
+    {
+        "titulo": "Mint Leaf",
+        "color": "F8FDC4",
+        "codigo": "53-3P"
+    },
+    {
+        "titulo": "Grasshopper Wing",
+        "color": "EEF5B1",
+        "codigo": "53-4T"
+    },
+    {
+        "titulo": "Spring Fresh",
+        "color": "E4ED9C",
+        "codigo": "53-5T"
+    },
+    {
+        "titulo": "Spring Clean-Up",
+        "color": "DBE377",
+        "codigo": "53-6D"
+    },
+    {
+        "titulo": "Apple Jack",
+        "color": "C9D45E",
+        "codigo": "53-7D"
+    },
+    {
+        "titulo": "Leap Frog",
+        "color": "A4AD2E",
+        "codigo": "53-8A"
+    },
+    {
+        "titulo": "Prairie Path",
+        "color": "F7FFE2",
+        "codigo": "54-1P"
+    },
+    {
+        "titulo": "Time For Fun",
+        "color": "F8FED8",
+        "codigo": "54-2P"
+    },
+    {
+        "titulo": "Spring Asparagus",
+        "color": "F2FBCB",
+        "codigo": "54-3P"
+    },
+    {
+        "titulo": "Prairie Princess",
+        "color": "E1EDAF",
+        "codigo": "54-4T"
+    },
+    {
+        "titulo": "Spring Attitude",
+        "color": "D3E19D",
+        "codigo": "54-5T"
+    },
+    {
+        "titulo": "Glory Of Spring",
+        "color": "C3CC77",
+        "codigo": "54-6D"
+    },
+    {
+        "titulo": "Frotenac Hills",
+        "color": "B4C16A",
+        "codigo": "54-7D"
+    },
+    {
+        "titulo": "Olive Ridge",
+        "color": "8F9D45",
+        "codigo": "54-8A"
+    },
+    {
+        "titulo": "Shade Of Shamrock",
+        "color": "F6FFE2",
+        "codigo": "55-1P"
+    },
+    {
+        "titulo": "Soft Celery",
+        "color": "F8FFDB",
+        "codigo": "55-2P"
+    },
+    {
+        "titulo": "Spring Welcome",
+        "color": "F2FDCB",
+        "codigo": "55-3P"
+    },
+    {
+        "titulo": "Pleasant Valley",
+        "color": "E8F7B5",
+        "codigo": "55-4T"
+    },
+    {
+        "titulo": "Green Caterpillar",
+        "color": "DBEC9E",
+        "codigo": "55-5T"
+    },
+    {
+        "titulo": "Green Apple Slices",
+        "color": "CCE07C",
+        "codigo": "55-6D"
+    },
+    {
+        "titulo": "Green Grapes",
+        "color": "B8D162",
+        "codigo": "55-7D"
+    },
+    {
+        "titulo": "Spring Jolt",
+        "color": "93A931",
+        "codigo": "55-8A"
+    },
+    {
+        "titulo": "Pale Green",
+        "color": "F6FFE2",
+        "codigo": "56-1P"
+    },
+    {
+        "titulo": "Spring Frolic",
+        "color": "F5FFD9",
+        "codigo": "56-2P"
+    },
+    {
+        "titulo": "Pistachio Pudding",
+        "color": "F1FEC4",
+        "codigo": "56-3P"
+    },
+    {
+        "titulo": "Latest Lime",
+        "color": "E6FBAE",
+        "codigo": "56-4T"
+    },
+    {
+        "titulo": "Spring Forward",
+        "color": "DBF194",
+        "codigo": "56-5T"
+    },
+    {
+        "titulo": "Jungle Birds",
+        "color": "CAE671",
+        "codigo": "56-6D"
+    },
+    {
+        "titulo": "Kiwi Kiss",
+        "color": "B7DB59",
+        "codigo": "56-7D"
+    },
+    {
+        "titulo": "Green Garland",
+        "color": "87BE36",
+        "codigo": "56-8A"
+    },
+    {
+        "titulo": "Soft Shamrock",
+        "color": "F7FFE7",
+        "codigo": "57-1P"
+    },
+    {
+        "titulo": "Green Twig",
+        "color": "F1FDDB",
+        "codigo": "57-2P"
+    },
+    {
+        "titulo": "Springsation",
+        "color": "E7F7CD",
+        "codigo": "57-3P"
+    },
+    {
+        "titulo": "Spring Fling",
+        "color": "DAEBB6",
+        "codigo": "57-4T"
+    },
+    {
+        "titulo": "Lockness",
+        "color": "C7DD9F",
+        "codigo": "57-5T"
+    },
+    {
+        "titulo": "Summer Salad",
+        "color": "B5CB7E",
+        "codigo": "57-6D"
+    },
+    {
+        "titulo": "Desert Saguaro",
+        "color": "9FB968",
+        "codigo": "57-7D"
+    },
+    {
+        "titulo": "Peas In A Pod",
+        "color": "7B9845",
+        "codigo": "57-8A"
+    },
+    {
+        "titulo": "Green Court",
+        "color": "F8FFE1",
+        "codigo": "58-1P"
+    },
+    {
+        "titulo": "Celery Stalk",
+        "color": "F1FFDD",
+        "codigo": "58-2P"
+    },
+    {
+        "titulo": "Best Of Spring",
+        "color": "E7FCCF",
+        "codigo": "58-3P"
+    },
+    {
+        "titulo": "Enticing As Spring",
+        "color": "D8F3B9",
+        "codigo": "58-4T"
+    },
+    {
+        "titulo": "Leafy Splendor",
+        "color": "CAE9A4",
+        "codigo": "58-5T"
+    },
+    {
+        "titulo": "California Lettuce",
+        "color": "B6DA81",
+        "codigo": "58-6D"
+    },
+    {
+        "titulo": "Spring Leaves",
+        "color": "9DCA6B",
+        "codigo": "58-7D"
+    },
+    {
+        "titulo": "Kellie Green",
+        "color": "6EA440",
+        "codigo": "58-8A"
+    },
+    {
+        "titulo": "Spring Has Sprung",
+        "color": "F9FFE5",
+        "codigo": "59-1P"
+    },
+    {
+        "titulo": "Green Bonanza",
+        "color": "EAFEDF",
+        "codigo": "59-2P"
+    },
+    {
+        "titulo": "Chelsea Garden",
+        "color": "D9FCD3",
+        "codigo": "59-3P"
+    },
+    {
+        "titulo": "Everglade",
+        "color": "C8F1BE",
+        "codigo": "59-4T"
+    },
+    {
+        "titulo": "Inch Worm",
+        "color": "B3E7A9",
+        "codigo": "59-5T"
+    },
+    {
+        "titulo": "Walk In The Park",
+        "color": "9FDB8A",
+        "codigo": "59-6D"
+    },
+    {
+        "titulo": "Mcgregor'S Garden",
+        "color": "89CB77",
+        "codigo": "59-7D"
+    },
+    {
+        "titulo": "Holiday Green",
+        "color": "52A146",
+        "codigo": "59-8A"
+    },
+    {
+        "titulo": "Tinge Of Green",
+        "color": "EFFCE4",
+        "codigo": "60-1P"
+    },
+    {
+        "titulo": "Greenblushed Oasis",
+        "color": "ECFCDF",
+        "codigo": "60-2P"
+    },
+    {
+        "titulo": "Peace Garden",
+        "color": "E1F4CF",
+        "codigo": "60-3P"
+    },
+    {
+        "titulo": "Breath Of Spring",
+        "color": "C7E3BA",
+        "codigo": "60-4T"
+    },
+    {
+        "titulo": "Irish Moss",
+        "color": "B2D5A9",
+        "codigo": "60-5T"
+    },
+    {
+        "titulo": "Mossy Garden",
+        "color": "9DBF84",
+        "codigo": "60-6D"
+    },
+    {
+        "titulo": "Tree Of Life",
+        "color": "87AC6E",
+        "codigo": "60-7D"
+    },
+    {
+        "titulo": "Lucky Clover",
+        "color": "658A4A",
+        "codigo": "60-8A"
+    },
+    {
+        "titulo": "Ghostly Green",
+        "color": "F1FFF4",
+        "codigo": "61-1P"
+    },
+    {
+        "titulo": "Spring Promise",
+        "color": "E3FFDD",
+        "codigo": "61-2P"
+    },
+    {
+        "titulo": "Sunrise Pink",
+        "color": "FFF0FA",
+        "codigo": "01-1P"
+    },
+    {
+        "titulo": "Pinkest Pink",
+        "color": "F9E0E9",
+        "codigo": "01-2P"
+    },
+    {
+        "titulo": "Little Girls' Room",
+        "color": "EECFD9",
+        "codigo": "01-3P"
+    },
+    {
+        "titulo": "Pink Caper",
+        "color": "E1B8CA",
+        "codigo": "01-4T"
+    },
+    {
+        "titulo": "Grand Rose",
+        "color": "D2A4BA",
+        "codigo": "01-5T"
+    },
+    {
+        "titulo": "Mauve May",
+        "color": "C08195",
+        "codigo": "01-6D"
+    },
+    {
+        "titulo": "Marvelous Mauve",
+        "color": "AA6E82",
+        "codigo": "01-7D"
+    },
+    {
+        "titulo": "Aged Merlot",
+        "color": 764145,
+        "codigo": "01-8A"
+    },
+    {
+        "titulo": "Acacia Aire",
+        "color": "FFEDEE",
+        "codigo": "02-1P"
+    },
+    {
+        "titulo": "Pink Dimity",
+        "color": "F8D7DD",
+        "codigo": "02-2P"
+    },
+    {
+        "titulo": "Mauve Magic",
+        "color": "EECBD5",
+        "codigo": "02-3P"
+    },
+    {
+        "titulo": "Miss Mauve",
+        "color": "DEB3C1",
+        "codigo": "02-4T"
+    },
+    {
+        "titulo": "Pink Lady Slipper",
+        "color": "D39DAE",
+        "codigo": "02-5T"
+    },
+    {
+        "titulo": "Mauve Maze",
+        "color": "BE7D8D",
+        "codigo": "02-6D"
+    },
+    {
+        "titulo": "Sitting Pretty",
+        "color": "AA6977",
+        "codigo": "02-7D"
+    },
+    {
+        "titulo": "Carmine Red",
+        "color": 834446,
+        "codigo": "02-8A"
+    },
+    {
+        "titulo": "Pink Champagne",
+        "color": "FFF4F7",
+        "codigo": "03-1P"
+    },
+    {
+        "titulo": "Regal Rose",
+        "color": "F9DCE5",
+        "codigo": "03-2P"
+    },
+    {
+        "titulo": "Dewey Rose",
+        "color": "F6D1E1",
+        "codigo": "03-3P"
+    },
+    {
+        "titulo": "Miss Popularity",
+        "color": "EDBCD3",
+        "codigo": "03-4T"
+    },
+    {
+        "titulo": "Rosemare",
+        "color": "E4A6C2",
+        "codigo": "03-5T"
+    },
+    {
+        "titulo": "Fuchsia Flirtation",
+        "color": "D586A4",
+        "codigo": "03-6D"
+    },
+    {
+        "titulo": "Raspberry Rose",
+        "color": "C56D8A",
+        "codigo": "03-7D"
+    },
+    {
+        "titulo": "Club Monaco",
+        "color": "983F4C",
+        "codigo": "03-8A"
+    },
+    {
+        "titulo": "Edge Of Dawn",
+        "color": "FFF2F8",
+        "codigo": "04-1P"
+    },
+    {
+        "titulo": "Cotton Candy",
+        "color": "FFE7F3",
+        "codigo": "04-2P"
+    },
+    {
+        "titulo": "Think Pink",
+        "color": "FAD3E4",
+        "codigo": "04-3P"
+    },
+    {
+        "titulo": "Vision In Pink",
+        "color": "F7BDD3",
+        "codigo": "04-4T"
+    },
+    {
+        "titulo": "Fairy Tale Pink",
+        "color": "EEAAC4",
+        "codigo": "04-5T"
+    },
+    {
+        "titulo": "Paper Roses",
+        "color": "E289A6",
+        "codigo": "04-6D"
+    },
+    {
+        "titulo": "Old Country Roses",
+        "color": "D7708E",
+        "codigo": "04-7D"
+    },
+    {
+        "titulo": "Heart To Heart",
+        "color": "BF4C65",
+        "codigo": "04-8A"
+    },
+    {
+        "titulo": "Strawberry Mist",
+        "color": "FFEFF6",
+        "codigo": "05-1P"
+    },
+    {
+        "titulo": "Azalea Blossom",
+        "color": "FADDE5",
+        "codigo": "05-2P"
+    },
+    {
+        "titulo": "Spring Blossom",
+        "color": "F8D0DA",
+        "codigo": "05-3P"
+    },
+    {
+        "titulo": "Apple Blossom Time",
+        "color": "EDB9C9",
+        "codigo": "05-4T"
+    },
+    {
+        "titulo": "Rose Trellis",
+        "color": "E4A4B8",
+        "codigo": "05-5T"
+    },
+    {
+        "titulo": "Old Garden Rose",
+        "color": "D38192",
+        "codigo": "05-6D"
+    },
+    {
+        "titulo": "Rosewood",
+        "color": "C46B79",
+        "codigo": "05-7D"
+    },
+    {
+        "titulo": "Cranberry Craze",
+        "color": "903F3E",
+        "codigo": "05-8A"
+    },
+    {
+        "titulo": "Tickled Pink",
+        "color": "FFF2EF",
+        "codigo": "06-1P"
+    },
+    {
+        "titulo": "Shell Creek",
+        "color": "F7D5D8",
+        "codigo": "06-2P"
+    },
+    {
+        "titulo": "Flamingo Pink",
+        "color": "EEC2C6",
+        "codigo": "06-3P"
+    },
+    {
+        "titulo": "Tea Rose",
+        "color": "E1A9AF",
+        "codigo": "06-4T"
+    },
+    {
+        "titulo": "Pasadena Rose",
+        "color": "D6959D",
+        "codigo": "06-5T"
+    },
+    {
+        "titulo": "Coral Fairy",
+        "color": "C5767A",
+        "codigo": "06-6D"
+    },
+    {
+        "titulo": "Cameroon Rose",
+        "color": "B36669",
+        "codigo": "06-7D"
+    },
+    {
+        "titulo": "Sundried Tomato",
+        "color": "8F4741",
+        "codigo": "06-8A"
+    },
+    {
+        "titulo": "Barely Blush",
+        "color": "FEEAE9",
+        "codigo": "07-1P"
+    },
+    {
+        "titulo": "Whisper Of Rose",
+        "color": "FCDEE4",
+        "codigo": "07-2P"
+    },
+    {
+        "titulo": "Atta Girl",
+        "color": "F9CFD7",
+        "codigo": "07-3P"
+    },
+    {
+        "titulo": "Rose Amore",
+        "color": "F1BAC9",
+        "codigo": "07-4T"
+    },
+    {
+        "titulo": "Melita",
+        "color": "E7A3B1",
+        "codigo": "07-5T"
+    },
+    {
+        "titulo": "Let'S Be Cheery",
+        "color": "CC8666",
+        "codigo": "07-6D"
+    },
+    {
+        "titulo": "Strawberry Peak",
+        "color": "BD7758",
+        "codigo": "07-7D"
+    },
+    {
+        "titulo": "Crimson Crazed",
+        "color": 954036,
+        "codigo": "07-8A"
+    },
+    {
+        "titulo": "Fuschia Flash",
+        "color": "E67483",
+        "codigo": "08-7D"
+    },
+    {
+        "titulo": "Red Siren",
+        "color": "BB423A",
+        "codigo": "08-8A"
+    },
+    {
+        "titulo": "Daddy'S Girl",
+        "color": "FFEFF0",
+        "codigo": "09-1P"
+    },
+    {
+        "titulo": "Pleasant Pink",
+        "color": "FDDCDC",
+        "codigo": "09-2P"
+    },
+    {
+        "titulo": "Darcy Dawn",
+        "color": "FDD1D5",
+        "codigo": "09-3P"
+    },
+    {
+        "titulo": "Rosy Outlook",
+        "color": "F9C0C6",
+        "codigo": "09-4T"
+    },
+    {
+        "titulo": "Coral Burst",
+        "color": "F4ABB3",
+        "codigo": "09-5T"
+    },
+    {
+        "titulo": "Island Coral",
+        "color": "E88C8F",
+        "codigo": "09-6D"
+    },
+    {
+        "titulo": "From The Heart",
+        "color": "DA7577",
+        "codigo": "09-7D"
+    },
+    {
+        "titulo": "English Vermilion",
+        "color": "B35046",
+        "codigo": "09-8A"
+    },
+    {
+        "titulo": "Sweet Sunrise",
+        "color": "FCE7DF",
+        "codigo": "10-1P"
+    },
+    {
+        "titulo": "Sweet Treat",
+        "color": "F8D6D4",
+        "codigo": "10-2P"
+    },
+    {
+        "titulo": "Early Dawn",
+        "color": "EFC4C4",
+        "codigo": "10-3P"
+    },
+    {
+        "titulo": "Evening Rose",
+        "color": "E5B0B3",
+        "codigo": "10-4T"
+    },
+    {
+        "titulo": "Blossom Bouquet",
+        "color": "D5989A",
+        "codigo": "10-5T"
+    },
+    {
+        "titulo": "Roasted Rose",
+        "color": "C67978",
+        "codigo": "10-6D"
+    },
+    {
+        "titulo": "Arapaho Acres",
+        "color": "B0615A",
+        "codigo": "10-7D"
+    },
+    {
+        "titulo": "Boston Brick",
+        "color": "924B40",
+        "codigo": "10-8A"
+    },
+    {
+        "titulo": "Flower Girl",
+        "color": "FFF4F0",
+        "codigo": "11-1P"
+    },
+    {
+        "titulo": "Pink Plush",
+        "color": "FFE2E2",
+        "codigo": "11-2P"
+    },
+    {
+        "titulo": "Party Dress Pink",
+        "color": "FFD7DB",
+        "codigo": "11-3P"
+    },
+    {
+        "titulo": "Sunrise On The Seine",
+        "color": "FDBEC4",
+        "codigo": "11-4T"
+    },
+    {
+        "titulo": "Crab Apple Blossom",
+        "color": "F9AEB6",
+        "codigo": "11-5T"
+    },
+    {
+        "titulo": "Watermelon Wish",
+        "color": "F08B91",
+        "codigo": "11-6D"
+    },
+    {
+        "titulo": "Fruit Punch",
+        "color": "E6757A",
+        "codigo": "11-7D"
+    },
+    {
+        "titulo": "Red Rubber Ball",
+        "color": "C54238",
+        "codigo": "11-8A"
+    },
+    {
+        "titulo": "Pearl Pink",
+        "color": "FFF9F3",
+        "codigo": "12-1P"
+    },
+    {
+        "titulo": "Quiet Pink",
+        "color": "FFE5E2",
+        "codigo": "12-2P"
+    },
+    {
+        "titulo": "Piquant Pink",
+        "color": "FFD5D4",
+        "codigo": "12-3P"
+    },
+    {
+        "titulo": "Shy Shell",
+        "color": "FDC1C1",
+        "codigo": "12-4T"
+    },
+    {
+        "titulo": "Blushing Baby",
+        "color": "F9AEAE",
+        "codigo": "12-5T"
+    },
+    {
+        "titulo": "Coral Peach",
+        "color": "F18F8A",
+        "codigo": "12-6D"
+    },
+    {
+        "titulo": "Mona Lisa",
+        "color": "E87B78",
+        "codigo": "12-7D"
+    },
+    {
+        "titulo": "Chili Pepper",
+        "color": "BE4E42",
+        "codigo": "12-8A"
+    },
+    {
+        "titulo": "Cameo Kiss",
+        "color": "BE4E42",
+        "codigo": "13-1P"
+    },
+    {
+        "titulo": "Simply Shell",
+        "color": "F5CBC0",
+        "codigo": "13-2P"
+    },
+    {
+        "titulo": "Gleaming Shells",
+        "color": "EBB9AD",
+        "codigo": "13-3P"
+    },
+    {
+        "titulo": "Spanish Rose",
+        "color": "DA9E92",
+        "codigo": "13-4T"
+    },
+    {
+        "titulo": "Rosemount",
+        "color": "CE8D80",
+        "codigo": "13-5T"
+    },
+    {
+        "titulo": "Georgian Clay",
+        "color": "BD7360",
+        "codigo": "13-6D"
+    },
+    {
+        "titulo": "Rustic Pottery",
+        "color": "A95D4B",
+        "codigo": "13-7D"
+    },
+    {
+        "titulo": "Cinnabar Sand",
+        "color": 945141,
+        "codigo": "13-8A"
+    },
+    {
+        "titulo": "Delicate Glow",
+        "color": "FFF3E8",
+        "codigo": "14-1P"
+    },
+    {
+        "titulo": "Youthful Delight",
+        "color": "F7D0C1",
+        "codigo": "14-2P"
+    },
+    {
+        "titulo": "Peach Smoothie",
+        "color": "F0C3B2",
+        "codigo": "14-3P"
+    },
+    {
+        "titulo": "Tamarind",
+        "color": "E2AB9A",
+        "codigo": "14-4T"
+    },
+    {
+        "titulo": "Sunburnt Nose",
+        "color": "D29482",
+        "codigo": "14-5T"
+    },
+    {
+        "titulo": "Red River Canyon",
+        "color": "C37A62",
+        "codigo": "14-6D"
+    },
+    {
+        "titulo": "Redwood Valley",
+        "color": "B0674F",
+        "codigo": "14-7D"
+    },
+    {
+        "titulo": "Clay Tile Roof",
+        "color": "984F37",
+        "codigo": "14-8A"
+    },
+    {
+        "titulo": "Adanna Aire",
+        "color": "FEF0DD",
+        "codigo": "15-1P"
+    },
+    {
+        "titulo": "Gentle Hush",
+        "color": "F9D8BE",
+        "codigo": "15-2P"
+    },
+    {
+        "titulo": "Rogue Bluff",
+        "color": "F3C9B1",
+        "codigo": "15-3P"
+    },
+    {
+        "titulo": "Apricot Acclaim",
+        "color": "EDBFA3",
+        "codigo": "15-4T"
+    },
+    {
+        "titulo": "Cinnamon Toast",
+        "color": "E0AB8D",
+        "codigo": "15-5T"
+    },
+    {
+        "titulo": "Canyon Road",
+        "color": "D18D68",
+        "codigo": "15-6D"
+    },
+    {
+        "titulo": "Copper Canyon",
+        "color": "C27C57",
+        "codigo": "15-7D"
+    },
+    {
+        "titulo": "Pennies From Heaven",
+        "color": "9F5B39",
+        "codigo": "15-8A"
+    },
+    {
+        "titulo": "Face Of Innocence",
+        "color": "FFF2E3",
+        "codigo": "16-1P"
+    },
+    {
+        "titulo": "Hush Blush",
+        "color": "F9DAC8",
+        "codigo": "16-2P"
+    },
+    {
+        "titulo": "Tender Love Note",
+        "color": "F3CBB5",
+        "codigo": "16-3P"
+    },
+    {
+        "titulo": "Apple Annie",
+        "color": "E8B79E",
+        "codigo": "16-4T"
+    },
+    {
+        "titulo": "Adobe Acres",
+        "color": "DDA489",
+        "codigo": "16-5T"
+    },
+    {
+        "titulo": "Textured Terracotta",
+        "color": "CC8666",
+        "codigo": "16-6D"
+    },
+    {
+        "titulo": "Ancient Pottery",
+        "color": 736560,
+        "codigo": "16-7D"
+    },
+    {
+        "titulo": "Earthy Tarracotta",
+        "color": "9B5537",
+        "codigo": "16-8A"
+    },
+    {
+        "titulo": "Just Barely",
+        "color": "FDEFDC",
+        "codigo": "17-1P"
+    },
+    {
+        "titulo": "Sand Coral",
+        "color": "FADFCA",
+        "codigo": "17-2P"
+    },
+    {
+        "titulo": "Coral Beige",
+        "color": "F6D3B8",
+        "codigo": "17-3P"
+    },
+    {
+        "titulo": "Big On Beige",
+        "color": "E9BC9F",
+        "codigo": "17-4T"
+    },
+    {
+        "titulo": "Tangier",
+        "color": "DBA888",
+        "codigo": "17-5T"
+    },
+    {
+        "titulo": "Copper Creek",
+        "color": "CC8F68",
+        "codigo": "17-6D"
+    },
+    {
+        "titulo": "Copper Smith",
+        "color": "BB7B56",
+        "codigo": "17-7D"
+    },
+    {
+        "titulo": "Pueblo Pottery",
+        "color": "A36649",
+        "codigo": "17-8A"
+    },
+    {
+        "titulo": "Peach Tree Trail",
+        "color": "FFFBEC",
+        "codigo": "18-1P"
+    },
+    {
+        "titulo": "Pale Peach",
+        "color": "FFE8D5",
+        "codigo": "18-2P"
+    },
+    {
+        "titulo": "Salmon Run",
+        "color": "FFDCC8",
+        "codigo": "18-3P"
+    },
+    {
+        "titulo": "Salmon Springs",
+        "color": "FFCDB6",
+        "codigo": "18-4T"
+    },
+    {
+        "titulo": "Tango Mango",
+        "color": "FCB79C",
+        "codigo": "18-5T"
+    },
+    {
+        "titulo": "Orange Grove",
+        "color": "F79C77",
+        "codigo": "18-6D"
+    },
+    {
+        "titulo": "Terracotta Tease",
+        "color": "EC8660",
+        "codigo": "18-7D"
+    },
+    {
+        "titulo": "Burnt Chili",
+        "color": "BF5834",
+        "codigo": "18-8A"
+    },
+    {
+        "titulo": "Barely There",
+        "color": "FFFDF6",
+        "codigo": "19-1P"
+    },
+    {
+        "titulo": "Shy Shrimp",
+        "color": "FFE7DC",
+        "codigo": "19-2P"
+    },
+    {
+        "titulo": "Steamed Shrimp",
+        "color": "FFDCD0",
+        "codigo": "19-3P"
+    },
+    {
+        "titulo": "Apricot Attitude",
+        "color": "FDC6B8",
+        "codigo": "19-4T"
+    },
+    {
+        "titulo": "Apricot Afternoon",
+        "color": "FAB4A3",
+        "codigo": "19-5T"
+    },
+    {
+        "titulo": "Coral Coast",
+        "color": "F3977C",
+        "codigo": "19-6D"
+    },
+    {
+        "titulo": "Coral Sunset",
+        "color": "EA8268",
+        "codigo": "19-7D"
+    },
+    {
+        "titulo": "Fan The Flame",
+        "color": "BE5032",
+        "codigo": "19-8A"
+    },
+    {
+        "titulo": "Taffy Pull",
+        "color": "FFF0D9",
+        "codigo": "20-1P"
+    },
+    {
+        "titulo": "Walk On The Beach",
+        "color": "FFEFD0",
+        "codigo": "20-2P"
+    },
+    {
+        "titulo": "Sand Hills",
+        "color": "FBE2BE",
+        "codigo": "20-3P"
+    },
+    {
+        "titulo": "Ginger Peach",
+        "color": "F7D0A3",
+        "codigo": "20-4T"
+    },
+    {
+        "titulo": "Beach Bum",
+        "color": "EEC090",
+        "codigo": "20-5T"
+    },
+    {
+        "titulo": "Native Tan",
+        "color": "E1AA6F",
+        "codigo": "20-6D"
+    },
+    {
+        "titulo": "Council Bluffs",
+        "color": "D2975C",
+        "codigo": "20-7D"
+    },
+    {
+        "titulo": "Ground Nutmeg",
+        "color": "B1773E",
+        "codigo": "20-8A"
+    },
+    {
+        "titulo": "Fresh Ivory",
+        "color": "FDF5DE",
+        "codigo": "21-1P"
+    },
+    {
+        "titulo": "Natural Glow",
+        "color": "FDECD3",
+        "codigo": "21-2P"
+    },
+    {
+        "titulo": "Tyra Tan",
+        "color": "F8DDBA",
+        "codigo": "21-3P"
+    },
+    {
+        "titulo": "Sand Storm",
+        "color": "EECBA4",
+        "codigo": "21-4T"
+    },
+    {
+        "titulo": "Early Tan",
+        "color": "E6BC93",
+        "codigo": "21-5T"
+    },
+    {
+        "titulo": "Light Ginger",
+        "color": "D4A16F",
+        "codigo": "21-6D"
+    },
+    {
+        "titulo": "Moroccan Spice",
+        "color": "C58F5B",
+        "codigo": "21-7D"
+    },
+    {
+        "titulo": "Ginger Twist",
+        "color": "A16B3B",
+        "codigo": "21-8A"
+    },
+    {
+        "titulo": "Beigeful",
+        "color": "FFF0DB",
+        "codigo": "22-1P"
+    },
+    {
+        "titulo": "Baja Beige",
+        "color": "FFECD1",
+        "codigo": "22-2P"
+    },
+    {
+        "titulo": "Sandstone",
+        "color": "FCE0BD",
+        "codigo": "22-3P"
+    },
+    {
+        "titulo": "Ellora",
+        "color": "F6CEA6",
+        "codigo": "22-4T"
+    },
+    {
+        "titulo": "Southwest Sand",
+        "color": "EBBB90",
+        "codigo": "22-5T"
+    },
+    {
+        "titulo": "Chiminea",
+        "color": "DB9F6B",
+        "codigo": "22-6D"
+    },
+    {
+        "titulo": "Fall Canyon",
+        "color": "D39260",
+        "codigo": "22-7D"
+    },
+    {
+        "titulo": "Spice Island",
+        "color": "B06D3B",
+        "codigo": "22-8A"
+    },
+    {
+        "titulo": "Saltwater Taffy",
+        "color": "FFF2DF",
+        "codigo": "23-1P"
+    },
+    {
+        "titulo": "Blush Beige",
+        "color": "FDE6CC",
+        "codigo": "23-2P"
+    },
+    {
+        "titulo": "Baja Beach",
+        "color": "F9D7BA",
+        "codigo": "23-3P"
+    },
+    {
+        "titulo": "Southwest Magic",
+        "color": "EFC3A0",
+        "codigo": "23-4T"
+    },
+    {
+        "titulo": "Brick Dust",
+        "color": "E4B18B",
+        "codigo": "23-5T"
+    },
+    {
+        "titulo": "Cimarron Trail",
+        "color": "D39567",
+        "codigo": "23-6D"
+    },
+    {
+        "titulo": "Cinnamon Swept",
+        "color": "C3845A",
+        "codigo": "23-7D"
+    },
+    {
+        "titulo": "Copper Penny",
+        "color": "A7673D",
+        "codigo": "23-8A"
+    },
+    {
+        "titulo": "Melon Mist",
+        "color": "FFF1DA",
+        "codigo": "24-1P"
+    },
+    {
+        "titulo": "Soft Orange",
+        "color": "FFEACB",
+        "codigo": "24-2P"
+    },
+    {
+        "titulo": "Frosty Orange",
+        "color": "FFE0BA",
+        "codigo": "24-3P"
+    },
+    {
+        "titulo": "A La Orange",
+        "color": "FFD3A4",
+        "codigo": "24-4T"
+    },
+    {
+        "titulo": "Orange Embers",
+        "color": "FFC28F",
+        "codigo": "24-5T"
+    },
+    {
+        "titulo": "Orange Blossom Breeze",
+        "color": "FEAC68",
+        "codigo": "24-6D"
+    },
+    {
+        "titulo": "Citrus Grove",
+        "color": "F89652",
+        "codigo": "24-7D"
+    },
+    {
+        "titulo": "Fall Fiesta",
+        "color": "DB6A2F",
+        "codigo": "24-8A"
+    },
+    {
+        "titulo": "Apricot Mist",
+        "color": "FFF5E1",
+        "codigo": "25-1P"
+    },
+    {
+        "titulo": "Always Apricot",
+        "color": "FFEBD1",
+        "codigo": "25-2P"
+    },
+    {
+        "titulo": "Peach Place",
+        "color": "FFDFBD",
+        "codigo": "25-3P"
+    },
+    {
+        "titulo": "Tropical Fruit",
+        "color": "FFD2AB",
+        "codigo": "25-4T"
+    },
+    {
+        "titulo": "Melon Medley",
+        "color": "FFBE90",
+        "codigo": "25-5T"
+    },
+    {
+        "titulo": "Orange Nasturtium",
+        "color": "FCA46A",
+        "codigo": "25-6D"
+    },
+    {
+        "titulo": "Glorious Autumn",
+        "color": "F49055",
+        "codigo": "25-7D"
+    },
+    {
+        "titulo": "Home Fires",
+        "color": "D8652E",
+        "codigo": "25-8A"
+    },
+    {
+        "titulo": "Pleasant Peach",
+        "color": "FFF5E4",
+        "codigo": "26-1P"
+    },
+    {
+        "titulo": "Apricot Blush",
+        "color": "FFECD3",
+        "codigo": "26-2P"
+    },
+    {
+        "titulo": "Apricot Acres",
+        "color": "FFDFBF",
+        "codigo": "26-3P"
+    },
+    {
+        "titulo": "Peach Grove",
+        "color": "FFCAA9",
+        "codigo": "26-4T"
+    },
+    {
+        "titulo": "Slice Of Cantaloupe",
+        "color": "FFBB92",
+        "codigo": "26-5T"
+    },
+    {
+        "titulo": "Sunwashed Terracotta",
+        "color": "FCA56D",
+        "codigo": "26-6D"
+    },
+    {
+        "titulo": "Orange Delicia",
+        "color": "F88D56",
+        "codigo": "26-7D"
+    },
+    {
+        "titulo": "Snap Dragon",
+        "color": "E1632B",
+        "codigo": "26-8A"
+    },
+    {
+        "titulo": "Spring Sunlight",
+        "color": "FFF8DF",
+        "codigo": "27-1P"
+    },
+    {
+        "titulo": "Melon Frost",
+        "color": "FFEFCE",
+        "codigo": "27-2P"
+    },
+    {
+        "titulo": "Taste Of Melon",
+        "color": "FFE2B7",
+        "codigo": "27-3P"
+    },
+    {
+        "titulo": "Sliced Cantaloupe",
+        "color": "FFD2A0",
+        "codigo": "27-4T"
+    },
+    {
+        "titulo": "Radiant Sunrise",
+        "color": "FFC286",
+        "codigo": "27-5T"
+    },
+    {
+        "titulo": "Daylilies",
+        "color": "FFAF66",
+        "codigo": "27-6D"
+    },
+    {
+        "titulo": "Sunset Dream",
+        "color": "FD9E50",
+        "codigo": "27-7D"
+    },
+    {
+        "titulo": "Indian Paintbrush",
+        "color": "F07528",
+        "codigo": "27-8A"
+    },
+    {
+        "titulo": "Sunningdale",
+        "color": "FFF6DB",
+        "codigo": "28-1P"
+    },
+    {
+        "titulo": "Lazy Summer Day",
+        "color": "FFEFCE",
+        "codigo": "28-2P"
+    },
+    {
+        "titulo": "Gold Beach",
+        "color": "FFE6BE",
+        "codigo": "28-3P"
+    },
+    {
+        "titulo": "Melon Melody",
+        "color": "FFD6A0",
+        "codigo": "28-4T"
+    },
+    {
+        "titulo": "Golden City",
+        "color": "FFC68B",
+        "codigo": "28-5T"
+    },
+    {
+        "titulo": "Sunset Strip",
+        "color": "FFB366",
+        "codigo": "28-6D"
+    },
+    {
+        "titulo": "Sunset Cruise",
+        "color": "FCA04F",
+        "codigo": "28-7D"
+    },
+    {
+        "titulo": "Shocking Sunset",
+        "color": "E37729",
+        "codigo": "28-8A"
+    },
+    {
+        "titulo": "Soft Sherbet",
+        "color": "FFF5D9",
+        "codigo": "29-1P"
+    },
+    {
+        "titulo": "California Dreaming",
+        "color": "FFF0C8",
+        "codigo": "29-2P"
+    },
+    {
+        "titulo": "Lucky Locket",
+        "color": "FFE5BA",
+        "codigo": "29-3P"
+    },
+    {
+        "titulo": "Orange Haze",
+        "color": "FFD8A3",
+        "codigo": "29-4T"
+    },
+    {
+        "titulo": "Prairie Dusk",
+        "color": "FFCA8C",
+        "codigo": "29-5T"
+    },
+    {
+        "titulo": "Mimosa Magic",
+        "color": "FFB664",
+        "codigo": "29-6D"
+    },
+    {
+        "titulo": "Tangerine Dream",
+        "color": "FCA44F",
+        "codigo": "29-7D"
+    },
+    {
+        "titulo": "Orange Spice",
+        "color": "DC7D2A",
+        "codigo": "29-8A"
+    },
+    {
+        "titulo": "Yellow Cream",
+        "color": "FFFAD8",
+        "codigo": "30-1P"
+    },
+    {
+        "titulo": "Sunny Outlook",
+        "color": "FFF2CB",
+        "codigo": "30-2P"
+    },
+    {
+        "titulo": "Summer Heat",
+        "color": "FFE7B3",
+        "codigo": "30-3P"
+    },
+    {
+        "titulo": "Golden Light",
+        "color": "FFD893",
+        "codigo": "30-4T"
+    },
+    {
+        "titulo": "Late Day Sun",
+        "color": "FFC97B",
+        "codigo": "30-5T"
+    },
+    {
+        "titulo": "Tiger Lily Lady",
+        "color": "FFB85A",
+        "codigo": "30-6D"
+    },
+    {
+        "titulo": "Citrus Spice",
+        "color": "FFAA44",
+        "codigo": "30-7D"
+    },
+    {
+        "titulo": "Tuscan Orange",
+        "color": "FA8A1D",
+        "codigo": "30-8A"
+    },
+    {
+        "titulo": "Barely Beige",
+        "color": "FFFAE8",
+        "codigo": "31-1P"
+    },
+    {
+        "titulo": "Sands Of Time",
+        "color": "FFEDCA",
+        "codigo": "31-2P"
+    },
+    {
+        "titulo": "Up Front",
+        "color": "FDE3BB",
+        "codigo": "31-3P"
+    },
+    {
+        "titulo": "Head For The Beach",
+        "color": "F8D3A4",
+        "codigo": "31-4T"
+    },
+    {
+        "titulo": "Goldendale",
+        "color": "EDC28E",
+        "codigo": "31-5T"
+    },
+    {
+        "titulo": "Corona Ora",
+        "color": "E5B06F",
+        "codigo": "31-6D"
+    },
+    {
+        "titulo": "Follow The Sun",
+        "color": "D99E5C",
+        "codigo": "31-7D"
+    },
+    {
+        "titulo": "Belle Amber",
+        "color": "BA7D40",
+        "codigo": "31-8A"
+    },
+    {
+        "titulo": "Sunsation",
+        "color": "FFF6DB",
+        "codigo": "32-1P"
+    },
+    {
+        "titulo": "Summer Town",
+        "color": "FFF0C9",
+        "codigo": "32-2P"
+    },
+    {
+        "titulo": "Santa Fe Sun",
+        "color": "FFEBBB",
+        "codigo": "32-3P"
+    },
+    {
+        "titulo": "Afternoon Delight",
+        "color": "FFDC9B",
+        "codigo": "32-4T"
+    },
+    {
+        "titulo": "Sundry",
+        "color": "FFD186",
+        "codigo": "32-5T"
+    },
+    {
+        "titulo": "Marigold",
+        "color": "FEBA61",
+        "codigo": "32-6D"
+    },
+    {
+        "titulo": "Autumn Bloom",
+        "color": "F9AE4E",
+        "codigo": "32-7D"
+    },
+    {
+        "titulo": "Mexican Spice",
+        "color": "D88931",
+        "codigo": "32-8A"
+    },
+    {
+        "titulo": "Firefly Glow",
+        "color": "FFF5D1",
+        "codigo": "33-1P"
+    },
+    {
+        "titulo": "Sunburst",
+        "color": "FFEFBF",
+        "codigo": "33-2P"
+    },
+    {
+        "titulo": "Sun City",
+        "color": "FFE6AB",
+        "codigo": "33-3P"
+    },
+    {
+        "titulo": "Sun Room",
+        "color": "FFD689",
+        "codigo": "33-4T"
+    },
+    {
+        "titulo": "Entre Sol",
+        "color": "FFCE76",
+        "codigo": "33-5T"
+    },
+    {
+        "titulo": "Aztec Gold",
+        "color": "FFC050",
+        "codigo": "33-6D"
+    },
+    {
+        "titulo": "Duck'S Bill",
+        "color": "FFB235",
+        "codigo": "33-7D"
+    },
+    {
+        "titulo": "Pumpkin Patch",
+        "color": "FF9A04",
+        "codigo": "33-8A"
+    },
+    {
+        "titulo": "Egyptian Cotton",
+        "color": "FFFFF1",
+        "codigo": "34-1P"
+    },
+    {
+        "titulo": "Almond Biscotti",
+        "color": "FDEECE",
+        "codigo": "34-2P"
+    },
+    {
+        "titulo": "Sweet Summer",
+        "color": "FFEABF",
+        "codigo": "34-3P"
+    },
+    {
+        "titulo": "Yuma Yellow",
+        "color": "F5D8A7",
+        "codigo": "34-4T"
+    },
+    {
+        "titulo": "Waves Of Wheat",
+        "color": "EEC992",
+        "codigo": "34-5T"
+    },
+    {
+        "titulo": "Midas' Touch",
+        "color": "E0B26E",
+        "codigo": "34-6D"
+    },
+    {
+        "titulo": "Butterscotch Kiss",
+        "color": "D4A35D",
+        "codigo": "34-7D"
+    },
+    {
+        "titulo": "Golden Rondelle",
+        "color": "B2844A",
+        "codigo": "34-8A"
+    },
+    {
+        "titulo": "Cathy Cream",
+        "color": "FFFAD7",
+        "codigo": "35-1P"
+    },
+    {
+        "titulo": "Sun'S Up",
+        "color": "FFF2C7",
+        "codigo": "35-2P"
+    },
+    {
+        "titulo": "Butter Up",
+        "color": "FFEAB5",
+        "codigo": "35-3P"
+    },
+    {
+        "titulo": "Rise And Shine",
+        "color": "FFDF9E",
+        "codigo": "35-4T"
+    },
+    {
+        "titulo": "Shaft Of Gold",
+        "color": "FFD689",
+        "codigo": "35-5T"
+    },
+    {
+        "titulo": "The Gold Coast",
+        "color": "FFC560",
+        "codigo": "35-6D"
+    },
+    {
+        "titulo": "Power Of Gold",
+        "color": "F8B348",
+        "codigo": "35-7D"
+    },
+    {
+        "titulo": "Sienna Sunset",
+        "color": "DD9124",
+        "codigo": "35-8A"
+    },
+    {
+        "titulo": "Antique Cream",
+        "color": "FFFEEC",
+        "codigo": "36-1P"
+    },
+    {
+        "titulo": "Honey Cream",
+        "color": "FFF3CF",
+        "codigo": "36-2P"
+    },
+    {
+        "titulo": "Sunstone",
+        "color": "FFECC0",
+        "codigo": "36-3P"
+    },
+    {
+        "titulo": "Sunvilla",
+        "color": "FBDDA6",
+        "codigo": "36-4T"
+    },
+    {
+        "titulo": "Fringe Of Gold",
+        "color": "F7D090",
+        "codigo": "36-5T"
+    },
+    {
+        "titulo": "Southwest Sun",
+        "color": "EDBD6F",
+        "codigo": "36-6D"
+    },
+    {
+        "titulo": "Desert Sun",
+        "color": "E1AD5B",
+        "codigo": "36-7D"
+    },
+    {
+        "titulo": "Neoclassic Gold",
+        "color": "C68E3E",
+        "codigo": "36-8A"
+    },
+    {
+        "titulo": "Lemon Icing",
+        "color": "FFFEE1",
+        "codigo": "37-1P"
+    },
+    {
+        "titulo": "Sun Kissed",
+        "color": "FFF5C9",
+        "codigo": "37-2P"
+    },
+    {
+        "titulo": "Fresh Honey",
+        "color": "FFEFB9",
+        "codigo": "37-3P"
+    },
+    {
+        "titulo": "Golden Sunshine",
+        "color": "FFE5A4",
+        "codigo": "37-4T"
+    },
+    {
+        "titulo": "Golden Ray",
+        "color": "FFDA89",
+        "codigo": "37-5T"
+    },
+    {
+        "titulo": "Temple Of Gold",
+        "color": "FFCC64",
+        "codigo": "37-6D"
+    },
+    {
+        "titulo": "Desert Gold",
+        "color": "FCBF4C",
+        "codigo": "37-7D"
+    },
+    {
+        "titulo": "Galleon Gold",
+        "color": "E09A21",
+        "codigo": "37-8A"
+    },
+    {
+        "titulo": "Lemon Mist",
+        "color": "FFFEE6",
+        "codigo": "38-1P"
+    },
+    {
+        "titulo": "Dipped In Honey",
+        "color": "FFFBD6",
+        "codigo": "38-2P"
+    },
+    {
+        "titulo": "Sweet Honey",
+        "color": "FFF4C4",
+        "codigo": "38-3P"
+    },
+    {
+        "titulo": "Honey Bunch",
+        "color": "FFEBAE",
+        "codigo": "38-4T"
+    },
+    {
+        "titulo": "Daisy Heart",
+        "color": "FCDD95",
+        "codigo": "38-5T"
+    },
+    {
+        "titulo": "Stella D'Oro",
+        "color": "F8CC6E",
+        "codigo": "38-6D"
+    },
+    {
+        "titulo": "Golden Treasure",
+        "color": "F1C05C",
+        "codigo": "38-7D"
+    },
+    {
+        "titulo": "Golden Touch",
+        "color": "CC9732",
+        "codigo": "38-8A"
+    },
+    {
+        "titulo": "Kikidee",
+        "color": "FFFEEB",
+        "codigo": "39-1P"
+    },
+    {
+        "titulo": "Busy Beeswax",
+        "color": "FFF9D4",
+        "codigo": "39-2P"
+    },
+    {
+        "titulo": "Yellow Haze",
+        "color": "FEF3C3",
+        "codigo": "39-3P"
+    },
+    {
+        "titulo": "Hay Bale",
+        "color": "FCE6AB",
+        "codigo": "39-4T"
+    },
+    {
+        "titulo": "Lucky Lucy",
+        "color": "FDDE95",
+        "codigo": "39-5T"
+    },
+    {
+        "titulo": "Sunflower Meadow",
+        "color": "FAF2E2",
+        "codigo": "39-6D"
+    },
+    {
+        "titulo": "Acapulco Gold",
+        "color": "ECBC5B",
+        "codigo": "39-7D"
+    },
+    {
+        "titulo": "Heart Of Gold",
+        "color": "C49333",
+        "codigo": "39-8A"
+    },
+    {
+        "titulo": "Whipped Butter",
+        "color": "FFFAD6",
+        "codigo": "40-1P"
+    },
+    {
+        "titulo": "Sunday Sunshine",
+        "color": "FFF4C9",
+        "codigo": "40-2P"
+    },
+    {
+        "titulo": "Silky Corn",
+        "color": "FFECB2",
+        "codigo": "40-3P"
+    },
+    {
+        "titulo": "Yellow Brick Road",
+        "color": "FFE29A",
+        "codigo": "40-4T"
+    },
+    {
+        "titulo": "Mexican Maize",
+        "color": "FFD370",
+        "codigo": "40-5T"
+    },
+    {
+        "titulo": "Golden Sun",
+        "color": "FFC64B",
+        "codigo": "40-6D"
+    },
+    {
+        "titulo": "Foolish Gold",
+        "color": "FFB92C",
+        "codigo": "40-7D"
+    },
+    {
+        "titulo": "Magic Marigold",
+        "color": "FFA900",
+        "codigo": "40-8A"
+    },
+    {
+        "titulo": "Villa Del Sol",
+        "color": "FFFFE2",
+        "codigo": "41-1P"
+    },
+    {
+        "titulo": "Touch Of Sunshine",
+        "color": "FFFBCC",
+        "codigo": "41-2P"
+    },
+    {
+        "titulo": "Sun Ray",
+        "color": "FFF2AF",
+        "codigo": "41-3P"
+    },
+    {
+        "titulo": "Equator Sun",
+        "color": "FFEA9E",
+        "codigo": "41-4T"
+    },
+    {
+        "titulo": "Bee Happy",
+        "color": "FFE183",
+        "codigo": "41-5T"
+    },
+    {
+        "titulo": "Naples Yellow",
+        "color": "FFD459",
+        "codigo": "41-6D"
+    },
+    {
+        "titulo": "Yellow Slicker",
+        "color": "FFCB3B",
+        "codigo": "41-7D"
+    },
+    {
+        "titulo": "Good As Gold",
+        "color": "FFB400",
+        "codigo": "41-8A"
+    },
+    {
+        "titulo": "Dunbaro",
+        "color": "FFFFE4",
+        "codigo": "42-1P"
+    },
+    {
+        "titulo": "Country Sun",
+        "color": "FFFCD3",
+        "codigo": "42-2P"
+    },
+    {
+        "titulo": "Celebration Sun",
+        "color": "FFF5C0",
+        "codigo": "42-3P"
+    },
+    {
+        "titulo": "Sunswept",
+        "color": "FFEBA4",
+        "codigo": "42-4T"
+    },
+    {
+        "titulo": "Good Morning Sunshine",
+        "color": "FFE38E",
+        "codigo": "42-5T"
+    },
+    {
+        "titulo": "Sun Lover",
+        "color": "FFD565",
+        "codigo": "42-6D"
+    },
+    {
+        "titulo": "Golden Splendor",
+        "color": "FFCE50",
+        "codigo": "42-7D"
+    },
+    {
+        "titulo": "Old Gold",
+        "color": "F6AC16",
+        "codigo": "42-8A"
+    },
+    {
+        "titulo": "Lemony Note",
+        "color": "FFFFE0",
+        "codigo": "43-1P"
+    },
+    {
+        "titulo": "Lemon Puff",
+        "color": "FFFCD0",
+        "codigo": "43-2P"
+    },
+    {
+        "titulo": "Sunwashed Yellow",
+        "color": "FFF6BC",
+        "codigo": "43-3P"
+    },
+    {
+        "titulo": "Sun And Fun",
+        "color": "FFEFA6",
+        "codigo": "43-4T"
+    },
+    {
+        "titulo": "Sunny At Heart",
+        "color": "FFE68B",
+        "codigo": "43-5T"
+    },
+    {
+        "titulo": "Gold Canary",
+        "color": "FFDA62",
+        "codigo": "43-6D"
+    },
+    {
+        "titulo": "Golden Idol",
+        "color": "FFD144",
+        "codigo": "43-7D"
+    },
+    {
+        "titulo": "Golden Valley",
+        "color": "F5B702",
+        "codigo": "43-8A"
+    },
+    {
+        "titulo": "Buttered Popcorn",
+        "color": "FFFEE2",
+        "codigo": "44-1P"
+    },
+    {
+        "titulo": "Soft Light",
+        "color": "FFFCD3",
+        "codigo": "44-2P"
+    },
+    {
+        "titulo": "Kansas Wheat",
+        "color": "FFF7C9",
+        "codigo": "44-3P"
+    },
+    {
+        "titulo": "Honey Comb",
+        "color": "FDE9A9",
+        "codigo": "44-4T"
+    },
+    {
+        "titulo": "Golden Tortilla",
+        "color": "FAE19E",
+        "codigo": "44-5T"
+    },
+    {
+        "titulo": "Sunflower Petal",
+        "color": "F7CF70",
+        "codigo": "44-6D"
+    },
+    {
+        "titulo": "Golden Haystack",
+        "color": "E7BE5B",
+        "codigo": "44-7D"
+    },
+    {
+        "titulo": "Tucson Gold",
+        "color": "C99829",
+        "codigo": "44-8A"
+    },
+    {
+        "titulo": "Lemon Ice",
+        "color": "FFFFDF",
+        "codigo": "45-1P"
+    },
+    {
+        "titulo": "Young Yellow",
+        "color": "FFFCCF",
+        "codigo": "45-2P"
+    },
+    {
+        "titulo": "Sunglow",
+        "color": "FFF6B4",
+        "codigo": "45-3P"
+    },
+    {
+        "titulo": "Sonrisa",
+        "color": "FFEFA0",
+        "codigo": "45-4T"
+    },
+    {
+        "titulo": "High Noon",
+        "color": "FFE789",
+        "codigo": "45-5T"
+    },
+    {
+        "titulo": "Sun Catcher",
+        "color": "FFDD63",
+        "codigo": "45-6D"
+    },
+    {
+        "titulo": "Sundance",
+        "color": "FFD145",
+        "codigo": "45-7D"
+    },
+    {
+        "titulo": "King Midas",
+        "color": "FFBB00",
+        "codigo": "45-8A"
+    },
+    {
+        "titulo": "Chardonnay Club",
+        "color": "FFFFE2",
+        "codigo": "46-1P"
+    },
+    {
+        "titulo": "Gentle Sunbeam",
+        "color": "FFFDD3",
+        "codigo": "46-2P"
+    },
+    {
+        "titulo": "Shower Of Sunlight",
+        "color": "FFFBC2",
+        "codigo": "46-3P"
+    },
+    {
+        "titulo": "Plenty Of Sunshine",
+        "color": "FFF5A8",
+        "codigo": "46-4T"
+    },
+    {
+        "titulo": "Spanish Omelet",
+        "color": "FFEF91",
+        "codigo": "46-5T"
+    },
+    {
+        "titulo": "Yellow Bikini",
+        "color": "FFE66B",
+        "codigo": "46-6D"
+    },
+    {
+        "titulo": "Memoir Gold",
+        "color": "FFDD52",
+        "codigo": "46-7D"
+    },
+    {
+        "titulo": "Faded Splendor",
+        "color": "E4B620",
+        "codigo": "46-8A"
+    },
+    {
+        "titulo": "Candles Glowing",
+        "color": "FFFFE3",
+        "codigo": "47-1P"
+    },
+    {
+        "titulo": "Lemon Chiffon",
+        "color": "FFFFD0",
+        "codigo": "47-2P"
+    },
+    {
+        "titulo": "Bananarama",
+        "color": "FFFCB6",
+        "codigo": "47-3P"
+    },
+    {
+        "titulo": "A Place In The Sun",
+        "color": "FFF79F",
+        "codigo": "47-4T"
+    },
+    {
+        "titulo": "Very Lemon",
+        "color": "FFF390",
+        "codigo": "47-5T"
+    },
+    {
+        "titulo": "Melori Yellow",
+        "color": "FFEC64",
+        "codigo": "47-6D"
+    },
+    {
+        "titulo": "Sunny Side Up",
+        "color": "FFE447",
+        "codigo": "47-7D"
+    },
+    {
+        "titulo": "Dizzy Daffodil",
+        "color": "FFD300",
+        "codigo": "47-8A"
+    },
+    {
+        "titulo": "Chazaroo",
+        "color": "FFFFE0",
+        "codigo": "48-1P"
+    },
+    {
+        "titulo": "Always Sunny",
+        "color": "FFFED5",
+        "codigo": "48-2P"
+    },
+    {
+        "titulo": "Cinderella Sunshine",
+        "color": "FFFDC6",
+        "codigo": "48-3P"
+    },
+    {
+        "titulo": "Liquid Light",
+        "color": "FFF8B2",
+        "codigo": "48-4T"
+    },
+    {
+        "titulo": "City Lights",
+        "color": "FEF198",
+        "codigo": "48-5T"
+    },
+    {
+        "titulo": "Honey Hills",
+        "color": "FAE573",
+        "codigo": "48-6D"
+    },
+    {
+        "titulo": "Gold Field",
+        "color": "F3D756",
+        "codigo": "48-7D"
+    },
+    {
+        "titulo": "Green Vision",
+        "color": "E3FFDD",
+        "codigo": "61-3P"
+    },
+    {
+        "titulo": "Snappy Green",
+        "color": "BCF1BE",
+        "codigo": "61-4T"
+    },
+    {
+        "titulo": "Alligator Alley",
+        "color": "A6E7AC",
+        "codigo": "61-5T"
+    },
+    {
+        "titulo": "Pick Of The Meadow",
+        "color": "87D889",
+        "codigo": "61-6D"
+    },
+    {
+        "titulo": "Grateful For Green",
+        "color": "6CC573",
+        "codigo": "61-7D"
+    },
+    {
+        "titulo": "Lawn And Garden",
+        "color": "40A44A",
+        "codigo": "61-8A"
+    },
+    {
+        "titulo": "Green Ghost",
+        "color": "F5FFF2",
+        "codigo": "62-1P"
+    },
+    {
+        "titulo": "Spring Ahead",
+        "color": "DBFEE4",
+        "codigo": "62-2P"
+    },
+    {
+        "titulo": "Green Gleam",
+        "color": "C9F4D6",
+        "codigo": "62-3P"
+    },
+    {
+        "titulo": "Dogwood Leaf",
+        "color": "B5EDC6",
+        "codigo": "62-4T"
+    },
+    {
+        "titulo": "Garden Paradise",
+        "color": "9DE0AF",
+        "codigo": "62-5T"
+    },
+    {
+        "titulo": "Jasmine",
+        "color": "87D395",
+        "codigo": "62-6D"
+    },
+    {
+        "titulo": "Green Flight",
+        "color": "6ABE7B",
+        "codigo": "62-7D"
+    },
+    {
+        "titulo": "Tee Time",
+        "color": "3E9D60",
+        "codigo": "62-8A"
+    },
+    {
+        "titulo": "Little Gem",
+        "color": "EDFFF5",
+        "codigo": "63-1P"
+    },
+    {
+        "titulo": "Flash Of Emerald",
+        "color": "D6F6E0",
+        "codigo": "63-2P"
+    },
+    {
+        "titulo": "Fairy Garden Green",
+        "color": "CBF0D7",
+        "codigo": "63-3P"
+    },
+    {
+        "titulo": "Spring Garden",
+        "color": "B3E0C2",
+        "codigo": "63-4T"
+    },
+    {
+        "titulo": "Stroll In The Park",
+        "color": "9BD1AD",
+        "codigo": "63-5T"
+    },
+    {
+        "titulo": "Green Willow",
+        "color": "84BB8F",
+        "codigo": "63-6D"
+    },
+    {
+        "titulo": "Camellia Leaf",
+        "color": "6EA97A",
+        "codigo": "63-7D"
+    },
+    {
+        "titulo": "Girl Scout Green",
+        "color": "4C8555",
+        "codigo": "63-8A"
+    },
+    {
+        "titulo": "Soft Green",
+        "color": "ECFFF2",
+        "codigo": "64-1P"
+    },
+    {
+        "titulo": "Green Mist",
+        "color": "D4FCE8",
+        "codigo": "64-2P"
+    },
+    {
+        "titulo": "Green Guest",
+        "color": "B9F2D9",
+        "codigo": "64-3P"
+    },
+    {
+        "titulo": "Valley Vista",
+        "color": "A4EACC",
+        "codigo": "64-4T"
+    },
+    {
+        "titulo": "Gift Of Green",
+        "color": "8EDEBA",
+        "codigo": "64-5T"
+    },
+    {
+        "titulo": "Hanging Vine",
+        "color": "6FCD9D",
+        "codigo": "64-6D"
+    },
+    {
+        "titulo": "Gramercy Palm",
+        "color": "51B986",
+        "codigo": "64-7D"
+    },
+    {
+        "titulo": "Blade Of Grass",
+        "color": 248650,
+        "codigo": "64-8A"
+    },
+    {
+        "titulo": "Green Goddess",
+        "color": "EBFFFD",
+        "codigo": "65-1P"
+    },
+    {
+        "titulo": "English Countryside",
+        "color": "D1FDE9",
+        "codigo": "65-2P"
+    },
+    {
+        "titulo": "Irish Eyes",
+        "color": "C1F8DF",
+        "codigo": "65-3P"
+    },
+    {
+        "titulo": "Meandering Garden",
+        "color": "A3ECCE",
+        "codigo": "65-4T"
+    },
+    {
+        "titulo": "Sporting Green",
+        "color": "8BE3BC",
+        "codigo": "65-5T"
+    },
+    {
+        "titulo": "Green Gratitude",
+        "color": "68D09B",
+        "codigo": "65-6D"
+    },
+    {
+        "titulo": "Hidden Hosta",
+        "color": "52C089",
+        "codigo": "65-7D"
+    },
+    {
+        "titulo": "Great Green",
+        "color": "24A163",
+        "codigo": "65-8A"
+    },
+    {
+        "titulo": "Spring Preview",
+        "color": "E4FEF3",
+        "codigo": "66-1P"
+    },
+    {
+        "titulo": "Irish Countryside",
+        "color": "D3F8EC",
+        "codigo": "66-2P"
+    },
+    {
+        "titulo": "Shy Patina",
+        "color": "C3F3E4",
+        "codigo": "66-3P"
+    },
+    {
+        "titulo": "Heritage Garden",
+        "color": "00796A",
+        "codigo": "69-8A"
+    },
+    {
+        "titulo": "Tender Touch",
+        "color": "E0FFFC",
+        "codigo": "70-1P"
+    },
+    {
+        "titulo": "Seaside Glow",
+        "color": "CBF9F6",
+        "codigo": "70-2P"
+    },
+    {
+        "titulo": "Oceanside Paradise",
+        "color": "B9F3F2",
+        "codigo": "70-3P"
+    },
+    {
+        "titulo": "Aquainted With Aqua",
+        "color": "98E5E3",
+        "codigo": "70-4T"
+    },
+    {
+        "titulo": "Aqua Teal",
+        "color": "7ED5D4",
+        "codigo": "70-5T"
+    },
+    {
+        "titulo": "Summer Sensation",
+        "color": "53C1BC",
+        "codigo": "70-6D"
+    },
+    {
+        "titulo": "Summer Scene",
+        "color": "31AFAA",
+        "codigo": "70-7D"
+    },
+    {
+        "titulo": "Island Life",
+        "color": 8881,
+        "codigo": "70-8A"
+    },
+    {
+        "titulo": "Belize Breeze",
+        "color": "ECFFFE",
+        "codigo": "71-1P"
+    },
+    {
+        "titulo": "Hidden Springs",
+        "color": "CAF9F7",
+        "codigo": "71-2P"
+    },
+    {
+        "titulo": "Native Turquoise",
+        "color": "B6F2F1",
+        "codigo": "71-3P"
+    },
+    {
+        "titulo": "Turquoise Treat",
+        "color": "95E5E5",
+        "codigo": "71-4T"
+    },
+    {
+        "titulo": "Pleasant View",
+        "color": "75D8DA",
+        "codigo": "71-5T"
+    },
+    {
+        "titulo": "Caribbean Dream",
+        "color": "48C3C2",
+        "codigo": "71-6D"
+    },
+    {
+        "titulo": "Island Paradise",
+        "color": "24B3B0",
+        "codigo": "71-7D"
+    },
+    {
+        "titulo": "Beacon Hill",
+        "color": 9793,
+        "codigo": "71-8A"
+    },
+    {
+        "titulo": "Splash",
+        "color": "DDF9FA",
+        "codigo": "72-1P"
+    },
+    {
+        "titulo": "Swim Team",
+        "color": "C8F2F2",
+        "codigo": "72-2P"
+    },
+    {
+        "titulo": "Sky High",
+        "color": "B7EAEC",
+        "codigo": "72-3P"
+    },
+    {
+        "titulo": "Big Mossy Lake",
+        "color": "9ADCDF",
+        "codigo": "72-4T"
+    },
+    {
+        "titulo": "Treasures Of The Sea",
+        "color": "7EC9CF",
+        "codigo": "72-5T"
+    },
+    {
+        "titulo": "Good Mood",
+        "color": "5BB2B6",
+        "codigo": "72-6D"
+    },
+    {
+        "titulo": "Blue Fin Bay",
+        "color": "3DA0A3",
+        "codigo": "72-7D"
+    },
+    {
+        "titulo": "Restful Refuge",
+        "color": "1A7375",
+        "codigo": "72-8A"
+    },
+    {
+        "titulo": "Forgotten Secret",
+        "color": "DBFCF9",
+        "codigo": "73-1P"
+    },
+    {
+        "titulo": "Seaside Charm",
+        "color": "C9F3F4",
+        "codigo": "73-2P"
+    },
+    {
+        "titulo": "Call Of The Sea",
+        "color": "B6ECF2",
+        "codigo": "73-3P"
+    },
+    {
+        "titulo": "Wakeby Beach",
+        "color": "94DCE3",
+        "codigo": "73-4T"
+    },
+    {
+        "titulo": "Sycamore Creek",
+        "color": "77D1DA",
+        "codigo": "73-5T"
+    },
+    {
+        "titulo": "Brilliant Waves",
+        "color": "50BBC3",
+        "codigo": "73-6D"
+    },
+    {
+        "titulo": "Emerald Bay",
+        "color": "29A7AE",
+        "codigo": "73-7D"
+    },
+    {
+        "titulo": "Nature'S Glory",
+        "color": "156A70",
+        "codigo": "73-8A"
+    },
+    {
+        "titulo": "Spring Bounty",
+        "color": "DBF5F4",
+        "codigo": "74-1P"
+    },
+    {
+        "titulo": "Water'S Edge",
+        "color": "CBEBEE",
+        "codigo": "74-2P"
+    },
+    {
+        "titulo": "Scenic Shores",
+        "color": "B9E0E5",
+        "codigo": "74-3P"
+    },
+    {
+        "titulo": "Island House",
+        "color": "99CAD2",
+        "codigo": "74-4T"
+    },
+    {
+        "titulo": "Glenwood Springs",
+        "color": "89BBC4",
+        "codigo": "74-5T"
+    },
+    {
+        "titulo": "First Pick",
+        "color": "649CA4",
+        "codigo": "74-6D"
+    },
+    {
+        "titulo": "Country Green",
+        "color": "4F878F",
+        "codigo": "74-7D"
+    },
+    {
+        "titulo": "Nature'S Hideaway",
+        "color": "2F5C62",
+        "codigo": "74-8A"
+    },
+    {
+        "titulo": "Seaside Cottage",
+        "color": "E5FDF9",
+        "codigo": "75-1P"
+    },
+    {
+        "titulo": "Sea Waves",
+        "color": "CEF0F3",
+        "codigo": "75-2P"
+    },
+    {
+        "titulo": "Tropical Wave",
+        "color": "BBE3E6",
+        "codigo": "75-3P"
+    },
+    {
+        "titulo": "Underwater World",
+        "color": "9FD1D8",
+        "codigo": "75-4T"
+    },
+    {
+        "titulo": "Key Largo",
+        "color": "86C0C7",
+        "codigo": "75-5T"
+    },
+    {
+        "titulo": "Scuba Blue",
+        "color": "66A4AB",
+        "codigo": "75-6D"
+    },
+    {
+        "titulo": "Caribbean Day",
+        "color": "528F96",
+        "codigo": "75-7D"
+    },
+    {
+        "titulo": "Deep Blue Sea",
+        "color": "295F63",
+        "codigo": "75-8A"
+    },
+    {
+        "titulo": "South Bay",
+        "color": "D8F7F8",
+        "codigo": "76-1P"
+    },
+    {
+        "titulo": "Tear Drop",
+        "color": "CBF4FA",
+        "codigo": "76-2P"
+    },
+    {
+        "titulo": "Bridgewaters",
+        "color": "B5ECF5",
+        "codigo": "76-3P"
+    },
+    {
+        "titulo": "Southern Skies",
+        "color": "91DBE9",
+        "codigo": "76-4T"
+    },
+    {
+        "titulo": "A Touch Of Teal",
+        "color": "A8E5D2",
+        "codigo": "66-4T"
+    },
+    {
+        "titulo": "Kentucky Blue Grass",
+        "color": "8ED6C2",
+        "codigo": "66-5T"
+    },
+    {
+        "titulo": "Fishs Eddy",
+        "color": "71C1A7",
+        "codigo": "66-6D"
+    },
+    {
+        "titulo": "Jade Jewel",
+        "color": "55AB8F",
+        "codigo": "66-7D"
+    },
+    {
+        "titulo": "Timeless Teal",
+        "color": 358165,
+        "codigo": "66-8A"
+    },
+    {
+        "titulo": "Hazel'S Eyes",
+        "color": "E6FFF4",
+        "codigo": "67-1P"
+    },
+    {
+        "titulo": "Emerald Ice",
+        "color": "C9FBF2",
+        "codigo": "67-2P"
+    },
+    {
+        "titulo": "Clean Green",
+        "color": "B3F4E9",
+        "codigo": "67-3P"
+    },
+    {
+        "titulo": "Teal Tease",
+        "color": "97E9DB",
+        "codigo": "67-4T"
+    },
+    {
+        "titulo": "Emerald Gem",
+        "color": "7CDFCF",
+        "codigo": "67-5T"
+    },
+    {
+        "titulo": "Cool As A Cuke",
+        "color": "5DD0B9",
+        "codigo": "67-6D"
+    },
+    {
+        "titulo": "Jolt Of Jade",
+        "color": "30B89F",
+        "codigo": "67-7D"
+    },
+    {
+        "titulo": "Wild Mallard",
+        "color": "0D7B65",
+        "codigo": "67-8A"
+    },
+    {
+        "titulo": "Sea Swirl",
+        "color": "DAFDF8",
+        "codigo": "68-1P"
+    },
+    {
+        "titulo": "Spring Rain",
+        "color": "CFFBF1",
+        "codigo": "68-2P"
+    },
+    {
+        "titulo": "By The Sea",
+        "color": "B7F1E9",
+        "codigo": "68-3P"
+    },
+    {
+        "titulo": "Sea Glass",
+        "color": "A2E6DB",
+        "codigo": "68-4T"
+    },
+    {
+        "titulo": "Irish Glory",
+        "color": "88D9CC",
+        "codigo": "68-5T"
+    },
+    {
+        "titulo": "Palo Verde",
+        "color": "66C4B1",
+        "codigo": "68-6D"
+    },
+    {
+        "titulo": "Creating Tranquility",
+        "color": "46AE9B",
+        "codigo": "68-7D"
+    },
+    {
+        "titulo": "Four Leaf Clover",
+        "color": "22816D",
+        "codigo": "68-8A"
+    },
+    {
+        "titulo": "Aegean Mist",
+        "color": "E4FFFA",
+        "codigo": "69-1P"
+    },
+    {
+        "titulo": "Fresh Air",
+        "color": "CAFAF2",
+        "codigo": "69-2P"
+    },
+    {
+        "titulo": "Skywatch",
+        "color": "B8F4ED",
+        "codigo": "69-3P"
+    },
+    {
+        "titulo": "Undersea Garden",
+        "color": "97E4DC",
+        "codigo": "69-4T"
+    },
+    {
+        "titulo": "Opulent Ocean",
+        "color": "7BDAD0",
+        "codigo": "69-5T"
+    },
+    {
+        "titulo": "Cool Garden",
+        "color": "56C6B8",
+        "codigo": "69-6D"
+    },
+    {
+        "titulo": "High Spirits",
+        "color": "2CB3A2",
+        "codigo": "69-7D"
+    },
+    {
+        "titulo": "Bright Periwinkle",
+        "color": "96AFD2",
+        "codigo": "98-5T"
+    },
+    {
+        "titulo": "Portia",
+        "color": "7F95BA",
+        "codigo": "98-6D"
+    },
+    {
+        "titulo": "Languishing Lavender",
+        "color": "667DA4",
+        "codigo": "98-7D"
+    },
+    {
+        "titulo": "Queen'S Quest",
+        "color": 445575,
+        "codigo": "98-8A"
+    },
+    {
+        "titulo": "Clarity",
+        "color": "E2F2FD",
+        "codigo": "99-1P"
+    },
+    {
+        "titulo": "Romania",
+        "color": "DBEAFA",
+        "codigo": "99-2P"
+    },
+    {
+        "titulo": "Purple Sky",
+        "color": "CDE0F6",
+        "codigo": "99-3P"
+    },
+    {
+        "titulo": "Lady Lavender",
+        "color": "B2C9E9",
+        "codigo": "99-4T"
+    },
+    {
+        "titulo": "Lavender Lake",
+        "color": "9DB7DD",
+        "codigo": "99-5T"
+    },
+    {
+        "titulo": "Bachelor Button",
+        "color": "7F9AC7",
+        "codigo": "99-6D"
+    },
+    {
+        "titulo": "Lilac Lake",
+        "color": "6581B1",
+        "codigo": "99-7D"
+    },
+    {
+        "titulo": "Royal Orchard",
+        "color": "475F93",
+        "codigo": "99-8A"
+    },
+    {
+        "titulo": "Gentle Breeze",
+        "color": "E4F0FB",
+        "codigo": "100-1P"
+    },
+    {
+        "titulo": "Jungle Vine",
+        "color": 779170,
+        "codigo": "134-7D"
+    },
+    {
+        "titulo": "Lush Green",
+        "color": "516D52",
+        "codigo": "134-8A"
+    },
+    {
+        "titulo": "Spring Break",
+        "color": "F3FAE8",
+        "codigo": "135-1P"
+    },
+    {
+        "titulo": "Something Green",
+        "color": "E6F1DA",
+        "codigo": "135-2P"
+    },
+    {
+        "titulo": "Sweet Alfalfa",
+        "color": "DAE5C9",
+        "codigo": "135-3P"
+    },
+    {
+        "titulo": "Garden Walkway",
+        "color": "C8D6B6",
+        "codigo": "135-4T"
+    },
+    {
+        "titulo": "Silky Sage",
+        "color": "B5C3A0",
+        "codigo": "135-5T"
+    },
+    {
+        "titulo": "Canopy Of Trees",
+        "color": "A0AC7F",
+        "codigo": "135-6D"
+    },
+    {
+        "titulo": "Western Sage",
+        "color": "919F75",
+        "codigo": "135-7D"
+    },
+    {
+        "titulo": "Hidden Ravine",
+        "color": "626F48",
+        "codigo": "135-8A"
+    },
+    {
+        "titulo": "Spinney Mountain",
+        "color": "F2F7E1",
+        "codigo": "136-1P"
+    },
+    {
+        "titulo": "Think Spring",
+        "color": "EFF2D7",
+        "codigo": "136-2P"
+    },
+    {
+        "titulo": "Garden Inspiration",
+        "color": "E0E5C7",
+        "codigo": "136-3P"
+    },
+    {
+        "titulo": "Ice Palace",
+        "color": "CEE1E6",
+        "codigo": "173-2P"
+    },
+    {
+        "titulo": "Hatteras Haze",
+        "color": "BFD3DB",
+        "codigo": "173-3P"
+    },
+    {
+        "titulo": "Moonlit Pool",
+        "color": "A5BFCB",
+        "codigo": "173-4T"
+    },
+    {
+        "titulo": "Feather River",
+        "color": "90ABB9",
+        "codigo": "173-5T"
+    },
+    {
+        "titulo": "Roxton Pond",
+        "color": "718C99",
+        "codigo": "173-6D"
+    },
+    {
+        "titulo": "Cool Shadow",
+        "color": "637D8A",
+        "codigo": "173-7D"
+    },
+    {
+        "titulo": "The Dark Side",
+        "color": "3F4C52",
+        "codigo": "173-8A"
+    },
+    {
+        "titulo": "Mountain Springs",
+        "color": "E2F2F2",
+        "codigo": "174-1P"
+    },
+    {
+        "titulo": "Bright Brook",
+        "color": "CEE7EF",
+        "codigo": "174-2P"
+    },
+    {
+        "titulo": "Soft Dreams",
+        "color": "BBD8E2",
+        "codigo": "174-3P"
+    },
+    {
+        "titulo": "Seashore Dream",
+        "color": "A2C4D2",
+        "codigo": "174-4T"
+    },
+    {
+        "titulo": "Belle Of Blue",
+        "color": "8BB1C1",
+        "codigo": "174-5T"
+    },
+    {
+        "titulo": "Perfect Harmony",
+        "color": "6A91A0",
+        "codigo": "174-6D"
+    },
+    {
+        "titulo": "Deep Pool",
+        "color": "557C8B",
+        "codigo": "174-7D"
+    },
+    {
+        "titulo": "Bayou Blue",
+        "color": "3B4F58",
+        "codigo": "174-8A"
+    },
+    {
+        "titulo": "Moon Dance",
+        "color": "E5F5F5",
+        "codigo": "175-1P"
+    },
+    {
+        "titulo": "Crystal River",
+        "color": "CEE6E8",
+        "codigo": "175-2P"
+    },
+    {
+        "titulo": "Diamond Day",
+        "color": "BED9DC",
+        "codigo": "175-3P"
+    },
+    {
+        "titulo": "Misty Windowpane",
+        "color": "A4C7CD",
+        "codigo": "175-4T"
+    },
+    {
+        "titulo": "Colter Bay",
+        "color": "8BB0B7",
+        "codigo": "175-5T"
+    },
+    {
+        "titulo": "Grey Rain",
+        "color": "6F9298",
+        "codigo": "175-6D"
+    },
+    {
+        "titulo": "Bay Cruise",
+        "color": "56787D",
+        "codigo": "175-7D"
+    },
+    {
+        "titulo": "May Night",
+        "color": "364A4C",
+        "codigo": "175-8A"
+    },
+    {
+        "titulo": "Wisps Of Clouds",
+        "color": "E8F4F1",
+        "codigo": "176-1P"
+    },
+    {
+        "titulo": "Murano Mist",
+        "color": "D2E3E2",
+        "codigo": "176-2P"
+    },
+    {
+        "titulo": "Glacier Stream",
+        "color": "C1D4D5",
+        "codigo": "176-3P"
+    },
+    {
+        "titulo": "Wolf Creek",
+        "color": "AAC0C2",
+        "codigo": "176-4T"
+    },
+    {
+        "titulo": "Mountain Music",
+        "color": "95ADB0",
+        "codigo": "176-5T"
+    },
+    {
+        "titulo": "Hidden Cove",
+        "color": "768B8C",
+        "codigo": "176-6D"
+    },
+    {
+        "titulo": "Bridging The Bay",
+        "color": 617575,
+        "codigo": "176-7D"
+    },
+    {
+        "titulo": "Ebony Coast",
+        "color": 334241,
+        "codigo": "176-8A"
+    },
+    {
+        "titulo": "Navajo Jewel",
+        "color": "78CEDC",
+        "codigo": "76-5T"
+    },
+    {
+        "titulo": "Brooks Bay",
+        "color": "52B9C8",
+        "codigo": "76-6D"
+    },
+    {
+        "titulo": "Newport",
+        "color": "2FA7B5",
+        "codigo": "76-7D"
+    },
+    {
+        "titulo": "Bountiful Bay",
+        "color": 7986,
+        "codigo": "76-8A"
+    },
+    {
+        "titulo": "Follow The Tradewinds",
+        "color": "D6F4F7",
+        "codigo": "77-1P"
+    },
+    {
+        "titulo": "Drift Away",
+        "color": "C8EFF6",
+        "codigo": "77-2P"
+    },
+    {
+        "titulo": "Whirlpool",
+        "color": "B1E5F2",
+        "codigo": "77-3P"
+    },
+    {
+        "titulo": "Brisk Blue",
+        "color": "93D3E3",
+        "codigo": "77-4T"
+    },
+    {
+        "titulo": "Brighton Beach",
+        "color": "75C2D7",
+        "codigo": "77-5T"
+    },
+    {
+        "titulo": "Secrets Of The Sea",
+        "color": "56ABBF",
+        "codigo": "77-6D"
+    },
+    {
+        "titulo": "High Country Twilight",
+        "color": "3995AA",
+        "codigo": "77-7D"
+    },
+    {
+        "titulo": "Prairie Night",
+        "color": "2C7181",
+        "codigo": "77-8A"
+    },
+    {
+        "titulo": "Shining Sea",
+        "color": "DFF9F9",
+        "codigo": "78-1P"
+    },
+    {
+        "titulo": "Ocean View",
+        "color": "CAEDF3",
+        "codigo": "78-2P"
+    },
+    {
+        "titulo": "Silver Turquoise",
+        "color": "BBE3ED",
+        "codigo": "78-3P"
+    },
+    {
+        "titulo": "Sea Drift",
+        "color": "9DD0DF",
+        "codigo": "78-4T"
+    },
+    {
+        "titulo": "Levana",
+        "color": "84BDCF",
+        "codigo": "78-5T"
+    },
+    {
+        "titulo": "Pool Party",
+        "color": "63A5B6",
+        "codigo": "78-6D"
+    },
+    {
+        "titulo": "Exotic Port",
+        "color": "4A8D9F",
+        "codigo": "78-7D"
+    },
+    {
+        "titulo": "Deep Sea Treasure",
+        "color": "285F6E",
+        "codigo": "78-8A"
+    },
+    {
+        "titulo": "Soft Spun Cloud",
+        "color": "DBF6F7",
+        "codigo": "79-1P"
+    },
+    {
+        "titulo": "Gypsy Wind",
+        "color": "CCEFF8",
+        "codigo": "79-2P"
+    },
+    {
+        "titulo": "Bright'S Cove",
+        "color": "BAE1EF",
+        "codigo": "79-3P"
+    },
+    {
+        "titulo": "Sea Of Tranquility",
+        "color": "9DCEE0",
+        "codigo": "79-4T"
+    },
+    {
+        "titulo": "Barbados Blue",
+        "color": "85BDD3",
+        "codigo": "79-5T"
+    },
+    {
+        "titulo": "Belmont Blue",
+        "color": "69A3B8",
+        "codigo": "79-6D"
+    },
+    {
+        "titulo": "Blue Balance",
+        "color": "528EA5",
+        "codigo": "79-7D"
+    },
+    {
+        "titulo": "Dress Blues",
+        "color": 376476,
+        "codigo": "79-8A"
+    },
+    {
+        "titulo": "It'S Clear To See",
+        "color": "D5F2F9",
+        "codigo": "80-1P"
+    },
+    {
+        "titulo": "Baby Boy",
+        "color": "C8F0F9",
+        "codigo": "80-2P"
+    },
+    {
+        "titulo": "Port O' Call",
+        "color": "B7E5F2",
+        "codigo": "80-3P"
+    },
+    {
+        "titulo": "Jay'S Baby Blues",
+        "color": "91D0E4",
+        "codigo": "80-4T"
+    },
+    {
+        "titulo": "Bubbling Brook",
+        "color": "79C1D9",
+        "codigo": "80-5T"
+    },
+    {
+        "titulo": "Pleasant Lake",
+        "color": "58ABC3",
+        "codigo": "80-6D"
+    },
+    {
+        "titulo": "Country Bay",
+        "color": "3D94AE",
+        "codigo": "80-7D"
+    },
+    {
+        "titulo": "Blue By You",
+        "color": "246A81",
+        "codigo": "80-8A"
+    },
+    {
+        "titulo": "Whispering Breeze",
+        "color": "D9FBFF",
+        "codigo": "81-1P"
+    },
+    {
+        "titulo": "It'S A Boy",
+        "color": "CAF3FE",
+        "codigo": "81-2P"
+    },
+    {
+        "titulo": "Baby Shower Blue",
+        "color": "B2E7F7",
+        "codigo": "81-3P"
+    },
+    {
+        "titulo": "Clear Sky",
+        "color": "8FD8F3",
+        "codigo": "81-4T"
+    },
+    {
+        "titulo": "Blue Streak",
+        "color": "75CAE8",
+        "codigo": "81-5T"
+    },
+    {
+        "titulo": "The Big Blue",
+        "color": "4BB4D6",
+        "codigo": "81-6D"
+    },
+    {
+        "titulo": "Bali Blue",
+        "color": "25A3C5",
+        "codigo": "81-7D"
+    },
+    {
+        "titulo": "Canoe Lake",
+        "color": "0089AA",
+        "codigo": "81-8A"
+    },
+    {
+        "titulo": "Watery Blue",
+        "color": "D8F8FE",
+        "codigo": "82-1P"
+    },
+    {
+        "titulo": "Serene Thoughts",
+        "color": "C4EFFB",
+        "codigo": "82-2P"
+    },
+    {
+        "titulo": "Boy'S Room Blue",
+        "color": "B1E4F6",
+        "codigo": "82-3P"
+    },
+    {
+        "titulo": "Blues In The Breeze",
+        "color": "94D7F2",
+        "codigo": "82-4T"
+    },
+    {
+        "titulo": "Big Blue Sky",
+        "color": "79C8E7",
+        "codigo": "82-5T"
+    },
+    {
+        "titulo": "Maliblue",
+        "color": "55B4D6",
+        "codigo": "82-6D"
+    },
+    {
+        "titulo": "Bright Turquoise",
+        "color": "2C9DC2",
+        "codigo": "82-7D"
+    },
+    {
+        "titulo": "Deep Agua",
+        "color": 7899,
+        "codigo": "82-8A"
+    },
+    {
+        "titulo": "Country Breeze",
+        "color": "DAF5FE",
+        "codigo": "83-1P"
+    },
+    {
+        "titulo": "Tranquil Times",
+        "color": "CDF1FD",
+        "codigo": "83-2P"
+    },
+    {
+        "titulo": "Postcard Perfect",
+        "color": "B8E4F6",
+        "codigo": "83-3P"
+    },
+    {
+        "titulo": "Blue Bristol",
+        "color": "97D3EF",
+        "codigo": "83-4T"
+    },
+    {
+        "titulo": "Blooming Flax",
+        "color": "7DC1DD",
+        "codigo": "83-5T"
+    },
+    {
+        "titulo": "Blue Cadet",
+        "color": "57A4C5",
+        "codigo": "83-6D"
+    },
+    {
+        "titulo": "Tucker'S Toy",
+        "color": "4497BD",
+        "codigo": "83-7D"
+    },
+    {
+        "titulo": "Boy Scout Blue",
+        "color": "2C6E8C",
+        "codigo": "83-8A"
+    },
+    {
+        "titulo": "Clear Sailing",
+        "color": "DDF7FD",
+        "codigo": "84-1P"
+    },
+    {
+        "titulo": "After The Rain",
+        "color": "CAEEFB",
+        "codigo": "84-2P"
+    },
+    {
+        "titulo": "Cool Tradewinds",
+        "color": "B7E7FD",
+        "codigo": "84-3P"
+    },
+    {
+        "titulo": "Cloudless Sky",
+        "color": "99D4F0",
+        "codigo": "84-4T"
+    },
+    {
+        "titulo": "Open Sky",
+        "color": "7AC1E5",
+        "codigo": "84-5T"
+    },
+    {
+        "titulo": "Moody Blue",
+        "color": "5BAFD7",
+        "codigo": "84-6D"
+    },
+    {
+        "titulo": "Manhattan Blues",
+        "color": "3C9AC7",
+        "codigo": "84-7D"
+    },
+    {
+        "titulo": "Admiral Blue",
+        "color": "0B6C96",
+        "codigo": "84-8A"
+    },
+    {
+        "titulo": "Precious Dew Drop",
+        "color": "DAF5FB",
+        "codigo": "85-1P"
+    },
+    {
+        "titulo": "Watercolor Blue",
+        "color": "CBEBF9",
+        "codigo": "85-2P"
+    },
+    {
+        "titulo": "Chambray Blue",
+        "color": "BBE1F3",
+        "codigo": "85-3P"
+    },
+    {
+        "titulo": "Dauphine Lake",
+        "color": "9FCFE7",
+        "codigo": "85-4T"
+    },
+    {
+        "titulo": "Springfed Stream",
+        "color": "87BCD8",
+        "codigo": "85-5T"
+    },
+    {
+        "titulo": "Global Interest",
+        "color": "66A0BC",
+        "codigo": "85-6D"
+    },
+    {
+        "titulo": "Porta Luca",
+        "color": "4987A7",
+        "codigo": "85-7D"
+    },
+    {
+        "titulo": "Deep River",
+        "color": 32499999999999997704941825780530905857698924803599555981062680785372362959749120,
+        "codigo": "85-8A"
+    },
+    {
+        "titulo": "June Breeze",
+        "color": "E2F5FD",
+        "codigo": "86-1P"
+    },
+    {
+        "titulo": "Dream A Little Dream",
+        "color": "CDE8F7",
+        "codigo": "86-2P"
+    },
+    {
+        "titulo": "Lake Sylvan",
+        "color": "BDDFF1",
+        "codigo": "86-3P"
+    },
+    {
+        "titulo": "Picture Perfect",
+        "color": "A0CCE5",
+        "codigo": "86-4T"
+    },
+    {
+        "titulo": "Blooming Blue",
+        "color": "88BBD7",
+        "codigo": "86-5T"
+    },
+    {
+        "titulo": "Soaking Spa",
+        "color": "68A0BD",
+        "codigo": "86-6D"
+    },
+    {
+        "titulo": "Bay Fortune",
+        "color": "5489A7",
+        "codigo": "86-7D"
+    },
+    {
+        "titulo": "Wild Blueberry",
+        "color": "375F7A",
+        "codigo": "86-8A"
+    },
+    {
+        "titulo": "Barely Blue",
+        "color": "DDF6FD",
+        "codigo": "87-1P"
+    },
+    {
+        "titulo": "Swirling Water",
+        "color": "CBF0FE",
+        "codigo": "87-2P"
+    },
+    {
+        "titulo": "Beautiful Daydream",
+        "color": "B4E2F7",
+        "codigo": "87-3P"
+    },
+    {
+        "titulo": "Birthday Boy Blue",
+        "color": "99D0ED",
+        "codigo": "87-4T"
+    },
+    {
+        "titulo": "Blue Topaz",
+        "color": "7EC2E6",
+        "codigo": "87-5T"
+    },
+    {
+        "titulo": "Mineral Blue",
+        "color": "5BA8CF",
+        "codigo": "87-6D"
+    },
+    {
+        "titulo": "Sultry Sapphire",
+        "color": "4395C1",
+        "codigo": "87-7D"
+    },
+    {
+        "titulo": "Night Edition",
+        "color": "1F678E",
+        "codigo": "87-8A"
+    },
+    {
+        "titulo": "Sweet Water",
+        "color": "E5FCFF",
+        "codigo": "88-1P"
+    },
+    {
+        "titulo": "Gull Lake",
+        "color": "CEEFFF",
+        "codigo": "88-2P"
+    },
+    {
+        "titulo": "Blue Sky",
+        "color": "BAE4FE",
+        "codigo": "88-3P"
+    },
+    {
+        "titulo": "Sailing Party",
+        "color": "96D0F6",
+        "codigo": "88-4T"
+    },
+    {
+        "titulo": "Daily Blues",
+        "color": "80C2F0",
+        "codigo": "88-5T"
+    },
+    {
+        "titulo": "Wild Horizons",
+        "color": "5BA9DE",
+        "codigo": "88-6D"
+    },
+    {
+        "titulo": "Blue Chips",
+        "color": "3994D1",
+        "codigo": "88-7D"
+    },
+    {
+        "titulo": "Blue Laser",
+        "color": "1476B4",
+        "codigo": "88-8A"
+    },
+    {
+        "titulo": "Lake Of Swans",
+        "color": "DDF2FC",
+        "codigo": "89-1P"
+    },
+    {
+        "titulo": "Cloud-Wisped Sky",
+        "color": "CEEAFB",
+        "codigo": "89-2P"
+    },
+    {
+        "titulo": "Sapphire Mist",
+        "color": "C0E2FA",
+        "codigo": "89-3P"
+    },
+    {
+        "titulo": "Tried And True",
+        "color": "9ED0F2",
+        "codigo": "89-4T"
+    },
+    {
+        "titulo": "Wild Blue Yonder",
+        "color": "87BDE5",
+        "codigo": "89-5T"
+    },
+    {
+        "titulo": "Bedford Blue",
+        "color": "68A2CB",
+        "codigo": "89-6D"
+    },
+    {
+        "titulo": "Cascade Twilight",
+        "color": "4F8CBA",
+        "codigo": "89-7D"
+    },
+    {
+        "titulo": "Night Sky",
+        "color": "2E608E",
+        "codigo": "89-8A"
+    },
+    {
+        "titulo": "Smooth Sailing",
+        "color": "E0F2F9",
+        "codigo": "90-1P"
+    },
+    {
+        "titulo": "A Gentle Place",
+        "color": "D3ECFC",
+        "codigo": "90-2P"
+    },
+    {
+        "titulo": "Music Box",
+        "color": "C2DFF3",
+        "codigo": "90-3P"
+    },
+    {
+        "titulo": "Joyful Morning",
+        "color": "A5CBE5",
+        "codigo": "90-4T"
+    },
+    {
+        "titulo": "Blue Blazes",
+        "color": "8CB7D8",
+        "codigo": "90-5T"
+    },
+    {
+        "titulo": "Blue Plate Special",
+        "color": "709CBE",
+        "codigo": "90-6D"
+    },
+    {
+        "titulo": "Electric Blue",
+        "color": "5C86AA",
+        "codigo": "90-7D"
+    },
+    {
+        "titulo": "Cobalt Bay",
+        "color": "3F607F",
+        "codigo": "90-8A"
+    },
+    {
+        "titulo": "Billowing Clouds",
+        "color": "EBFEFF",
+        "codigo": "91-1P"
+    },
+    {
+        "titulo": "Tranquil Teresa",
+        "color": "D2EEFC",
+        "codigo": "91-2P"
+    },
+    {
+        "titulo": "Fresh Outlook",
+        "color": "BFDEF0",
+        "codigo": "91-3P"
+    },
+    {
+        "titulo": "Gaugin'S Blue",
+        "color": "A3CAE4",
+        "codigo": "91-4T"
+    },
+    {
+        "titulo": "Azure Sky",
+        "color": "8DBAD9",
+        "codigo": "91-5T"
+    },
+    {
+        "titulo": "The Wild Pacific",
+        "color": "6D9CBE",
+        "codigo": "91-6D"
+    },
+    {
+        "titulo": "River Nore",
+        "color": "5686AB",
+        "codigo": "91-7D"
+    },
+    {
+        "titulo": "Blue Blazer",
+        "color": 305877,
+        "codigo": "91-8A"
+    },
+    {
+        "titulo": "Walking On Air",
+        "color": "DEF4FD",
+        "codigo": "92-1P"
+    },
+    {
+        "titulo": "Clear Blue",
+        "color": "D1EDFE",
+        "codigo": "92-2P"
+    },
+    {
+        "titulo": "Busy Port",
+        "color": "BCE2F7",
+        "codigo": "92-3P"
+    },
+    {
+        "titulo": "Clear Day Dawns",
+        "color": "A0CDED",
+        "codigo": "92-4T"
+    },
+    {
+        "titulo": "Blue Brushstroke",
+        "color": "88BBE0",
+        "codigo": "92-5T"
+    },
+    {
+        "titulo": "Big Boy Blue",
+        "color": "6FA7D1",
+        "codigo": "92-6D"
+    },
+    {
+        "titulo": "Quiet Cove",
+        "color": "4F90BF",
+        "codigo": "92-7D"
+    },
+    {
+        "titulo": "Berry Blue",
+        "color": "2C6590",
+        "codigo": "92-8A"
+    },
+    {
+        "titulo": "Heather Heights",
+        "color": "DFF1FD",
+        "codigo": "93-1P"
+    },
+    {
+        "titulo": "Light Larkspur",
+        "color": "D3EBFD",
+        "codigo": "93-2P"
+    },
+    {
+        "titulo": "Light Cornflower",
+        "color": "BFDDF5",
+        "codigo": "93-3P"
+    },
+    {
+        "titulo": "Lilac Dew",
+        "color": "A1C8EA",
+        "codigo": "93-4T"
+    },
+    {
+        "titulo": "Tall Delphinium",
+        "color": "8BB8E0",
+        "codigo": "93-5T"
+    },
+    {
+        "titulo": "Periwinkle Wink",
+        "color": "719FCB",
+        "codigo": "93-6D"
+    },
+    {
+        "titulo": "Delphinium Day",
+        "color": "5989BB",
+        "codigo": "93-7D"
+    },
+    {
+        "titulo": "Royal Raisa",
+        "color": "3A6A9A",
+        "codigo": "93-8A"
+    },
+    {
+        "titulo": "Puff Of Cloud",
+        "color": "E9F8FF",
+        "codigo": "94-1P"
+    },
+    {
+        "titulo": "Kelsey Bay",
+        "color": "D3EBFD",
+        "codigo": "94-2P"
+    },
+    {
+        "titulo": "Inner Peace",
+        "color": "BFDDFA",
+        "codigo": "94-3P"
+    },
+    {
+        "titulo": "Oh Boy",
+        "color": "A4CCF4",
+        "codigo": "94-4T"
+    },
+    {
+        "titulo": "Cape Royale",
+        "color": "8CB8E6",
+        "codigo": "94-5T"
+    },
+    {
+        "titulo": "Playful Periwinkle",
+        "color": "6D9DD4",
+        "codigo": "94-6D"
+    },
+    {
+        "titulo": "River Of Dreams",
+        "color": "5487C2",
+        "codigo": "94-7D"
+    },
+    {
+        "titulo": "Be Imperial",
+        "color": "3769A5",
+        "codigo": "94-8A"
+    },
+    {
+        "titulo": "Frosted Windowpane",
+        "color": "E0F0FB",
+        "codigo": "95-1P"
+    },
+    {
+        "titulo": "Pale Azure",
+        "color": "D2EBFB",
+        "codigo": "95-2P"
+    },
+    {
+        "titulo": "Morning Sky",
+        "color": "C1DDF5",
+        "codigo": "95-3P"
+    },
+    {
+        "titulo": "Barbizon Blue",
+        "color": "A2C8EB",
+        "codigo": "95-4T"
+    },
+    {
+        "titulo": "Clear Skyscape",
+        "color": "8CB8E4",
+        "codigo": "95-5T"
+    },
+    {
+        "titulo": "Out Of The Blue",
+        "color": "71A0D3",
+        "codigo": "95-6D"
+    },
+    {
+        "titulo": "Cool Blue",
+        "color": "5786BE",
+        "codigo": "95-7D"
+    },
+    {
+        "titulo": "North Atlantic Blue",
+        "color": 35500000000000001829374265692271594160732875557513615201782931185533556956227639458199817420800,
+        "codigo": "95-8A"
+    },
+    {
+        "titulo": "Gulf Breeze",
+        "color": "E4F3FA",
+        "codigo": "96-1P"
+    },
+    {
+        "titulo": "Bellisima",
+        "color": "DAE8F4",
+        "codigo": "96-2P"
+    },
+    {
+        "titulo": "Safe Passage",
+        "color": "C7DAEC",
+        "codigo": "96-3P"
+    },
+    {
+        "titulo": "Piece Of The Sky",
+        "color": "ADC4DC",
+        "codigo": "96-4T"
+    },
+    {
+        "titulo": "Color Of Dreams",
+        "color": "93AFCF",
+        "codigo": "96-5T"
+    },
+    {
+        "titulo": "Live Jazz",
+        "color": "7E94B0",
+        "codigo": "96-6D"
+    },
+    {
+        "titulo": "Victorian Topaz",
+        "color": "5C7392",
+        "codigo": "96-7D"
+    },
+    {
+        "titulo": "First Class",
+        "color": "3D5068",
+        "codigo": "96-8A"
+    },
+    {
+        "titulo": "New Blue Dawn",
+        "color": "E7F2F6",
+        "codigo": "97-1P"
+    },
+    {
+        "titulo": "Phantom Lake",
+        "color": "DAE8F5",
+        "codigo": "97-2P"
+    },
+    {
+        "titulo": "Big Falls",
+        "color": "C7DAEC",
+        "codigo": "97-3P"
+    },
+    {
+        "titulo": "Kind Of Blue",
+        "color": "ADC4DC",
+        "codigo": "97-4T"
+    },
+    {
+        "titulo": "Periwinkle Pose",
+        "color": "97B0CC",
+        "codigo": "97-5T"
+    },
+    {
+        "titulo": "Lovely Lavender",
+        "color": "7E94B0",
+        "codigo": "97-6D"
+    },
+    {
+        "titulo": "Lady Vanessa",
+        "color": "5C7392",
+        "codigo": "97-7D"
+    },
+    {
+        "titulo": "King Of Kings",
+        "color": "3D5068",
+        "codigo": "97-8A"
+    },
+    {
+        "titulo": "Wisteria Way",
+        "color": "EAF4FD",
+        "codigo": "98-1P"
+    },
+    {
+        "titulo": "Periwinkle Promise",
+        "color": "DAEBFB",
+        "codigo": "98-2P"
+    },
+    {
+        "titulo": "Lavender Lass",
+        "color": "CBDBF0",
+        "codigo": "98-3P"
+    },
+    {
+        "titulo": "Violet Value",
+        "color": "B0C5E1",
+        "codigo": "98-4T"
+    },
+    {
+        "titulo": "Victoria Glacier",
+        "color": "D6E8FB",
+        "codigo": "100-2P"
+    },
+    {
+        "titulo": "Prince Charming",
+        "color": "C9DDF5",
+        "codigo": "100-3P"
+    },
+    {
+        "titulo": "Petite Purple",
+        "color": "ADC7E8",
+        "codigo": "100-4T"
+    },
+    {
+        "titulo": "Antique Lilac",
+        "color": "95B2DC",
+        "codigo": "100-5T"
+    },
+    {
+        "titulo": "Belle Of The Ball",
+        "color": "7994C4",
+        "codigo": "100-6D"
+    },
+    {
+        "titulo": "Purple Promise",
+        "color": "677EB0",
+        "codigo": "100-7D"
+    },
+    {
+        "titulo": "Pandora'S Purple",
+        "color": 475984,
+        "codigo": "100-8A"
+    },
+    {
+        "titulo": "Lavender Mist",
+        "color": "EBF5FE",
+        "codigo": "101-1P"
+    },
+    {
+        "titulo": "Dusty Lilac",
+        "color": "DFEBFB",
+        "codigo": "101-2P"
+    },
+    {
+        "titulo": "Shy Violet",
+        "color": "CFDBF1",
+        "codigo": "101-3P"
+    },
+    {
+        "titulo": "Spring Violets",
+        "color": "B7C7E6",
+        "codigo": "101-4T"
+    },
+    {
+        "titulo": "Heather Glen",
+        "color": "A1B5DD",
+        "codigo": "101-5T"
+    },
+    {
+        "titulo": "Violet Valley",
+        "color": "8899C4",
+        "codigo": "101-6D"
+    },
+    {
+        "titulo": "Idyll Iris",
+        "color": "7282B1",
+        "codigo": "101-7D"
+    },
+    {
+        "titulo": "Grape Magic",
+        "color": 546191,
+        "codigo": "101-8A"
+    },
+    {
+        "titulo": "Lavender Freeze",
+        "color": "ECF6FE",
+        "codigo": "102-1P"
+    },
+    {
+        "titulo": "Peony Place",
+        "color": "E2EAF9",
+        "codigo": "102-2P"
+    },
+    {
+        "titulo": "Poetic Purple",
+        "color": "CFDAEC",
+        "codigo": "102-3P"
+    },
+    {
+        "titulo": "Simply Lilac",
+        "color": "BAC8E6",
+        "codigo": "102-4T"
+    },
+    {
+        "titulo": "Purple Partner",
+        "color": "A6B4D6",
+        "codigo": "102-5T"
+    },
+    {
+        "titulo": "Enchantress Eve",
+        "color": "909DC1",
+        "codigo": "102-6D"
+    },
+    {
+        "titulo": "Luscious Lilac",
+        "color": "7480A8",
+        "codigo": "102-7D"
+    },
+    {
+        "titulo": "Iris Evening",
+        "color": "424C6A",
+        "codigo": "102-8A"
+    },
+    {
+        "titulo": "Purple Blush",
+        "color": "EFF5FF",
+        "codigo": "103-1P"
+    },
+    {
+        "titulo": "Little Grapette",
+        "color": "DDEAFE",
+        "codigo": "103-2P"
+    },
+    {
+        "titulo": "Miniature Iris",
+        "color": "CEDCF7",
+        "codigo": "103-3P"
+    },
+    {
+        "titulo": "Palace Prince",
+        "color": "B7C8EF",
+        "codigo": "103-4T"
+    },
+    {
+        "titulo": "Mountain Violet",
+        "color": "A1B5E1",
+        "codigo": "103-5T"
+    },
+    {
+        "titulo": "Blooming Pansies",
+        "color": "8899CD",
+        "codigo": "103-6D"
+    },
+    {
+        "titulo": "Vintage Grape",
+        "color": "6D80BA",
+        "codigo": "103-7D"
+    },
+    {
+        "titulo": "Regal Robe",
+        "color": "495B96",
+        "codigo": "103-8A"
+    },
+    {
+        "titulo": "Prelude To Purple",
+        "color": "E7F1FC",
+        "codigo": "104-1P"
+    },
+    {
+        "titulo": "Slight Nuance",
+        "color": "E0E8F7",
+        "codigo": "104-2P"
+    },
+    {
+        "titulo": "Easter Crocus",
+        "color": "D3DDF4",
+        "codigo": "104-3P"
+    },
+    {
+        "titulo": "Grape Fizz",
+        "color": "E8F1FF",
+        "codigo": "104-4T"
+    },
+    {
+        "titulo": "The Grape Vine",
+        "color": "A4B6DD",
+        "codigo": "104-5T"
+    },
+    {
+        "titulo": "Violet Vein",
+        "color": "8C98C5",
+        "codigo": "104-6D"
+    },
+    {
+        "titulo": "Purple Paradise",
+        "color": "7280B1",
+        "codigo": "104-7D"
+    },
+    {
+        "titulo": "Siberian Iris",
+        "color": 485984,
+        "codigo": "104-8A"
+    },
+    {
+        "titulo": "Proud Prudence",
+        "color": "EDF2F8",
+        "codigo": "105-1P"
+    },
+    {
+        "titulo": "Vanishing Violet",
+        "color": "E2EAF7",
+        "codigo": "105-2P"
+    },
+    {
+        "titulo": "Mystique",
+        "color": "D7DEF0",
+        "codigo": "105-3P"
+    },
+    {
+        "titulo": "Orchidarium",
+        "color": "C1CAE3",
+        "codigo": "105-4T"
+    },
+    {
+        "titulo": "Baby Baron",
+        "color": "A7B4D4",
+        "codigo": "105-5T"
+    },
+    {
+        "titulo": "Purple Plume",
+        "color": "9198BB",
+        "codigo": "105-6D"
+    },
+    {
+        "titulo": "Iris Anthem",
+        "color": "7880A4",
+        "codigo": "105-7D"
+    },
+    {
+        "titulo": "Iris By The Pond",
+        "color": 424662,
+        "codigo": "105-8A"
+    },
+    {
+        "titulo": "Royal Touch",
+        "color": "F0F2F9",
+        "codigo": "106-1P"
+    },
+    {
+        "titulo": "All'S Quiet",
+        "color": "DDE2F0",
+        "codigo": "106-2P"
+    },
+    {
+        "titulo": "Superstition",
+        "color": "D2D5E8",
+        "codigo": "106-3P"
+    },
+    {
+        "titulo": "Loyalist",
+        "color": "B9BED5",
+        "codigo": "106-4T"
+    },
+    {
+        "titulo": "Lined With Lavender",
+        "color": "A3AAC6",
+        "codigo": "106-5T"
+    },
+    {
+        "titulo": "Royal Attire",
+        "color": "888AA8",
+        "codigo": "106-6D"
+    },
+    {
+        "titulo": "Passion For Purple",
+        "color": 737593,
+        "codigo": "106-7D"
+    },
+    {
+        "titulo": "Irresistible Iris",
+        "color": "4B4D65",
+        "codigo": "106-8A"
+    },
+    {
+        "titulo": "Happy Heather",
+        "color": "EDF3F9",
+        "codigo": "107-1P"
+    },
+    {
+        "titulo": "Lady Friend",
+        "color": "E2E9F7",
+        "codigo": "107-2P"
+    },
+    {
+        "titulo": "Purple Profusion",
+        "color": "D5DCF3",
+        "codigo": "107-3P"
+    },
+    {
+        "titulo": "Crocus Queen",
+        "color": "C2C9E7",
+        "codigo": "107-4T"
+    },
+    {
+        "titulo": "Late Lilac",
+        "color": "ACB4D9",
+        "codigo": "107-5T"
+    },
+    {
+        "titulo": "Victoria'S Vanity",
+        "color": "9398C3",
+        "codigo": "107-6D"
+    },
+    {
+        "titulo": "Johnny Jump-Up",
+        "color": "7D81AE",
+        "codigo": "107-7D"
+    },
+    {
+        "titulo": "Royal Giant",
+        "color": 515781,
+        "codigo": "107-8A"
+    },
+    {
+        "titulo": "Soft Lavender",
+        "color": "E9F1FA",
+        "codigo": "108-1P"
+    },
+    {
+        "titulo": "Lavender Frost",
+        "color": "E2E6F6",
+        "codigo": "108-2P"
+    },
+    {
+        "titulo": "Wild Wisteria",
+        "color": "D5DAF2",
+        "codigo": "108-3P"
+    },
+    {
+        "titulo": "Lilac Lillian",
+        "color": "C4C8E7",
+        "codigo": "108-4T"
+    },
+    {
+        "titulo": "Lavender Link",
+        "color": "ACB5DD",
+        "codigo": "108-5T"
+    },
+    {
+        "titulo": "Rare Orchid",
+        "color": "9295C2",
+        "codigo": "108-6D"
+    },
+    {
+        "titulo": "Purple Statice",
+        "color": "7B7EAF",
+        "codigo": "108-7D"
+    },
+    {
+        "titulo": "Grape Expectations",
+        "color": "61658E",
+        "codigo": "108-8A"
+    },
+    {
+        "titulo": "Purple Pastel",
+        "color": "EFF0F8",
+        "codigo": "109-1P"
+    },
+    {
+        "titulo": "Lilac Light",
+        "color": "E8E8F6",
+        "codigo": "109-2P"
+    },
+    {
+        "titulo": "Lilac Bouquet",
+        "color": "D9DCF1",
+        "codigo": "109-3P"
+    },
+    {
+        "titulo": "Lavender Lane",
+        "color": "C8CAE8",
+        "codigo": "109-4T"
+    },
+    {
+        "titulo": "Lavish Lavender",
+        "color": "AEB2D9",
+        "codigo": "109-5T"
+    },
+    {
+        "titulo": "Violet Vanity",
+        "color": "9795BF",
+        "codigo": "109-6D"
+    },
+    {
+        "titulo": "Vivid Violet",
+        "color": "7F7DAD",
+        "codigo": "109-7D"
+    },
+    {
+        "titulo": "Premier Purple",
+        "color": "5E5B8A",
+        "codigo": "109-8A"
+    },
+    {
+        "titulo": "Purple Pretender",
+        "color": "F1F3FD",
+        "codigo": "110-1P"
+    },
+    {
+        "titulo": "Happy Easter",
+        "color": "E5E9F5",
+        "codigo": "110-2P"
+    },
+    {
+        "titulo": "Grape Grace",
+        "color": "D9DAED",
+        "codigo": "110-3P"
+    },
+    {
+        "titulo": "First Crocus",
+        "color": "D9DAED",
+        "codigo": "110-4T"
+    },
+    {
+        "titulo": "French Violet",
+        "color": "B1B3D6",
+        "codigo": "110-5T"
+    },
+    {
+        "titulo": "Vision In Violet",
+        "color": "9894BC",
+        "codigo": "110-6D"
+    },
+    {
+        "titulo": "Lush Lilac",
+        "color": "8380AA",
+        "codigo": "110-7D"
+    },
+    {
+        "titulo": "Italian Eggplant",
+        "color": "4E4C6C",
+        "codigo": "110-8A"
+    },
+    {
+        "titulo": "Iris Ice",
+        "color": "F6F9FD",
+        "codigo": "111-1P"
+    },
+    {
+        "titulo": "Melody Of May",
+        "color": "ECEAF6",
+        "codigo": "111-2P"
+    },
+    {
+        "titulo": "Lavender Magic",
+        "color": "D9D9ED",
+        "codigo": "111-3P"
+    },
+    {
+        "titulo": "Berkshire",
+        "color": "C6C5E0",
+        "codigo": "111-4T"
+    },
+    {
+        "titulo": "Lavender Lining",
+        "color": "B2B3D3",
+        "codigo": "111-5T"
+    },
+    {
+        "titulo": "Star Of The Garden",
+        "color": "9B96B8",
+        "codigo": "111-6D"
+    },
+    {
+        "titulo": "Peak Of Perfection",
+        "color": "847EA1",
+        "codigo": "111-7D"
+    },
+    {
+        "titulo": "Purple Power",
+        "color": "4A455D",
+        "codigo": "111-8A"
+    },
+    {
+        "titulo": "Pastel Purple",
+        "color": "F5F5FE",
+        "codigo": "112-1P"
+    },
+    {
+        "titulo": "More Lilac",
+        "color": "E8E7FB",
+        "codigo": "112-2P"
+    },
+    {
+        "titulo": "Lilac Frost",
+        "color": "DDDAF5",
+        "codigo": "112-3P"
+    },
+    {
+        "titulo": "Wild Lilac",
+        "color": "C5C2E8",
+        "codigo": "112-4T"
+    },
+    {
+        "titulo": "Violet Vision",
+        "color": "B2AFDC",
+        "codigo": "112-5T"
+    },
+    {
+        "titulo": "Paula'S Pansy",
+        "color": "9A91C4",
+        "codigo": "112-6D"
+    },
+    {
+        "titulo": "Versatile Violet",
+        "color": "827BB2",
+        "codigo": "112-7D"
+    },
+    {
+        "titulo": "Classic Iris",
+        "color": "635C92",
+        "codigo": "112-8A"
+    },
+    {
+        "titulo": "Miss America",
+        "color": "F2EFF5",
+        "codigo": "113-1P"
+    },
+    {
+        "titulo": "Infinite Grace",
+        "color": "EAE6F3",
+        "codigo": "113-2P"
+    },
+    {
+        "titulo": "Bonnie Belle",
+        "color": "E2DBED",
+        "codigo": "113-3P"
+    },
+    {
+        "titulo": "Parisian Purple",
+        "color": "CBC2DD",
+        "codigo": "113-4T"
+    },
+    {
+        "titulo": "Violet Virtue",
+        "color": "B7B2D0",
+        "codigo": "113-5T"
+    },
+    {
+        "titulo": "Country Lilac",
+        "color": "9D92B4",
+        "codigo": "113-6D"
+    },
+    {
+        "titulo": "Purple Pleasure",
+        "color": "897DA1",
+        "codigo": "113-7D"
+    },
+    {
+        "titulo": "Glory Of Grape",
+        "color": "594D69",
+        "codigo": "113-8A"
+    },
+    {
+        "titulo": "Grape Frost",
+        "color": "F3F3FB",
+        "codigo": "114-1P"
+    },
+    {
+        "titulo": "Purpurea",
+        "color": "ECE7F7",
+        "codigo": "114-2P"
+    },
+    {
+        "titulo": "Lavender Sparkle",
+        "color": "E2DAEF",
+        "codigo": "114-3P"
+    },
+    {
+        "titulo": "Crocus In The Snow",
+        "color": "CBC0DD",
+        "codigo": "114-4T"
+    },
+    {
+        "titulo": "Lilac Bush",
+        "color": "BAB1D3",
+        "codigo": "114-5T"
+    },
+    {
+        "titulo": "Woodland Violet",
+        "color": "A493BB",
+        "codigo": "114-6D"
+    },
+    {
+        "titulo": "Royal Orchid",
+        "color": "8F7BA5",
+        "codigo": "114-7D"
+    },
+    {
+        "titulo": "Concord Grape",
+        "color": "5B516C",
+        "codigo": "114-8A"
+    },
+    {
+        "titulo": "Whispering Wisteria",
+        "color": "F3F1FA",
+        "codigo": "115-1P"
+    },
+    {
+        "titulo": "Violet Vistas",
+        "color": "ECE4F5",
+        "codigo": "115-2P"
+    },
+    {
+        "titulo": "Amur Lilac",
+        "color": "E1D7F0",
+        "codigo": "115-3P"
+    },
+    {
+        "titulo": "Pleasant Purple",
+        "color": "D3C5E4",
+        "codigo": "115-4T"
+    },
+    {
+        "titulo": "Purple Reign",
+        "color": "BFAFD7",
+        "codigo": "115-5T"
+    },
+    {
+        "titulo": "Fancy Pansy",
+        "color": "A891BE",
+        "codigo": "115-6D"
+    },
+    {
+        "titulo": "Her Majesty",
+        "color": "8C78A7",
+        "codigo": "115-7D"
+    },
+    {
+        "titulo": "After The Crush",
+        "color": 695682,
+        "codigo": "115-8A"
+    },
+    {
+        "titulo": "Gay Paree",
+        "color": "F7F1F9",
+        "codigo": "116-1P"
+    },
+    {
+        "titulo": "Cherub Choir",
+        "color": "E8E2F0",
+        "codigo": "116-2P"
+    },
+    {
+        "titulo": "Best Bet",
+        "color": "E0D7E8",
+        "codigo": "116-3P"
+    },
+    {
+        "titulo": "Three Part Harmony",
+        "color": "CDC0D9",
+        "codigo": "116-4T"
+    },
+    {
+        "titulo": "Adora",
+        "color": "BDADCA",
+        "codigo": "116-5T"
+    },
+    {
+        "titulo": "Charm School",
+        "color": "A28BAC",
+        "codigo": "116-6D"
+    },
+    {
+        "titulo": "Marquis",
+        "color": "8A7594",
+        "codigo": "116-7D"
+    },
+    {
+        "titulo": "Lap Of Luxury",
+        "color": "4F4153",
+        "codigo": "116-8A"
+    },
+    {
+        "titulo": "Morning Mist",
+        "color": "F0EDF3",
+        "codigo": "117-1P"
+    },
+    {
+        "titulo": "Raspberry Whisper",
+        "color": "ECE2EF",
+        "codigo": "117-2P"
+    },
+    {
+        "titulo": "Girl Friend",
+        "color": "E4D7E7",
+        "codigo": "117-3P"
+    },
+    {
+        "titulo": "Purple Aster",
+        "color": "D2C1D9",
+        "codigo": "117-4T"
+    },
+    {
+        "titulo": "Pastel Piccadilly",
+        "color": "C2AECA",
+        "codigo": "117-5T"
+    },
+    {
+        "titulo": "Kitaka Kiss",
+        "color": "A78CAB",
+        "codigo": "117-6D"
+    },
+    {
+        "titulo": "Tropical Berry",
+        "color": "8F7393",
+        "codigo": "117-7D"
+    },
+    {
+        "titulo": "Plump Plum",
+        "color": "513F51",
+        "codigo": "117-8A"
+    },
+    {
+        "titulo": "Light Lilac",
+        "color": "F4F2FC",
+        "codigo": "118-1P"
+    },
+    {
+        "titulo": "Frosty Lilac",
+        "color": "ECE4F4",
+        "codigo": "118-2P"
+    },
+    {
+        "titulo": "Easter Party",
+        "color": "E5D6EF",
+        "codigo": "118-3P"
+    },
+    {
+        "titulo": "Regal Amethyst",
+        "color": "D4C0E3",
+        "codigo": "118-4T"
+    },
+    {
+        "titulo": "Spring Hyacinth",
+        "color": "C4A8D2",
+        "codigo": "118-5T"
+    },
+    {
+        "titulo": "Very Vanna",
+        "color": "AE8BBA",
+        "codigo": "118-6D"
+    },
+    {
+        "titulo": "Purple Pout",
+        "color": "9974A4",
+        "codigo": "118-7D"
+    },
+    {
+        "titulo": "Velvet Queen",
+        "color": 765781,
+        "codigo": "118-8A"
+    },
+    {
+        "titulo": "Sunrise Surprise",
+        "color": "F4EDF6",
+        "codigo": "119-1P"
+    },
+    {
+        "titulo": "April Anthem",
+        "color": "F2E7F3",
+        "codigo": "119-2P"
+    },
+    {
+        "titulo": "Mindful Of Mauve",
+        "color": "EADCEF",
+        "codigo": "119-3P"
+    },
+    {
+        "titulo": "Dusty Mauve",
+        "color": "D9C5E0",
+        "codigo": "119-4T"
+    },
+    {
+        "titulo": "Lorilee",
+        "color": "C8AFD0",
+        "codigo": "119-5T"
+    },
+    {
+        "titulo": "Juleen",
+        "color": "B28DB2",
+        "codigo": "119-6D"
+    },
+    {
+        "titulo": "Gala Gown",
+        "color": "9C78A1",
+        "codigo": "119-7D"
+    },
+    {
+        "titulo": "Elegant Eggplant",
+        "color": "674E6F",
+        "codigo": "119-8A"
+    },
+    {
+        "titulo": "Little Lilac",
+        "color": "F1EEFD",
+        "codigo": "120-1P"
+    },
+    {
+        "titulo": "Very Lavender",
+        "color": "F1E3F5",
+        "codigo": "120-2P"
+    },
+    {
+        "titulo": "Mistress Mary",
+        "color": "EBD5EE",
+        "codigo": "120-3P"
+    },
+    {
+        "titulo": "Coventry",
+        "color": "DBBFE3",
+        "codigo": "120-4T"
+    },
+    {
+        "titulo": "Divine Diana",
+        "color": "CDACD6",
+        "codigo": "120-5T"
+    },
+    {
+        "titulo": "Princess Di",
+        "color": "BB8DBF",
+        "codigo": "120-6D"
+    },
+    {
+        "titulo": "Star Blossom",
+        "color": "A877AD",
+        "codigo": "120-7D"
+    },
+    {
+        "titulo": "Plum Proud",
+        "color": 805483,
+        "codigo": "120-8A"
+    },
+    {
+        "titulo": "Easter Morn",
+        "color": "F7EEF7",
+        "codigo": "121-1P"
+    },
+    {
+        "titulo": "Angel Kiss",
+        "color": "F4E3F4",
+        "codigo": "121-2P"
+    },
+    {
+        "titulo": "Kiss-Me-Kate",
+        "color": "EDD5EA",
+        "codigo": "121-3P"
+    },
+    {
+        "titulo": "Heirloom Rose",
+        "color": "DCBEDD",
+        "codigo": "121-4T"
+    },
+    {
+        "titulo": "Rosy Glow",
+        "color": "CDA8CE",
+        "codigo": "121-5T"
+    },
+    {
+        "titulo": "Mauve Mood",
+        "color": "B789B1",
+        "codigo": "121-6D"
+    },
+    {
+        "titulo": "Gigi",
+        "color": "A0719C",
+        "codigo": "121-7D"
+    },
+    {
+        "titulo": "Boysenberry",
+        "color": "65435C",
+        "codigo": "121-8A"
+    },
+    {
+        "titulo": "Sweet Beginnings",
+        "color": "F2ECF8",
+        "codigo": "122-1P"
+    },
+    {
+        "titulo": "Amethyst Rosebud",
+        "color": "F2E2F3",
+        "codigo": "122-2P"
+    },
+    {
+        "titulo": "Katarina",
+        "color": "EAD1E9",
+        "codigo": "122-3P"
+    },
+    {
+        "titulo": "Always Adele",
+        "color": "DCBCDE",
+        "codigo": "122-4T"
+    },
+    {
+        "titulo": "Pure Allure",
+        "color": "CCA6CE",
+        "codigo": "122-5T"
+    },
+    {
+        "titulo": "Mi Amor",
+        "color": "B988B4",
+        "codigo": "122-6D"
+    },
+    {
+        "titulo": "Barrymore",
+        "color": "AB76A4",
+        "codigo": "122-7D"
+    },
+    {
+        "titulo": "Pantry Plum",
+        "color": "88557E",
+        "codigo": "122-8A"
+    },
+    {
+        "titulo": "Pixie Princess",
+        "color": "FFFCFE",
+        "codigo": "123-1P"
+    },
+    {
+        "titulo": "Myrtle Mist",
+        "color": "F1E0F4",
+        "codigo": "123-2P"
+    },
+    {
+        "titulo": "Easter Egg",
+        "color": "EAD4F0",
+        "codigo": "123-3P"
+    },
+    {
+        "titulo": "Fancy Tale",
+        "color": "E0BCDF",
+        "codigo": "123-4T"
+    },
+    {
+        "titulo": "Queen Of Angels",
+        "color": "D4A8D4",
+        "codigo": "123-5T"
+    },
+    {
+        "titulo": "Prom Dress",
+        "color": "C58BBD",
+        "codigo": "123-6D"
+    },
+    {
+        "titulo": "Intrepid Isabella",
+        "color": "B072A7",
+        "codigo": "123-7D"
+    },
+    {
+        "titulo": "Very Berry",
+        "color": 965284,
+        "codigo": "123-8A"
+    },
+    {
+        "titulo": "Pale Blush",
+        "color": "FEF4FB",
+        "codigo": "124-1P"
+    },
+    {
+        "titulo": "Crown Princess",
+        "color": "F3E3F3",
+        "codigo": "124-2P"
+    },
+    {
+        "titulo": "Easter Bonnet",
+        "color": "F3D6EB",
+        "codigo": "124-3P"
+    },
+    {
+        "titulo": "Morning Blush",
+        "color": "E2BCDC",
+        "codigo": "124-4T"
+    },
+    {
+        "titulo": "Malaguena",
+        "color": "D5A7CD",
+        "codigo": "124-5T"
+    },
+    {
+        "titulo": "Windsor Rose",
+        "color": "C68AB4",
+        "codigo": "124-6D"
+    },
+    {
+        "titulo": "Maggie May",
+        "color": "B3729F",
+        "codigo": "124-7D"
+    },
+    {
+        "titulo": "Tutti Frutti",
+        "color": "83496C",
+        "codigo": "124-8A"
+    },
+    {
+        "titulo": "Pink Pale",
+        "color": "F5E4E6",
+        "codigo": "125-1P"
+    },
+    {
+        "titulo": "Pink Confection",
+        "color": "F1DCE6",
+        "codigo": "125-2P"
+    },
+    {
+        "titulo": "Misty Mauve",
+        "color": "EAD1DF",
+        "codigo": "125-3P"
+    },
+    {
+        "titulo": "Soft Kiss",
+        "color": "DBBBD5",
+        "codigo": "125-4T"
+    },
+    {
+        "titulo": "Ariana Aire",
+        "color": "CBA8C6",
+        "codigo": "125-5T"
+    },
+    {
+        "titulo": "Berry Blush",
+        "color": "B786AA",
+        "codigo": "125-6D"
+    },
+    {
+        "titulo": "Rosy Queen",
+        "color": "A47094",
+        "codigo": "125-7D"
+    },
+    {
+        "titulo": "Plum Dandy",
+        "color": "6B455A",
+        "codigo": "125-8A"
+    },
+    {
+        "titulo": "Dainty Pink",
+        "color": "FFF7FA",
+        "codigo": "126-1P"
+    },
+    {
+        "titulo": "Petal'S Blush",
+        "color": "FAE2EF",
+        "codigo": "126-2P"
+    },
+    {
+        "titulo": "Cranberry Mist",
+        "color": "F6D7E8",
+        "codigo": "126-3P"
+    },
+    {
+        "titulo": "Hazel'S Pink",
+        "color": "E9BDD7",
+        "codigo": "126-4T"
+    },
+    {
+        "titulo": "Moss Rose",
+        "color": "DEA8C8",
+        "codigo": "126-5T"
+    },
+    {
+        "titulo": "Rose Of Heaven",
+        "color": "D08BAD",
+        "codigo": "126-6D"
+    },
+    {
+        "titulo": "Coral Bells",
+        "color": "BF7397",
+        "codigo": "126-7D"
+    },
+    {
+        "titulo": "Crushed Cranberry",
+        "color": "8C475D",
+        "codigo": "126-8A"
+    },
+    {
+        "titulo": "Aqua Appeal",
+        "color": "E3FEFA",
+        "codigo": "127-1P"
+    },
+    {
+        "titulo": "Provincial Park",
+        "color": "CEEFEE",
+        "codigo": "127-2P"
+    },
+    {
+        "titulo": "Calm Seas",
+        "color": "BCE3E3",
+        "codigo": "127-3P"
+    },
+    {
+        "titulo": "Misty Teal",
+        "color": "9FD2D4",
+        "codigo": "127-4T"
+    },
+    {
+        "titulo": "Brave Turquoise",
+        "color": "89C1C4",
+        "codigo": "127-5T"
+    },
+    {
+        "titulo": "Pacific Palisades",
+        "color": "6BA7A7",
+        "codigo": "127-6D"
+    },
+    {
+        "titulo": "Pinetree Trail",
+        "color": "4F8E8E",
+        "codigo": "127-7D"
+    },
+    {
+        "titulo": "Colorado Spruce",
+        "color": 396768,
+        "codigo": "127-8A"
+    },
+    {
+        "titulo": "Spring Banquet",
+        "color": "DBF5F5",
+        "codigo": "128-1P"
+    },
+    {
+        "titulo": "Emerald City",
+        "color": "CFEFEC",
+        "codigo": "128-2P"
+    },
+    {
+        "titulo": "Earth Day",
+        "color": "BDE2DE",
+        "codigo": "128-3P"
+    },
+    {
+        "titulo": "Sea Of Glass",
+        "color": "A4D3D0",
+        "codigo": "128-4T"
+    },
+    {
+        "titulo": "Shamrock Shores",
+        "color": "8DBDBB",
+        "codigo": "128-5T"
+    },
+    {
+        "titulo": "Lakeside View",
+        "color": "6EA09C",
+        "codigo": "128-6D"
+    },
+    {
+        "titulo": "Loire Valley",
+        "color": "568A85",
+        "codigo": "128-7D"
+    },
+    {
+        "titulo": "Majestic Pines",
+        "color": "31504C",
+        "codigo": "128-8A"
+    },
+    {
+        "titulo": "Spring Essence",
+        "color": "EAFCF2",
+        "codigo": "129-1P"
+    },
+    {
+        "titulo": "Eastern Light",
+        "color": "D2F0E9",
+        "codigo": "129-2P"
+    },
+    {
+        "titulo": "Garden Escape",
+        "color": "C0E4DC",
+        "codigo": "129-3P"
+    },
+    {
+        "titulo": "Erin Mae",
+        "color": "A6D4CD",
+        "codigo": "129-4T"
+    },
+    {
+        "titulo": "Shade Of Paradise",
+        "color": "8EC0B7",
+        "codigo": "129-5T"
+    },
+    {
+        "titulo": "Tropical Eden",
+        "color": "71A69A",
+        "codigo": "129-6D"
+    },
+    {
+        "titulo": "Playing The Field",
+        "color": 5980000000000000246231723455618707836200241899802222660861598867194273026959923478528,
+        "codigo": "129-7D"
+    },
+    {
+        "titulo": "Fraser Fir",
+        "color": 366358,
+        "codigo": "129-8A"
+    },
+    {
+        "titulo": "Green Filler",
+        "color": "E1F5EF",
+        "codigo": "130-1P"
+    },
+    {
+        "titulo": "Green Peace",
+        "color": "D4EDE6",
+        "codigo": "130-2P"
+    },
+    {
+        "titulo": "Terrace Garden",
+        "color": "C3E1DA",
+        "codigo": "130-3P"
+    },
+    {
+        "titulo": "Ornamental Grass",
+        "color": "A9CEC6",
+        "codigo": "130-4T"
+    },
+    {
+        "titulo": "Lily Pad",
+        "color": "94BEB6",
+        "codigo": "130-5T"
+    },
+    {
+        "titulo": "Garden Of Eden",
+        "color": "77A094",
+        "codigo": "130-6D"
+    },
+    {
+        "titulo": "High Hedge",
+        "color": "628B81",
+        "codigo": "130-7D"
+    },
+    {
+        "titulo": "Greens Fee",
+        "color": 416459,
+        "codigo": "130-8A"
+    },
+    {
+        "titulo": "Spring Inspiration",
+        "color": "E7FBEF",
+        "codigo": "131-1P"
+    },
+    {
+        "titulo": "Soft Jade",
+        "color": "D5F0E6",
+        "codigo": "131-2P"
+    },
+    {
+        "titulo": "Spring Bliss",
+        "color": "C4E4DA",
+        "codigo": "131-3P"
+    },
+    {
+        "titulo": "The Meadowlands",
+        "color": "A5CDC3",
+        "codigo": "131-4T"
+    },
+    {
+        "titulo": "Jade Jest",
+        "color": "95C2B6",
+        "codigo": "131-5T"
+    },
+    {
+        "titulo": "Forest Glen",
+        "color": "7AA896",
+        "codigo": "131-6D"
+    },
+    {
+        "titulo": "Sea Of Grass",
+        "color": "65907E",
+        "codigo": "131-7D"
+    },
+    {
+        "titulo": "Green Felt",
+        "color": "4A6D5F",
+        "codigo": "131-8A"
+    },
+    {
+        "titulo": "Glimpse Of Green",
+        "color": "EBFAEC",
+        "codigo": "132-1P"
+    },
+    {
+        "titulo": "My Garden",
+        "color": "DAF1E3",
+        "codigo": "132-2P"
+    },
+    {
+        "titulo": "New Leaf",
+        "color": "CAE6D4",
+        "codigo": "132-3P"
+    },
+    {
+        "titulo": "Fade To Jade",
+        "color": "B0D3C0",
+        "codigo": "132-4T"
+    },
+    {
+        "titulo": "Green Grace",
+        "color": "9DC2AC",
+        "codigo": "132-5T"
+    },
+    {
+        "titulo": "Soft Sage",
+        "color": "84A68C",
+        "codigo": "132-6D"
+    },
+    {
+        "titulo": "Carolina Pines",
+        "color": "6C8F76",
+        "codigo": "132-7D"
+    },
+    {
+        "titulo": "Timber Ridge",
+        "color": "4F6C56",
+        "codigo": "132-8A"
+    },
+    {
+        "titulo": "Chic Sprout",
+        "color": "E8F6EB",
+        "codigo": "133-1P"
+    },
+    {
+        "titulo": "Esmeralda Evening",
+        "color": "DBEDDE",
+        "codigo": "133-2P"
+    },
+    {
+        "titulo": "Prelude To Summer",
+        "color": "C9DFCE",
+        "codigo": "133-3P"
+    },
+    {
+        "titulo": "Botanical Print",
+        "color": "B2CCB8",
+        "codigo": "133-4T"
+    },
+    {
+        "titulo": "Pale Leaf",
+        "color": "9FBAA5",
+        "codigo": "133-5T"
+    },
+    {
+        "titulo": "Clover Park",
+        "color": "879F86",
+        "codigo": "133-6D"
+    },
+    {
+        "titulo": "Climbing Ivy",
+        "color": "6F8970",
+        "codigo": "133-7D"
+    },
+    {
+        "titulo": "Primeval Forest",
+        "color": "4C604C",
+        "codigo": "133-8A"
+    },
+    {
+        "titulo": "Summer Smile",
+        "color": "EDFAEA",
+        "codigo": "134-1P"
+    },
+    {
+        "titulo": "Garden Medley",
+        "color": "E1F0DD",
+        "codigo": "134-2P"
+    },
+    {
+        "titulo": "Palm Island",
+        "color": "D0E4CD",
+        "codigo": "134-3P"
+    },
+    {
+        "titulo": "Peppermint Twist",
+        "color": "BBD2B9",
+        "codigo": "134-4T"
+    },
+    {
+        "titulo": "Fuzzy Fiddleheads",
+        "color": "A9C3A7",
+        "codigo": "134-5T"
+    },
+    {
+        "titulo": "Grassy Path",
+        "color": "8EA684",
+        "codigo": "134-6D"
+    },
+    {
+        "titulo": "Sage Blossom",
+        "color": "CDD4AF",
+        "codigo": "136-4T"
+    },
+    {
+        "titulo": "Fresh Moss",
+        "color": "BEC49D",
+        "codigo": "136-5T"
+    },
+    {
+        "titulo": "Gathering Moss",
+        "color": "A6AA7A",
+        "codigo": "136-6D"
+    },
+    {
+        "titulo": "Grasshopper Green",
+        "color": 929768,
+        "codigo": "136-7D"
+    },
+    {
+        "titulo": "Split Pea",
+        "color": "74794A",
+        "codigo": "136-8A"
+    },
+    {
+        "titulo": "Bridal Wreath",
+        "color": "F5F8E4",
+        "codigo": "137-1P"
+    },
+    {
+        "titulo": "Kiss Of Spring",
+        "color": "E5E8CF",
+        "codigo": "137-2P"
+    },
+    {
+        "titulo": "Sweet Sage",
+        "color": "E2E6C8",
+        "codigo": "137-3P"
+    },
+    {
+        "titulo": "Desert Palm",
+        "color": "CECFAD",
+        "codigo": "137-4T"
+    },
+    {
+        "titulo": "Wood Moss",
+        "color": "B9BB96",
+        "codigo": "137-5T"
+    },
+    {
+        "titulo": "Wild Garden",
+        "color": "A4A477",
+        "codigo": "137-6D"
+    },
+    {
+        "titulo": "Sprig Of Sage",
+        "color": 919265,
+        "codigo": "137-7D"
+    },
+    {
+        "titulo": "Herb Garden",
+        "color": "6C6E4A",
+        "codigo": "137-8A"
+    },
+    {
+        "titulo": "Spring Melody",
+        "color": "F8FAE0",
+        "codigo": "138-1P"
+    },
+    {
+        "titulo": "Villa Grove",
+        "color": "E8EBD4",
+        "codigo": "138-2P"
+    },
+    {
+        "titulo": "Althrop Park",
+        "color": "E4E2C5",
+        "codigo": "138-3P"
+    },
+    {
+        "titulo": "Australian Outlook",
+        "color": "D5D2AB",
+        "codigo": "138-4T"
+    },
+    {
+        "titulo": "Dried Grass",
+        "color": "C8C397",
+        "codigo": "138-5T"
+    },
+    {
+        "titulo": "Light Loden",
+        "color": "B2AA76",
+        "codigo": "138-6D"
+    },
+    {
+        "titulo": "Wild Grass",
+        "color": "A39863",
+        "codigo": "138-7D"
+    },
+    {
+        "titulo": "Mesa Verde",
+        "color": 827844,
+        "codigo": "138-8A"
+    },
+    {
+        "titulo": "Snow Mass",
+        "color": "FAF7E1",
+        "codigo": "139-1P"
+    },
+    {
+        "titulo": "Cloud Of Dust",
+        "color": "F3F1D4",
+        "codigo": "139-2P"
+    },
+    {
+        "titulo": "Paraffin",
+        "color": "EBE4C2",
+        "codigo": "139-3P"
+    },
+    {
+        "titulo": "Bamboo Grove",
+        "color": "DBD3AD",
+        "codigo": "139-4T"
+    },
+    {
+        "titulo": "Stony Plain",
+        "color": "CDC093",
+        "codigo": "139-5T"
+    },
+    {
+        "titulo": "Desert Willow",
+        "color": "BBAA72",
+        "codigo": "139-6D"
+    },
+    {
+        "titulo": "Earth Song",
+        "color": "A6965F",
+        "codigo": "139-7D"
+    },
+    {
+        "titulo": "Botanica",
+        "color": 827544,
+        "codigo": "139-8A"
+    },
+    {
+        "titulo": "Steamed Milk",
+        "color": "F9FBEC",
+        "codigo": "140-1P"
+    },
+    {
+        "titulo": "Sutherland",
+        "color": "F0EED6",
+        "codigo": "140-2P"
+    },
+    {
+        "titulo": "Very Vanilla",
+        "color": "E8E5C9",
+        "codigo": "140-3P"
+    },
+    {
+        "titulo": "Limestone Lighthouse",
+        "color": "DCD5B7",
+        "codigo": "140-4T"
+    },
+    {
+        "titulo": "Garden Gloves",
+        "color": "CAC3A2",
+        "codigo": "140-5T"
+    },
+    {
+        "titulo": "Sandy'S Smile",
+        "color": "B6AA81",
+        "codigo": "140-6D"
+    },
+    {
+        "titulo": "Wood Lane",
+        "color": "A1956B",
+        "codigo": "140-7D"
+    },
+    {
+        "titulo": "Woods End",
+        "color": "6D6442",
+        "codigo": "140-8A"
+    },
+    {
+        "titulo": "Powderhorn",
+        "color": "F9F4DF",
+        "codigo": "141-1P"
+    },
+    {
+        "titulo": "Sierra Foothills",
+        "color": "F3EBCF",
+        "codigo": "141-2P"
+    },
+    {
+        "titulo": "Sunflower Seed",
+        "color": "EDE4C4",
+        "codigo": "141-3P"
+    },
+    {
+        "titulo": "Serengeti Safari",
+        "color": "E0D4B0",
+        "codigo": "141-4T"
+    },
+    {
+        "titulo": "Safari Dress",
+        "color": "D5C59C",
+        "codigo": "141-5T"
+    },
+    {
+        "titulo": "Rawhide",
+        "color": "C0AB78",
+        "codigo": "141-6D"
+    },
+    {
+        "titulo": "African Safari",
+        "color": "B09A66",
+        "codigo": "141-7D"
+    },
+    {
+        "titulo": "Oak Bluff",
+        "color": "8A7648",
+        "codigo": "141-8A"
+    },
+    {
+        "titulo": "Piano Keys",
+        "color": "FFFCE6",
+        "codigo": "142-1P"
+    },
+    {
+        "titulo": "Vanilla Frost",
+        "color": "F8EED3",
+        "codigo": "142-2P"
+    },
+    {
+        "titulo": "Luberon",
+        "color": "F6E8C5",
+        "codigo": "142-3P"
+    },
+    {
+        "titulo": "Safari Suit",
+        "color": "ECD9AE",
+        "codigo": "142-4T"
+    },
+    {
+        "titulo": "Panama Hat",
+        "color": "E0C899",
+        "codigo": "142-5T"
+    },
+    {
+        "titulo": "Buttered Toast",
+        "color": "CEB277",
+        "codigo": "142-6D"
+    },
+    {
+        "titulo": "Jungle Fever",
+        "color": "C1A165",
+        "codigo": "142-7D"
+    },
+    {
+        "titulo": "Old Sage",
+        "color": "94763E",
+        "codigo": "142-8A"
+    },
+    {
+        "titulo": "Villa Florence",
+        "color": "FAF8E6",
+        "codigo": "143-1P"
+    },
+    {
+        "titulo": "Artistos",
+        "color": "F9F3DC",
+        "codigo": "143-2P"
+    },
+    {
+        "titulo": "Irish Linen",
+        "color": "F1E5CA",
+        "codigo": "143-3P"
+    },
+    {
+        "titulo": "Happy Camper",
+        "color": "E3D3B3",
+        "codigo": "143-4T"
+    },
+    {
+        "titulo": "Clean Khaki",
+        "color": "D5C19E",
+        "codigo": "143-5T"
+    },
+    {
+        "titulo": "Dried Hydrangea",
+        "color": "C3A87C",
+        "codigo": "143-6D"
+    },
+    {
+        "titulo": "High Chaparral",
+        "color": "B0956A",
+        "codigo": "143-7D"
+    },
+    {
+        "titulo": "African Plain",
+        "color": "7F6744",
+        "codigo": "143-8A"
+    },
+    {
+        "titulo": "Thickened Cream",
+        "color": "FFFAE0",
+        "codigo": "144-1P"
+    },
+    {
+        "titulo": "Antique Almond",
+        "color": "FEF6D6",
+        "codigo": "144-2P"
+    },
+    {
+        "titulo": "My Honey",
+        "color": "F7E5C2",
+        "codigo": "144-3P"
+    },
+    {
+        "titulo": "Sandy Beach",
+        "color": "EDD6AB",
+        "codigo": "144-4T"
+    },
+    {
+        "titulo": "Sand In Your Shoes",
+        "color": "E4C797",
+        "codigo": "144-5T"
+    },
+    {
+        "titulo": "Raffia Ribbon",
+        "color": "D2AE74",
+        "codigo": "144-6D"
+    },
+    {
+        "titulo": "Sunlit Sand",
+        "color": "C49F62",
+        "codigo": "144-7D"
+    },
+    {
+        "titulo": "Turning Leaf",
+        "color": 987441,
+        "codigo": "144-8A"
+    },
+    {
+        "titulo": "Slightly Sandy",
+        "color": "FFFCE2",
+        "codigo": "145-1P"
+    },
+    {
+        "titulo": "Sand Dollar Beach",
+        "color": "FCF3D3",
+        "codigo": "145-2P"
+    },
+    {
+        "titulo": "Wasaga Beach",
+        "color": "F9E7C1",
+        "codigo": "145-3P"
+    },
+    {
+        "titulo": "Sandy Shores",
+        "color": "F1D6AA",
+        "codigo": "145-4T"
+    },
+    {
+        "titulo": "Sundrenched Sand",
+        "color": "E2C594",
+        "codigo": "145-5T"
+    },
+    {
+        "titulo": "Gift Of Gold",
+        "color": "D5AE73",
+        "codigo": "145-6D"
+    },
+    {
+        "titulo": "Tarnished Gold",
+        "color": "C39C60",
+        "codigo": "145-7D"
+    },
+    {
+        "titulo": "Sydney",
+        "color": "9F7940",
+        "codigo": "145-8A"
+    },
+    {
+        "titulo": "Water Chestnut",
+        "color": "FDFAEC",
+        "codigo": "146-1P"
+    },
+    {
+        "titulo": "Antiqua",
+        "color": "F8EBD4",
+        "codigo": "146-2P"
+    },
+    {
+        "titulo": "Mojave Sand",
+        "color": "F2E0C2",
+        "codigo": "146-3P"
+    },
+    {
+        "titulo": "Bikini Beach",
+        "color": "E7D0AC",
+        "codigo": "146-4T"
+    },
+    {
+        "titulo": "Sand Dunia",
+        "color": "D7BB95",
+        "codigo": "146-5T"
+    },
+    {
+        "titulo": "Sunwarmed Sand",
+        "color": "C29D70",
+        "codigo": "146-6D"
+    },
+    {
+        "titulo": "Sunwashed Beach",
+        "color": "B28C5F",
+        "codigo": "146-7D"
+    },
+    {
+        "titulo": "Bird'S Nest",
+        "color": "8D693F",
+        "codigo": "146-8A"
+    },
+    {
+        "titulo": "Almondine",
+        "color": "FDF4DE",
+        "codigo": "147-1P"
+    },
+    {
+        "titulo": "Beach Party",
+        "color": "FCEFD1",
+        "codigo": "147-2P"
+    },
+    {
+        "titulo": "Baked Bisquit",
+        "color": "FAE4BF",
+        "codigo": "147-3P"
+    },
+    {
+        "titulo": "Madagascar Raffia",
+        "color": "F2D4A9",
+        "codigo": "147-4T"
+    },
+    {
+        "titulo": "Sand Castle",
+        "color": "E3C08F",
+        "codigo": "147-5T"
+    },
+    {
+        "titulo": "Carina Gold",
+        "color": "D4A970",
+        "codigo": "147-6D"
+    },
+    {
+        "titulo": "Golden Grandeur",
+        "color": "C99B61",
+        "codigo": "147-7D"
+    },
+    {
+        "titulo": "Vizcaino Desert",
+        "color": "A47641",
+        "codigo": "147-8A"
+    },
+    {
+        "titulo": "Soft Sand",
+        "color": "FCF5E1",
+        "codigo": "148-1P"
+    },
+    {
+        "titulo": "Sandhurst",
+        "color": "FAEBCF",
+        "codigo": "148-2P"
+    },
+    {
+        "titulo": "By The Beach",
+        "color": "FBE4BF",
+        "codigo": "148-3P"
+    },
+    {
+        "titulo": "Beachville",
+        "color": "F0CFA3",
+        "codigo": "148-4T"
+    },
+    {
+        "titulo": "Regina Beach",
+        "color": "E5BE8D",
+        "codigo": "148-5T"
+    },
+    {
+        "titulo": "Amberly",
+        "color": "D6A96E",
+        "codigo": "148-6D"
+    },
+    {
+        "titulo": "Santa Fe Summer",
+        "color": "C9985C",
+        "codigo": "148-7D"
+    },
+    {
+        "titulo": "Cajun Country",
+        "color": "A97843",
+        "codigo": "148-8A"
+    },
+    {
+        "titulo": "Angel Food",
+        "color": "FCF5E4",
+        "codigo": "149-1P"
+    },
+    {
+        "titulo": "Casaba",
+        "color": "F4E5D4",
+        "codigo": "149-2P"
+    },
+    {
+        "titulo": "Sandalwood",
+        "color": "ECD3BB",
+        "codigo": "149-3P"
+    },
+    {
+        "titulo": "Spiced Pear",
+        "color": "DFBFA2",
+        "codigo": "149-4T"
+    },
+    {
+        "titulo": "Warm Tan",
+        "color": "CFAD8E",
+        "codigo": "149-5T"
+    },
+    {
+        "titulo": "Rich Tan",
+        "color": "C0936D",
+        "codigo": "149-6D"
+    },
+    {
+        "titulo": "Lone Ranger",
+        "color": "AD815B",
+        "codigo": "149-7D"
+    },
+    {
+        "titulo": "Brown Sugar Sprinkles",
+        "color": "895F3F",
+        "codigo": "149-8A"
+    },
+    {
+        "titulo": "Crystal Beach",
+        "color": "FDEDD9",
+        "codigo": "150-1P"
+    },
+    {
+        "titulo": "Beauty And The Beach",
+        "color": "FBE4CD",
+        "codigo": "150-2P"
+    },
+    {
+        "titulo": "Skin Light",
+        "color": "F7D8BB",
+        "codigo": "150-3P"
+    },
+    {
+        "titulo": "Beige Bluff",
+        "color": "EBC7A7",
+        "codigo": "150-4T"
+    },
+    {
+        "titulo": "Earthy Tan",
+        "color": "DEB28D",
+        "codigo": "150-5T"
+    },
+    {
+        "titulo": "Gingerbread Boy",
+        "color": "CF986C",
+        "codigo": "150-6D"
+    },
+    {
+        "titulo": "Coppery Gemstone",
+        "color": "BD8358",
+        "codigo": "150-7D"
+    },
+    {
+        "titulo": "Moccasin Trail",
+        "color": "A06940",
+        "codigo": "150-8A"
+    },
+    {
+        "titulo": "Beige Blush",
+        "color": "FCE8D8",
+        "codigo": "151-1P"
+    },
+    {
+        "titulo": "Sea Of Coral",
+        "color": "FADCCA",
+        "codigo": "151-2P"
+    },
+    {
+        "titulo": "Shell Seekers",
+        "color": "F1CBB6",
+        "codigo": "151-3P"
+    },
+    {
+        "titulo": "Peach Tree City",
+        "color": "E4B69F",
+        "codigo": "151-4T"
+    },
+    {
+        "titulo": "Pueblo Pathway",
+        "color": "D5A38A",
+        "codigo": "151-5T"
+    },
+    {
+        "titulo": "Pocahontas",
+        "color": "C48668",
+        "codigo": "151-6D"
+    },
+    {
+        "titulo": "Aged Pottery",
+        "color": "B37657",
+        "codigo": "151-7D"
+    },
+    {
+        "titulo": "Red Rock",
+        "color": 935437,
+        "codigo": "151-8A"
+    },
+    {
+        "titulo": "Prettiest Pale",
+        "color": "F9E7DA",
+        "codigo": "152-1P"
+    },
+    {
+        "titulo": "Bare Essential",
+        "color": "F1D2C6",
+        "codigo": "152-2P"
+    },
+    {
+        "titulo": "Fair Blush",
+        "color": "E4C0B1",
+        "codigo": "152-3P"
+    },
+    {
+        "titulo": "Fawn Fatale",
+        "color": "D6AD9C",
+        "codigo": "152-4T"
+    },
+    {
+        "titulo": "Ventana",
+        "color": "C79886",
+        "codigo": "152-5T"
+    },
+    {
+        "titulo": "Rustic Charm",
+        "color": "B17A64",
+        "codigo": "152-6D"
+    },
+    {
+        "titulo": "Tuscan Trail",
+        "color": "A06D58",
+        "codigo": "152-7D"
+    },
+    {
+        "titulo": "Cinnamon Stick",
+        "color": 895440,
+        "codigo": "152-8A"
+    },
+    {
+        "titulo": "Pale Starlet",
+        "color": "F9E6DE",
+        "codigo": "153-1P"
+    },
+    {
+        "titulo": "Stellar Light",
+        "color": "EDCCC2",
+        "codigo": "153-2P"
+    },
+    {
+        "titulo": "Perfect Interlude",
+        "color": "E0BCB1",
+        "codigo": "153-3P"
+    },
+    {
+        "titulo": "Quiet Cameroon",
+        "color": "CCA499",
+        "codigo": "153-4T"
+    },
+    {
+        "titulo": "Exotic Love",
+        "color": "BD8F83",
+        "codigo": "153-5T"
+    },
+    {
+        "titulo": "Dupioni Dale",
+        "color": "A47362",
+        "codigo": "153-6D"
+    },
+    {
+        "titulo": "Terra Vale",
+        "color": 926152,
+        "codigo": "153-7D"
+    },
+    {
+        "titulo": "Red Wall",
+        "color": 815242,
+        "codigo": "153-8A"
+    },
+    {
+        "titulo": "Rose Porcelain",
+        "color": "F8E9E2",
+        "codigo": "154-1P"
+    },
+    {
+        "titulo": "Little Precious",
+        "color": "E8CCC6",
+        "codigo": "154-2P"
+    },
+    {
+        "titulo": "Captured Spirit",
+        "color": "E0BBB4",
+        "codigo": "154-3P"
+    },
+    {
+        "titulo": "Rose Taupe",
+        "color": "CCA49C",
+        "codigo": "154-4T"
+    },
+    {
+        "titulo": "Venezia",
+        "color": "BC918A",
+        "codigo": "154-5T"
+    },
+    {
+        "titulo": "Auden",
+        "color": "A6766B",
+        "codigo": "154-6D"
+    },
+    {
+        "titulo": "Earth Works",
+        "color": "96675C",
+        "codigo": "154-7D"
+    },
+    {
+        "titulo": "Red Jasper",
+        "color": "7E5144",
+        "codigo": "154-8A"
+    },
+    {
+        "titulo": "Spring Petals",
+        "color": "F7E9E8",
+        "codigo": "155-1P"
+    },
+    {
+        "titulo": "Rosy Lips",
+        "color": "EDD4D3",
+        "codigo": "155-2P"
+    },
+    {
+        "titulo": "Gypsy Rose",
+        "color": "E3C5C5",
+        "codigo": "155-3P"
+    },
+    {
+        "titulo": "Flowering Almond",
+        "color": "D0AEAF",
+        "codigo": "155-4T"
+    },
+    {
+        "titulo": "Pink Prize",
+        "color": "C0999B",
+        "codigo": "155-5T"
+    },
+    {
+        "titulo": "Mauve Mystery",
+        "color": "AB7B79",
+        "codigo": "155-6D"
+    },
+    {
+        "titulo": "Rows Of Roses",
+        "color": 936664,
+        "codigo": "155-7D"
+    },
+    {
+        "titulo": "Autumn Wine",
+        "color": "794C43",
+        "codigo": "155-8A"
+    },
+    {
+        "titulo": "Rose Kissed",
+        "color": "F9EBEB",
+        "codigo": "156-1P"
+    },
+    {
+        "titulo": "Pink Sunset",
+        "color": "EDDEE2",
+        "codigo": "156-2P"
+    },
+    {
+        "titulo": "Casa Bonita",
+        "color": "E7D3DB",
+        "codigo": "156-3P"
+    },
+    {
+        "titulo": "Fresh As Spring",
+        "color": "D1B6C1",
+        "codigo": "156-4T"
+    },
+    {
+        "titulo": "Rhoda",
+        "color": "C1A1AD",
+        "codigo": "156-5T"
+    },
+    {
+        "titulo": "Path Of Petals",
+        "color": "A8838D",
+        "codigo": "156-6D"
+    },
+    {
+        "titulo": "Elegant Attitude",
+        "color": 906971,
+        "codigo": "156-7D"
+    },
+    {
+        "titulo": "Currant Craze",
+        "color": "6C484A",
+        "codigo": "156-8A"
+    },
+    {
+        "titulo": "Roma Rose",
+        "color": "F6F2F7",
+        "codigo": "157-1P"
+    },
+    {
+        "titulo": "After Glow",
+        "color": "EADDE3",
+        "codigo": "157-2P"
+    },
+    {
+        "titulo": "Rosalita",
+        "color": "E4D2DE",
+        "codigo": "157-3P"
+    },
+    {
+        "titulo": "Arabella",
+        "color": "D2BBCD",
+        "codigo": "157-4T"
+    },
+    {
+        "titulo": "Fresh Cut Rose",
+        "color": "C2ABBF",
+        "codigo": "157-5T"
+    },
+    {
+        "titulo": "Midnight Mauve",
+        "color": "A8879D",
+        "codigo": "157-6D"
+    },
+    {
+        "titulo": "Currant Scene",
+        "color": "8F6F85",
+        "codigo": "157-7D"
+    },
+    {
+        "titulo": "Queen Of Hearts",
+        "color": 654856,
+        "codigo": "157-8A"
+    },
+    {
+        "titulo": "Southern Plantation",
+        "color": "EBF1ED",
+        "codigo": "158-1P"
+    },
+    {
+        "titulo": "First Thaw",
+        "color": "DDE6E3",
+        "codigo": "158-2P"
+    },
+    {
+        "titulo": "Versailles",
+        "color": "D4DBD8",
+        "codigo": "158-3P"
+    },
+    {
+        "titulo": "Venetian",
+        "color": "B8C0BE",
+        "codigo": "158-4T"
+    },
+    {
+        "titulo": "Silver Queen",
+        "color": "A5AEAC",
+        "codigo": "158-5T"
+    },
+    {
+        "titulo": "Abbey Lane",
+        "color": "8A908B",
+        "codigo": "158-6D"
+    },
+    {
+        "titulo": "Castle Ford",
+        "color": 717773,
+        "codigo": "158-7D"
+    },
+    {
+        "titulo": "Black Limo",
+        "color": "3F4341",
+        "codigo": "158-8A"
+    },
+    {
+        "titulo": "Milk Moustache",
+        "color": "ECF0EB",
+        "codigo": "159-1P"
+    },
+    {
+        "titulo": "Sierra Snow",
+        "color": "DFE3DD",
+        "codigo": "159-2P"
+    },
+    {
+        "titulo": "Slip Of Silver",
+        "color": "D4D8D2",
+        "codigo": "159-3P"
+    },
+    {
+        "titulo": "Seville",
+        "color": "C3C5BF",
+        "codigo": "159-4T"
+    },
+    {
+        "titulo": "Foggy Coast",
+        "color": "AEB1AB",
+        "codigo": "159-5T"
+    },
+    {
+        "titulo": "Grey Grove",
+        "color": 939188,
+        "codigo": "159-6D"
+    },
+    {
+        "titulo": "Dillard",
+        "color": "7E7E76",
+        "codigo": "159-7D"
+    },
+    {
+        "titulo": "Eight Ball",
+        "color": 424441,
+        "codigo": "159-8A"
+    },
+    {
+        "titulo": "Lilies Of The Valley",
+        "color": "FAFCF4",
+        "codigo": "160-1P"
+    },
+    {
+        "titulo": "Picket Fence",
+        "color": "ECEBE2",
+        "codigo": "160-2P"
+    },
+    {
+        "titulo": "Walking On Clouds",
+        "color": "DEDBD0",
+        "codigo": "160-3P"
+    },
+    {
+        "titulo": "Tender Grey",
+        "color": "CFCBBF",
+        "codigo": "160-4T"
+    },
+    {
+        "titulo": "Warm Grey",
+        "color": "BCB7A9",
+        "codigo": "160-5T"
+    },
+    {
+        "titulo": "Greystone Cellar",
+        "color": "9E9482",
+        "codigo": "160-6D"
+    },
+    {
+        "titulo": "City Scape",
+        "color": "8E8373",
+        "codigo": "160-7D"
+    },
+    {
+        "titulo": "Black Eyed Beauty",
+        "color": "4C473D",
+        "codigo": "160-8A"
+    },
+    {
+        "titulo": "Summer White",
+        "color": "F5F2E9",
+        "codigo": "161-1P"
+    },
+    {
+        "titulo": "Italian Marble",
+        "color": "EAE8E1",
+        "codigo": "161-2P"
+    },
+    {
+        "titulo": "Iced Silver",
+        "color": "E2DED5",
+        "codigo": "161-3P"
+    },
+    {
+        "titulo": "Silver Sand",
+        "color": "CCC5BB",
+        "codigo": "161-4T"
+    },
+    {
+        "titulo": "Elegant Grey",
+        "color": "C0B8AE",
+        "codigo": "161-5T"
+    },
+    {
+        "titulo": "Fishing Dock",
+        "color": "A39787",
+        "codigo": "161-6D"
+    },
+    {
+        "titulo": "Five O'Clock Shadow",
+        "color": "8E8172",
+        "codigo": "161-7D"
+    },
+    {
+        "titulo": "Log Cabin",
+        "color": "4F463A",
+        "codigo": "161-8A"
+    },
+    {
+        "titulo": "Snow Top",
+        "color": "E9E9E5",
+        "codigo": "162-1P"
+    },
+    {
+        "titulo": "Winter Waltz",
+        "color": "DBDBD7",
+        "codigo": "162-2P"
+    },
+    {
+        "titulo": "Diamante",
+        "color": "CCCAC7",
+        "codigo": "162-3P"
+    },
+    {
+        "titulo": "Silver Thorne",
+        "color": "B7B6B4",
+        "codigo": "162-4T"
+    },
+    {
+        "titulo": "Stone Wall",
+        "color": "A1A19F",
+        "codigo": "162-5T"
+    },
+    {
+        "titulo": "Rocky Ford",
+        "color": "86817B",
+        "codigo": "162-6D"
+    },
+    {
+        "titulo": "Country Hearth",
+        "color": "706B66",
+        "codigo": "162-7D"
+    },
+    {
+        "titulo": "Log Jam",
+        "color": "49423B",
+        "codigo": "162-8A"
+    },
+    {
+        "titulo": "Pearly White",
+        "color": "F2EDE8",
+        "codigo": "163-1P"
+    },
+    {
+        "titulo": "Star Gazer",
+        "color": "D9D6D3",
+        "codigo": "163-2P"
+    },
+    {
+        "titulo": "Cottage Square",
+        "color": "CDC7C4",
+        "codigo": "163-3P"
+    },
+    {
+        "titulo": "Stepping Out",
+        "color": "B6AFAE",
+        "codigo": "163-4T"
+    },
+    {
+        "titulo": "Pet Rock",
+        "color": "A59C9A",
+        "codigo": "163-5T"
+    },
+    {
+        "titulo": "Tumble Weed",
+        "color": 877974,
+        "codigo": "163-6D"
+    },
+    {
+        "titulo": "Dunhill",
+        "color": 736560,
+        "codigo": "163-7D"
+    },
+    {
+        "titulo": "Dark Roast",
+        "color": "56473F",
+        "codigo": "163-8A"
+    },
+    {
+        "titulo": "Soft Beauty",
+        "color": "ECE3DE",
+        "codigo": "164-1P"
+    },
+    {
+        "titulo": "Rose Quartz",
+        "color": "DED3CE",
+        "codigo": "164-2P"
+    },
+    {
+        "titulo": "Good Fortune",
+        "color": "D4C6C1",
+        "codigo": "164-3P"
+    },
+    {
+        "titulo": "Mohiccan Mist",
+        "color": "BEAAA5",
+        "codigo": "164-4T"
+    },
+    {
+        "titulo": "Country Cousin",
+        "color": "A9958F",
+        "codigo": "164-5T"
+    },
+    {
+        "titulo": "Barkwood Cafú",
+        "color": "8E756D",
+        "codigo": "164-6D"
+    },
+    {
+        "titulo": "River Raft",
+        "color": "7C6259",
+        "codigo": "164-7D"
+    },
+    {
+        "titulo": "Eastern Brownstone",
+        "color": "5E4A40",
+        "codigo": "164-8A"
+    },
+    {
+        "titulo": "Medina",
+        "color": "EBE1DA",
+        "codigo": "165-1P"
+    },
+    {
+        "titulo": "Taupe Trend",
+        "color": "E1D7D2",
+        "codigo": "165-2P"
+    },
+    {
+        "titulo": "Poet Laureate",
+        "color": "D4C8C3",
+        "codigo": "165-3P"
+    },
+    {
+        "titulo": "Barston",
+        "color": "BCADA7",
+        "codigo": "165-4T"
+    },
+    {
+        "titulo": "Chatsworth",
+        "color": "A89690",
+        "codigo": "165-5T"
+    },
+    {
+        "titulo": "Taupe Time",
+        "color": "8F796F",
+        "codigo": "165-6D"
+    },
+    {
+        "titulo": "Sable",
+        "color": "7C655C",
+        "codigo": "165-7D"
+    },
+    {
+        "titulo": "Melted Truffle",
+        "color": "5D493E",
+        "codigo": "165-8A"
+    },
+    {
+        "titulo": "Arable",
+        "color": "ECE2DD",
+        "codigo": "166-1P"
+    },
+    {
+        "titulo": "Patchouli",
+        "color": "E0D5D4",
+        "codigo": "166-2P"
+    },
+    {
+        "titulo": "Latin Lady",
+        "color": "D1C5C3",
+        "codigo": "166-3P"
+    },
+    {
+        "titulo": "Warm Hug",
+        "color": "BCADAD",
+        "codigo": "166-4T"
+    },
+    {
+        "titulo": "Mission Ridge",
+        "color": "AB9C9C",
+        "codigo": "166-5T"
+    },
+    {
+        "titulo": "Saddlehorn",
+        "color": "8D7874",
+        "codigo": "166-6D"
+    },
+    {
+        "titulo": "Wild Apache",
+        "color": 776460,
+        "codigo": "166-7D"
+    },
+    {
+        "titulo": "Cowgirl Hat",
+        "color": "5B4B45",
+        "codigo": "166-8A"
+    },
+    {
+        "titulo": "Greek Goddess",
+        "color": "EEE7E5",
+        "codigo": "167-1P"
+    },
+    {
+        "titulo": "Sheer Style",
+        "color": "E4E0E2",
+        "codigo": "167-2P"
+    },
+    {
+        "titulo": "Resplendent Rose",
+        "color": "D2C9CD",
+        "codigo": "167-3P"
+    },
+    {
+        "titulo": "Rose Point",
+        "color": "C1B6BC",
+        "codigo": "167-4T"
+    },
+    {
+        "titulo": "Natural Beauty",
+        "color": "AC9FA6",
+        "codigo": "167-5T"
+    },
+    {
+        "titulo": "Rockville",
+        "color": 90699999999999993182943368209345714735970981512434179984261411235244395145800559099904,
+        "codigo": "167-6D"
+    },
+    {
+        "titulo": "Carriage House",
+        "color": "78676A",
+        "codigo": "167-7D"
+    },
+    {
+        "titulo": "Brown Derby",
+        "color": 584848,
+        "codigo": "167-8A"
+    },
+    {
+        "titulo": "Ice Cream Social",
+        "color": "EFECF0",
+        "codigo": "168-1P"
+    },
+    {
+        "titulo": "First Flirt",
+        "color": "DFD9DE",
+        "codigo": "168-2P"
+    },
+    {
+        "titulo": "Moonlight Orchid",
+        "color": "D5CFD9",
+        "codigo": "168-3P"
+    },
+    {
+        "titulo": "Evesham Vale",
+        "color": "BFB8C4",
+        "codigo": "168-4T"
+    },
+    {
+        "titulo": "Living With Lavender",
+        "color": "AAA3B1",
+        "codigo": "168-5T"
+    },
+    {
+        "titulo": "Last Crush",
+        "color": "8C7F8D",
+        "codigo": "168-6D"
+    },
+    {
+        "titulo": "Wine Country",
+        "color": "786C78",
+        "codigo": "168-7D"
+    },
+    {
+        "titulo": "Midnight Wine",
+        "color": "544A51",
+        "codigo": "168-8A"
+    },
+    {
+        "titulo": "Calista",
+        "color": "F6F7F6",
+        "codigo": "169-1P"
+    },
+    {
+        "titulo": "Beguiling Blossom",
+        "color": "DDE0E8",
+        "codigo": "169-2P"
+    },
+    {
+        "titulo": "Veronique",
+        "color": "D0D1DD",
+        "codigo": "169-3P"
+    },
+    {
+        "titulo": "Contessa Crown",
+        "color": "C1C1D1",
+        "codigo": "169-4T"
+    },
+    {
+        "titulo": "Pretty Petals",
+        "color": "A5A8BB",
+        "codigo": "169-5T"
+    },
+    {
+        "titulo": "Silent Majesty",
+        "color": 848498,
+        "codigo": "169-6D"
+    },
+    {
+        "titulo": "Southland Grape",
+        "color": "6F6F83",
+        "codigo": "169-7D"
+    },
+    {
+        "titulo": "Opera Evening",
+        "color": "3E3F49",
+        "codigo": "169-8A"
+    },
+    {
+        "titulo": "Gently Raining",
+        "color": "E7EFF3",
+        "codigo": "170-1P"
+    },
+    {
+        "titulo": "Lilac Breeze",
+        "color": "DAE3EC",
+        "codigo": "170-2P"
+    },
+    {
+        "titulo": "Vista Of Spring",
+        "color": "C9D4E0",
+        "codigo": "170-3P"
+    },
+    {
+        "titulo": "Libby'S Lavender",
+        "color": "B4C0D2",
+        "codigo": "170-4T"
+    },
+    {
+        "titulo": "Iris In The Wild",
+        "color": "9DACC0",
+        "codigo": "170-5T"
+    },
+    {
+        "titulo": "Sultry Mood",
+        "color": "818DA0",
+        "codigo": "170-6D"
+    },
+    {
+        "titulo": "Grape Hyacinth",
+        "color": "6A7689",
+        "codigo": "170-7D"
+    },
+    {
+        "titulo": "Everlasting Eggplant",
+        "color": 404853,
+        "codigo": "170-8A"
+    },
+    {
+        "titulo": "Slight Chrome",
+        "color": "E8EFEF",
+        "codigo": "171-1P"
+    },
+    {
+        "titulo": "Silver Streak",
+        "color": "D2DEE4",
+        "codigo": "171-2P"
+    },
+    {
+        "titulo": "Celestial Shadow",
+        "color": "C4D0DA",
+        "codigo": "171-3P"
+    },
+    {
+        "titulo": "Silver Plume",
+        "color": "ABBAC5",
+        "codigo": "171-4T"
+    },
+    {
+        "titulo": "Bay Fog",
+        "color": "9AAAB7",
+        "codigo": "171-5T"
+    },
+    {
+        "titulo": "Gull Wing",
+        "color": 798693,
+        "codigo": "171-6D"
+    },
+    {
+        "titulo": "Hidcote Manor",
+        "color": "63707D",
+        "codigo": "171-7D"
+    },
+    {
+        "titulo": "Edge Of Night",
+        "color": "3F474B",
+        "codigo": "171-8A"
+    },
+    {
+        "titulo": "Easter Lily",
+        "color": "EAF7F7",
+        "codigo": "172-1P"
+    },
+    {
+        "titulo": "Industrial Steel",
+        "color": "D6E0E2",
+        "codigo": "172-2P"
+    },
+    {
+        "titulo": "Silver Dollar",
+        "color": "BFD3DB",
+        "codigo": "172-3P"
+    },
+    {
+        "titulo": "Shades Of Grey",
+        "color": "ABB9C0",
+        "codigo": "172-4T"
+    },
+    {
+        "titulo": "Dolphin Bay",
+        "color": "96A5AD",
+        "codigo": "172-5T"
+    },
+    {
+        "titulo": "Grey Mare",
+        "color": 778289,
+        "codigo": "172-6D"
+    },
+    {
+        "titulo": "Antique Pewter",
+        "color": 647076,
+        "codigo": "172-7D"
+    },
+    {
+        "titulo": "Night Time Magic",
+        "color": "343B3D",
+        "codigo": "172-8A"
+    },
+    {
+        "titulo": "Sail Away",
+        "color": "E9FBFE",
+        "codigo": "173-1P"
+    },
+    {
+        "titulo": "Reflejo",
+        "color": "ECE7E2",
+        "codigo": "OW001-P"
+    },
+    {
+        "titulo": "Nieve",
+        "color": "F0EBE6",
+        "codigo": "OW002-P"
+    },
+    {
+        "titulo": "Dulce Aroma",
+        "color": "F1EBE5",
+        "codigo": "OW003-P"
+    },
+    {
+        "titulo": "Sombra De Amor",
+        "color": "EFEAE3",
+        "codigo": "OW004-P"
+    },
+    {
+        "titulo": "Bailarina",
+        "color": "F1E9E2",
+        "codigo": "OW005-P"
+    },
+    {
+        "titulo": "Caricia De Amor",
+        "color": "F1EAE6",
+        "codigo": "OW006-P"
+    },
+    {
+        "titulo": "Romance Secreto",
+        "color": "F1E8E2",
+        "codigo": "OW007-P"
+    },
+    {
+        "titulo": "Toque Floral",
+        "color": "F0E8E2",
+        "codigo": "OW008-P"
+    },
+    {
+        "titulo": "Susurro De Ángeles",
+        "color": "F2E9E2",
+        "codigo": "OW009-P"
+    },
+    {
+        "titulo": "Polvo De Mármol",
+        "color": "F3EBE4",
+        "codigo": "OW010-P"
+    },
+    {
+        "titulo": "Sinfonía De Amor",
+        "color": "F2EBE4",
+        "codigo": "OW011-P"
+    },
+    {
+        "titulo": "Poción Rosa",
+        "color": "EBE1D9",
+        "codigo": "OW012-P"
+    },
+    {
+        "titulo": "Encuentro Angelical",
+        "color": "EADED6",
+        "codigo": "OW013-P"
+    },
+    {
+        "titulo": "Gamuza Rosa",
+        "color": "E8DCD4",
+        "codigo": "OW014-P"
+    },
+    {
+        "titulo": "Brillo De Cristal",
+        "color": "F2EBE5",
+        "codigo": "OW015-P"
+    },
+    {
+        "titulo": "Melodía Mística",
+        "color": "F2ECE7",
+        "codigo": "OW016-P"
+    },
+    {
+        "titulo": "Algodón De La India",
+        "color": "F1EAE4",
+        "codigo": "OW017-P"
+    },
+    {
+        "titulo": "Blanco Porcelana",
+        "color": "F4EBE3",
+        "codigo": "OW018-P"
+    },
+    {
+        "titulo": "Plumas Al Sol",
+        "color": "F3E9E0",
+        "codigo": "OW019-P"
+    },
+    {
+        "titulo": "Lujo Moderno",
+        "color": "F0DFD3",
+        "codigo": "OW020-P"
+    },
+    {
+        "titulo": "Glamour",
+        "color": "E5D2C6",
+        "codigo": "OW021-P"
+    },
+    {
+        "titulo": "Esencia De Vainilla",
+        "color": "F1ECE3",
+        "codigo": "OW022-P"
+    },
+    {
+        "titulo": "Flor De Miel",
+        "color": "F0EAE0",
+        "codigo": "OW023-P"
+    },
+    {
+        "titulo": "Amor Secreto",
+        "color": "F2ECE1",
+        "codigo": "OW024-P"
+    },
+    {
+        "titulo": "Cielo Blanco",
+        "color": "F0E8DC",
+        "codigo": "OW025-P"
+    },
+    {
+        "titulo": "Durazno Blanco",
+        "color": "F3EADE",
+        "codigo": "OW026-P"
+    },
+    {
+        "titulo": "Semillas De Amor",
+        "color": "EEE5D9",
+        "codigo": "OW027-P"
+    },
+    {
+        "titulo": "Prisma Rosa",
+        "color": "EBDED4",
+        "codigo": "OW028-P"
+    },
+    {
+        "titulo": "Burbujas De Champaña",
+        "color": "F5ECDF",
+        "codigo": "OW029-P"
+    },
+    {
+        "titulo": "Polvo De Arroz",
+        "color": "F0E9DC",
+        "codigo": "OW030-P"
+    },
+    {
+        "titulo": "Bruma De Otoño",
+        "color": "F0E4D2",
+        "codigo": "OW031-P"
+    },
+    {
+        "titulo": "Bombón De Caramelo",
+        "color": "EDE2D1",
+        "codigo": "OW032-P"
+    },
+    {
+        "titulo": "Arena De Bali",
+        "color": "EDDFCC",
+        "codigo": "OW033-P"
+    },
+    {
+        "titulo": "Madera Al Natural",
+        "color": "E7DCCD",
+        "codigo": "OW034-P"
+    },
+    {
+        "titulo": "Motas De Algodón",
+        "color": "E8E0D4",
+        "codigo": "OW035-P"
+    },
+    {
+        "titulo": "Amanecer En Paz",
+        "color": "F3F0E5",
+        "codigo": "OW036-P"
+    },
+    {
+        "titulo": "Cabello De Ángel",
+        "color": "F4EFDC",
+        "codigo": "OW037-P"
+    },
+    {
+        "titulo": "Amarillo Suave",
+        "color": "F3EBD9",
+        "codigo": "OW038-P"
+    },
+    {
+        "titulo": "Luz Costera",
+        "color": "F5E9D2",
+        "codigo": "OW039-P"
+    },
+    {
+        "titulo": "Costa De Marfil",
+        "color": "F3EBD9",
+        "codigo": "OW040-P"
+    },
+    {
+        "titulo": "Orión",
+        "color": "F1EAD9",
+        "codigo": "OW041-P"
+    },
+    {
+        "titulo": "Caramelo De Miel",
+        "color": "EDE0CA",
+        "codigo": "OW042-P"
+    },
+    {
+        "titulo": "Silencio",
+        "color": "F4F0E6",
+        "codigo": "OW043-P"
+    },
+    {
+        "titulo": "Chocolate Suizo",
+        "color": "F3EEE2",
+        "codigo": "OW044-P"
+    },
+    {
+        "titulo": "Resplandor De Verano",
+        "color": "F0ECDC",
+        "codigo": "OW045-P"
+    },
+    {
+        "titulo": "Inspiración",
+        "color": "F1EEDD",
+        "codigo": "OW046-P"
+    },
+    {
+        "titulo": "Perfume De Eucalipto",
+        "color": "EEEEE1",
+        "codigo": "OW047-P"
+    },
+    {
+        "titulo": "Luz Natural",
+        "color": "F0EDDE",
+        "codigo": "OW048-P"
+    },
+    {
+        "titulo": "Brillo De Estrellas",
+        "color": "E1DFD4",
+        "codigo": "OW049-P"
+    },
+    {
+        "titulo": "Rocío De Invierno",
+        "color": "EDEDEA",
+        "codigo": "OW050-P"
+    },
+    {
+        "titulo": "Gotas De Manantial",
+        "color": "EFEDE7",
+        "codigo": "OW051-P"
+    },
+    {
+        "titulo": "Brillo Lunar",
+        "color": "ECEDE8",
+        "codigo": "OW052-P"
+    },
+    {
+        "titulo": "Copos De Nieve",
+        "color": "EBECE6",
+        "codigo": "OW053-P"
+    },
+    {
+        "titulo": "Mañana Fría",
+        "color": "EAECE6",
+        "codigo": "OW054-P"
+    },
+    {
+        "titulo": "Caminata En Invierno",
+        "color": "E6EAE6",
+        "codigo": "OW055-P"
+    },
+    {
+        "titulo": "Hielo",
+        "color": "DBE4E1",
+        "codigo": "OW056-P"
+    },
+    {
+        "titulo": "Leche De Coco",
+        "color": "F2F1EA",
+        "codigo": "OW057-P"
+    },
+    {
+        "titulo": "Villa En Invierno",
+        "color": "EDECEB",
+        "codigo": "OW058-P"
+    },
+    {
+        "titulo": "Nube Angelical",
+        "color": "EFEDEA",
+        "codigo": "OW059-P"
+    },
+    {
+        "titulo": "Sombra Rosa",
+        "color": "F1EDEB",
+        "codigo": "OW060-P"
+    },
+    {
+        "titulo": "Esencia De Rosas",
+        "color": "EFEDEB",
+        "codigo": "OW061-P"
+    },
+    {
+        "titulo": "Luz De Luna",
+        "color": "EAEAEA",
+        "codigo": "OW062-P"
+    },
+    {
+        "titulo": "Serenata De Amor",
+        "color": "EDEBEA",
+        "codigo": "OW063-P"
+    },
+    {
+        "titulo": "Brillo Estelar",
+        "color": "EAEAE8",
+        "codigo": "OW064-P"
+    },
+    {
+        "titulo": "Luna De Seda",
+        "color": "EBEDED",
+        "codigo": "OW065-P"
+    },
+    {
+        "titulo": "Perla",
+        "color": "EBEAE7",
+        "codigo": "OW066-P"
+    },
+    {
+        "titulo": "Seda",
+        "color": "EBE9E2",
+        "codigo": "OW067-P"
+    },
+    {
+        "titulo": "Canción De Lluvia",
+        "color": "DEDEDB",
+        "codigo": "OW068-P"
+    },
+    {
+        "titulo": "Aire Alpino",
+        "color": "E0DDD8",
+        "codigo": "OW069-P"
+    },
+    {
+        "titulo": "Paisaje Lunar",
+        "color": "DCDCDA",
+        "codigo": "OW070-P"
+    },
+    {
+        "titulo": "Beso Rosa",
+        "color": "EFD9DA",
+        "codigo": "PS001-P"
+    },
+    {
+        "titulo": "Pétalos De Primavera",
+        "color": "F1DEDC",
+        "codigo": "PS002-P"
+    },
+    {
+        "titulo": "Café Suave",
+        "color": "E8DADA",
+        "codigo": "PS003-P"
+    },
+    {
+        "titulo": "Brisa De Los Cultivos",
+        "color": "E5D5D2",
+        "codigo": "PS004-P"
+    },
+    {
+        "titulo": "Porcelana Rosa",
+        "color": "F2DAD3",
+        "codigo": "PS005-P"
+    },
+    {
+        "titulo": "Estrella Jovial",
+        "color": "F0D5CC",
+        "codigo": "PS006-P"
+    },
+    {
+        "titulo": "Cerámica Ancestral",
+        "color": "EBD0C8",
+        "codigo": "PS007-P"
+    },
+    {
+        "titulo": "Pálido Rosa",
+        "color": "F0D7CB",
+        "codigo": "PS008-P"
+    },
+    {
+        "titulo": "Dulce De Lichi",
+        "color": "F6DACA",
+        "codigo": "PS009-P"
+    },
+    {
+        "titulo": "Crema Pastel",
+        "color": "F0D7CD",
+        "codigo": "PS010-P"
+    },
+    {
+        "titulo": "Cielo Pastel",
+        "color": "E5D6CF",
+        "codigo": "PS011-P"
+    },
+    {
+        "titulo": "Suave Durazno",
+        "color": "FAE3D1",
+        "codigo": "PS012-P"
+    },
+    {
+        "titulo": "Playa De Cristal",
+        "color": "F9E2CE",
+        "codigo": "PS013-P"
+    },
+    {
+        "titulo": "Crema Puro",
+        "color": "F0E0D4",
+        "codigo": "PS014-P"
+    },
+    {
+        "titulo": "Escultura De Marfil",
+        "color": "F8E6D2",
+        "codigo": "PS015-P"
+    },
+    {
+        "titulo": "Arena Suave",
+        "color": "F6E7D4",
+        "codigo": "PS016-P"
+    },
+    {
+        "titulo": "Flor De Almendro",
+        "color": "F5E5D4",
+        "codigo": "PS017-P"
+    },
+    {
+        "titulo": "Gris Real",
+        "color": "E5DFD9",
+        "codigo": "PS018-P"
+    },
+    {
+        "titulo": "Almendro Suave",
+        "color": "F8E7D4",
+        "codigo": "PS019-P"
+    },
+    {
+        "titulo": "Arena Ligera",
+        "color": "F9EBD3",
+        "codigo": "PS020-P"
+    },
+    {
+        "titulo": "Castañas",
+        "color": "F5EADC",
+        "codigo": "PS021-P"
+    },
+    {
+        "titulo": "Dulce De Crema",
+        "color": "FAEBD6",
+        "codigo": "PS022-P"
+    },
+    {
+        "titulo": "Lienzo Crudo",
+        "color": "F7ECDA",
+        "codigo": "PS023-P"
+    },
+    {
+        "titulo": "Villa Florencia",
+        "color": "F2E8D7",
+        "codigo": "PS024-P"
+    },
+    {
+        "titulo": "Blanco De Verano",
+        "color": "ECE3DB",
+        "codigo": "PS025-P"
+    },
+    {
+        "titulo": "Polvo De Perlas",
+        "color": "F0E5D1",
+        "codigo": "PS026-P"
+    },
+    {
+        "titulo": "Nieve Crema",
+        "color": "F3E8D3",
+        "codigo": "PS027-P"
+    },
+    {
+        "titulo": "Crema De Leche",
+        "color": "EFE9DB",
+        "codigo": "PS028-P"
+    },
+    {
+        "titulo": "Melodía Primaveral",
+        "color": "EFEBD4",
+        "codigo": "PS029-P"
+    },
+    {
+        "titulo": "Bosquecillo En La Colina",
+        "color": "E8E8D5",
+        "codigo": "PS030-P"
+    },
+    {
+        "titulo": "Coronilla De Hojas",
+        "color": "EBE7D6",
+        "codigo": "PS031-P"
+    },
+    {
+        "titulo": "Blanco Industrial",
+        "color": "E3E1D9",
+        "codigo": "PS032-P"
+    },
+    {
+        "titulo": "Retoño De Primavera",
+        "color": "E6E8D8",
+        "codigo": "PS033-P"
+    },
+    {
+        "titulo": "Verano Placentero",
+        "color": "E0E8D8",
+        "codigo": "PS034-P"
+    },
+    {
+        "titulo": "Retoño Del Bosque",
+        "color": "DEE6DB",
+        "codigo": "PS035-P"
+    },
+    {
+        "titulo": "Destello Cítrico",
+        "color": "E1EBDD",
+        "codigo": "PS036-P"
+    },
+    {
+        "titulo": "Inspiración De Primavera",
+        "color": "DAE9DD",
+        "codigo": "PS037-P"
+    },
+    {
+        "titulo": "Frescura Del Campo",
+        "color": "D7E7E0",
+        "codigo": "PS038-P"
+    },
+    {
+        "titulo": "Brisa En Las Nubes",
+        "color": "DFE6E1",
+        "codigo": "PS039-P"
+    },
+    {
+        "titulo": "Esencia Primaveral",
+        "color": "E1EEE4",
+        "codigo": "PS040-P"
+    },
+    {
+        "titulo": "Aqua Sensación",
+        "color": "D6EDE7",
+        "codigo": "PS041-P"
+    },
+    {
+        "titulo": "Banquete De Primavera",
+        "color": "D0E6E5",
+        "codigo": "PS042-P"
+    },
+    {
+        "titulo": "Escape Al Paraíso",
+        "color": "D9EEEA",
+        "codigo": "PS043-P"
+    },
+    {
+        "titulo": "Brillo En El Mar",
+        "color": "D7EAEB",
+        "codigo": "PS044-P"
+    },
+    {
+        "titulo": "Arena Azul",
+        "color": "E0EDED",
+        "codigo": "PS045-P"
+    },
+    {
+        "titulo": "Blanco Caribe",
+        "color": "D5E1E1",
+        "codigo": "PS046-P"
+    },
+    {
+        "titulo": "Nube",
+        "color": "D3EAEC",
+        "codigo": "PS047-P"
+    },
+    {
+        "titulo": "Gota De Rocío",
+        "color": "D1E8EB",
+        "codigo": "PS048-P"
+    },
+    {
+        "titulo": "Brisa Del Mar",
+        "color": "D3E4E7",
+        "codigo": "PS049-P"
+    },
+    {
+        "titulo": "Nubes Onduladas",
+        "color": "E3F0F1",
+        "codigo": "PS050-P"
+    },
+    {
+        "titulo": "Brisa De Junio",
+        "color": "DAE6EB",
+        "codigo": "PS051-P"
+    },
+    {
+        "titulo": "Arena Lunar",
+        "color": "DAE2E6",
+        "codigo": "PS052-P"
+    },
+    {
+        "titulo": "Gris Planetario",
+        "color": "D9DDDE",
+        "codigo": "PS053-P"
+    },
+    {
+        "titulo": "Mañana En El Río",
+        "color": "D9E6EC",
+        "codigo": "PS054-P"
+    },
+    {
+        "titulo": "Brisa En El Golfo",
+        "color": "DBE6E9",
+        "codigo": "PS055-P"
+    },
+    {
+        "titulo": "Plata Real",
+        "color": "E6E8EA",
+        "codigo": "PS056-P"
+    },
+    {
+        "titulo": "Noche De Caminata",
+        "color": "E4E7ED",
+        "codigo": "PS057-P"
+    },
+    {
+        "titulo": "Brisa Lavanda",
+        "color": "DEE1E5",
+        "codigo": "PS058-P"
+    },
+    {
+        "titulo": "Púrpura Royal",
+        "color": "E0E0E8",
+        "codigo": "PS059-P"
+    },
+    {
+        "titulo": "Mina De Sal",
+        "color": "E3E2E4",
+        "codigo": "PS060-P"
+    },
+    {
+        "titulo": "Flor De Romero",
+        "color": "E5E3E6",
+        "codigo": "PS061-P"
+    },
+    {
+        "titulo": "Lila Escarcha",
+        "color": "ECE8EB",
+        "codigo": "PS062-P"
+    },
+    {
+        "titulo": "Toque Real",
+        "color": "E7E3E6",
+        "codigo": "PS063-P"
+    },
+    {
+        "titulo": "Flor Delicada",
+        "color": "F6E1E9",
+        "codigo": "RJ001-P"
+    },
+    {
+        "titulo": "Valentina",
+        "color": "F2D6E5",
+        "codigo": "RJ002-P"
+    },
+    {
+        "titulo": "Beso De Princesa",
+        "color": "EFC7DB",
+        "codigo": "RJ003-P"
+    },
+    {
+        "titulo": "Aventura Rosa",
+        "color": "EBB4D0",
+        "codigo": "RJ004-T"
+    },
+    {
+        "titulo": "Sonrisa Floral",
+        "color": "E2A1C3",
+        "codigo": "RJ005-T"
+    },
+    {
+        "titulo": "Primavera En Abril",
+        "color": "DB84AB",
+        "codigo": "RJ006-D"
+    },
+    {
+        "titulo": "Rosa Profundo",
+        "color": "CF6C98",
+        "codigo": "RJ007-D"
+    },
+    {
+        "titulo": "Rosa Champaña",
+        "color": "F7E7E7",
+        "codigo": "RJ008-P"
+    },
+    {
+        "titulo": "Malva Real",
+        "color": "F0D0D9",
+        "codigo": "RJ009-P"
+    },
+    {
+        "titulo": "Rocío Floral",
+        "color": "F0C5D4",
+        "codigo": "RJ010-P"
+    },
+    {
+        "titulo": "Pomarrosa",
+        "color": "E7B2C6",
+        "codigo": "RJ011-T"
+    },
+    {
+        "titulo": "Romero",
+        "color": "E19FB9",
+        "codigo": "RJ012-T"
+    },
+    {
+        "titulo": "Coquetería Rosa",
+        "color": "D784A1",
+        "codigo": "RJ013-D"
+    },
+    {
+        "titulo": "Frambuesa",
+        "color": "C56B85",
+        "codigo": "RJ014-D"
+    },
+    {
+        "titulo": "Dulce Brisa",
+        "color": "F8DFDF",
+        "codigo": "RJ015-P"
+    },
+    {
+        "titulo": "Rosa Bombasí",
+        "color": "F0CBD1",
+        "codigo": "RJ016-P"
+    },
+    {
+        "titulo": "Tarde Malva",
+        "color": "E7C0C8",
+        "codigo": "RJ017-P"
+    },
+    {
+        "titulo": "Rosa Chic",
+        "color": "DAACB9",
+        "codigo": "RJ018-T"
+    },
+    {
+        "titulo": "Sueño Rosa",
+        "color": "D096A6",
+        "codigo": "RJ019-T"
+    },
+    {
+        "titulo": "Camino De Rosas",
+        "color": "BF7C8A",
+        "codigo": "RJ020-D"
+    },
+    {
+        "titulo": "Sonrojo",
+        "color": "AB6776",
+        "codigo": "RJ021-D"
+    },
+    {
+        "titulo": "Fucsia Romántico",
+        "color": "C04A6F",
+        "codigo": "RJ022-A"
+    },
+    {
+        "titulo": "Vestido De Flores",
+        "color": "BB4A76",
+        "codigo": "RJ023-A"
+    },
+    {
+        "titulo": "Brisa De Mónaco",
+        "color": "A43D4D",
+        "codigo": "RJ024-A"
+    },
+    {
+        "titulo": "Rojo Carmín",
+        "color": 894347,
+        "codigo": "RJ025-A"
+    },
+    {
+        "titulo": "Grosella ",
+        "color": "72474A",
+        "codigo": "RJ026-A"
+    },
+    {
+        "titulo": "Madera Royal",
+        "color": "63484E",
+        "codigo": "RJ027-A"
+    },
+    {
+        "titulo": "Cielo De Chocolate",
+        "color": "5D4641",
+        "codigo": "RJ028-A"
+    },
+    {
+        "titulo": "Primer Amanecer",
+        "color": "F7E4E9",
+        "codigo": "RJ029-P"
+    },
+    {
+        "titulo": "Dulce De Algodón",
+        "color": "F7D4DF",
+        "codigo": "RJ030-P"
+    },
+    {
+        "titulo": "Rosa Pensativo",
+        "color": "F7CEDC",
+        "codigo": "RJ031-P"
+    },
+    {
+        "titulo": "Visiones Rosa",
+        "color": "F2B5C8",
+        "codigo": "RJ032-T"
+    },
+    {
+        "titulo": "Cuento De Hadas",
+        "color": "E9A1B8",
+        "codigo": "RJ033-T"
+    },
+    {
+        "titulo": "Rosas De Papel",
+        "color": "E0829E",
+        "codigo": "RJ034-D"
+    },
+    {
+        "titulo": "Rosas Del Bosque",
+        "color": "D76C8A",
+        "codigo": "RJ035-D"
+    },
+    {
+        "titulo": "Bruma Fresa",
+        "color": "FBE2E5",
+        "codigo": "RJ036-P"
+    },
+    {
+        "titulo": "Azalea Florecida",
+        "color": "F4D2D9",
+        "codigo": "RJ037-P"
+    },
+    {
+        "titulo": "Primavera ",
+        "color": "EFC2CB",
+        "codigo": "RJ038-P"
+    },
+    {
+        "titulo": "Cosecha De Manzanas",
+        "color": "E9B1BE",
+        "codigo": "RJ039-T"
+    },
+    {
+        "titulo": "Cerca De Rosas",
+        "color": "E09BAB",
+        "codigo": "RJ040-T"
+    },
+    {
+        "titulo": "Rosa Del Jardín",
+        "color": "D57B8B",
+        "codigo": "RJ041-D"
+    },
+    {
+        "titulo": "Palo De Rosa",
+        "color": "C66776",
+        "codigo": "RJ042-D"
+    },
+    {
+        "titulo": "Caricia De Pétalos",
+        "color": "F8E3E0",
+        "codigo": "RJ043-P"
+    },
+    {
+        "titulo": "Río De Perla",
+        "color": "F0C8CB",
+        "codigo": "RJ044-P"
+    },
+    {
+        "titulo": "Rosa Flamenco",
+        "color": "E8B7BB",
+        "codigo": "RJ045-P"
+    },
+    {
+        "titulo": "Té De Moras",
+        "color": "DEA1A6",
+        "codigo": "RJ046-T"
+    },
+    {
+        "titulo": "Fresa Frappé",
+        "color": "D58E94",
+        "codigo": "RJ047-T"
+    },
+    {
+        "titulo": "Coral Natural",
+        "color": "C67477",
+        "codigo": "RJ048-D"
+    },
+    {
+        "titulo": "Rosa Campestre",
+        "color": "B36265",
+        "codigo": "RJ049-D"
+    },
+    {
+        "titulo": "Jardín Rosa",
+        "color": "D26F92",
+        "codigo": "RJ050-D"
+    },
+    {
+        "titulo": "Sentimiento Rosa",
+        "color": "C24964",
+        "codigo": "RJ051-A"
+    },
+    {
+        "titulo": "Postre De Arándanos",
+        "color": 984142,
+        "codigo": "RJ052-A"
+    },
+    {
+        "titulo": "Tomates Secos",
+        "color": 934742,
+        "codigo": "RJ053-A"
+    },
+    {
+        "titulo": "Vino De Otoño",
+        "color": "7B4C45",
+        "codigo": "RJ054-A"
+    },
+    {
+        "titulo": "Fábrica De Chocolate",
+        "color": 644843,
+        "codigo": "RJ055-A"
+    },
+    {
+        "titulo": "Príncipe Hindú",
+        "color": 6040000000000000543914848138507217055503825512693760,
+        "codigo": "RJ056-A"
+    },
+    {
+        "titulo": "Rosa Tentación",
+        "color": "FAE8ED",
+        "codigo": "RJ057-P"
+    },
+    {
+        "titulo": "Piel Hollywood",
+        "color": "FCD7DF",
+        "codigo": "RJ058-P"
+    },
+    {
+        "titulo": "Moda Parisina",
+        "color": "F8CBD7",
+        "codigo": "RJ059-P"
+    },
+    {
+        "titulo": "Rosa Natural",
+        "color": "F4B7C7",
+        "codigo": "RJ060-T"
+    },
+    {
+        "titulo": "Señorita",
+        "color": "ECA0B5",
+        "codigo": "RJ061-T"
+    },
+    {
+        "titulo": "Muñeca De Trapo",
+        "color": "E5859C",
+        "codigo": "RJ062-D"
+    },
+    {
+        "titulo": "Chica Brillante",
+        "color": "D76E84",
+        "codigo": "RJ063-D"
+    },
+    {
+        "titulo": "Rubor",
+        "color": "FADCDA",
+        "codigo": "RJ064-P"
+    },
+    {
+        "titulo": "Suspiro Rosa",
+        "color": "F5D2D7",
+        "codigo": "RJ065-P"
+    },
+    {
+        "titulo": "Limonada Rosa",
+        "color": "F2C4CB",
+        "codigo": "RJ066-P"
+    },
+    {
+        "titulo": "Amor En Rosa",
+        "color": "EBB0BB",
+        "codigo": "RJ067-T"
+    },
+    {
+        "titulo": "Coctel De Rosas",
+        "color": "E49DAB",
+        "codigo": "RJ068-T"
+    },
+    {
+        "titulo": "Malva Jovial",
+        "color": "DA8089",
+        "codigo": "RJ069-D"
+    },
+    {
+        "titulo": "Auge Rosa",
+        "color": "C96973",
+        "codigo": "RJ070-D"
+    },
+    {
+        "titulo": "Dulce Amanecer",
+        "color": "F7DAD2",
+        "codigo": "RJ071-P"
+    },
+    {
+        "titulo": "Dulce Antojo",
+        "color": "F2CAC8",
+        "codigo": "RJ072-P"
+    },
+    {
+        "titulo": "Luz Del Día",
+        "color": "EABAB9",
+        "codigo": "RJ073-P"
+    },
+    {
+        "titulo": "Rosa De Atardecer",
+        "color": "E1A5A7",
+        "codigo": "RJ074-T"
+    },
+    {
+        "titulo": "Ramo De Rosas",
+        "color": "D59192",
+        "codigo": "RJ075-T"
+    },
+    {
+        "titulo": "Rosa Dorada",
+        "color": "C67571",
+        "codigo": "RJ076-D"
+    },
+    {
+        "titulo": "Fusión De Arándanos",
+        "color": "B45F59",
+        "codigo": "RJ077-D"
+    },
+    {
+        "titulo": "Rojo Pasión",
+        "color": "B93944",
+        "codigo": "RJ078-A"
+    },
+    {
+        "titulo": "Labios Rojos",
+        "color": "C7495A",
+        "codigo": "RJ079-A"
+    },
+    {
+        "titulo": "Carmesí",
+        "color": "A0413A",
+        "codigo": "RJ080-A"
+    },
+    {
+        "titulo": "Arcilla Roja",
+        "color": "974B41",
+        "codigo": "RJ081-A"
+    },
+    {
+        "titulo": "Jaspe Rojo",
+        "color": "7F4C3E",
+        "codigo": "RJ082-A"
+    },
+    {
+        "titulo": "Café Tostado",
+        "color": "6B493F",
+        "codigo": "RJ083-A"
+    },
+    {
+        "titulo": "Chocolate Azteca",
+        "color": 5730000000000000511359697961154640871424,
+        "codigo": "RJ084-A"
+    },
+    {
+        "titulo": "Blanco Corazón",
+        "color": "FCEDEE",
+        "codigo": "RJ085-P"
+    },
+    {
+        "titulo": "Dulce Carmesí",
+        "color": "FEDAE0",
+        "codigo": "RJ086-P"
+    },
+    {
+        "titulo": "Campo Florecido",
+        "color": "FECBD3",
+        "codigo": "RJ087-P"
+    },
+    {
+        "titulo": "Poder Femenino",
+        "color": "F6B6C1",
+        "codigo": "RJ088-T"
+    },
+    {
+        "titulo": "Elixir Rosa",
+        "color": "F3A1AF",
+        "codigo": "RJ089-T"
+    },
+    {
+        "titulo": "Rosa Juvenil",
+        "color": "F08895",
+        "codigo": "RJ090-D"
+    },
+    {
+        "titulo": "Destello Fucsia",
+        "color": "E5727F",
+        "codigo": "RJ091-D"
+    },
+    {
+        "titulo": "Fresas Con Crema",
+        "color": "FCE2E1",
+        "codigo": "RJ092-P"
+    },
+    {
+        "titulo": "Simpatía Rosa",
+        "color": "F9D2D1",
+        "codigo": "RJ093-P"
+    },
+    {
+        "titulo": "Flores Al Amanecer",
+        "color": "F9C8CA",
+        "codigo": "RJ094-P"
+    },
+    {
+        "titulo": "Visión Rosa",
+        "color": "F6B9BD",
+        "codigo": "RJ095-T"
+    },
+    {
+        "titulo": "Explosión Coral",
+        "color": "EFA5A9",
+        "codigo": "RJ096-T"
+    },
+    {
+        "titulo": "Isla Coral",
+        "color": "E78989",
+        "codigo": "RJ097-D"
+    },
+    {
+        "titulo": "Explosión Carmesí",
+        "color": "DC7372",
+        "codigo": "RJ098-D"
+    },
+    {
+        "titulo": "Beso De Papel",
+        "color": "F9DCD3",
+        "codigo": "RJ099-P"
+    },
+    {
+        "titulo": "Perla Real",
+        "color": "F2C1B6",
+        "codigo": "RJ100-P"
+    },
+    {
+        "titulo": "Brillo Perla",
+        "color": "E6AFA3",
+        "codigo": "RJ101-P"
+    },
+    {
+        "titulo": "Rosa Española",
+        "color": "DB988A",
+        "codigo": "RJ102-T"
+    },
+    {
+        "titulo": "Rosa Vino",
+        "color": "CE887A",
+        "codigo": "RJ103-T"
+    },
+    {
+        "titulo": "Coctel De Fresas",
+        "color": "BD705D",
+        "codigo": "RJ104-D"
+    },
+    {
+        "titulo": "Cerámica Rústica",
+        "color": "AC5D4A",
+        "codigo": "RJ105-D"
+    },
+    {
+        "titulo": "Fucsia Natural",
+        "color": "DE7081",
+        "codigo": "RJ106-D"
+    },
+    {
+        "titulo": "Rojo Llamas",
+        "color": "CA3C3A",
+        "codigo": "RJ107-A"
+    },
+    {
+        "titulo": "Bermellón",
+        "color": "B64D46",
+        "codigo": "RJ108-A"
+    },
+    {
+        "titulo": "Arena Rosa",
+        "color": "924C3B",
+        "codigo": "RJ109-A"
+    },
+    {
+        "titulo": "Jitomate",
+        "color": "844E3C",
+        "codigo": "RJ110-A"
+    },
+    {
+        "titulo": "Merlot",
+        "color": "714D40",
+        "codigo": "RJ111-A"
+    },
+    {
+        "titulo": "Puro Cuero",
+        "color": "60473C",
+        "codigo": "RJ112-A"
+    },
+    {
+        "titulo": "Toque Femenino",
+        "color": "FAE5DF",
+        "codigo": "RJ113-P"
+    },
+    {
+        "titulo": "Rosa Felpa",
+        "color": "FAD5D3",
+        "codigo": "RJ114-P"
+    },
+    {
+        "titulo": "Flan De Fresas",
+        "color": "FECCCD",
+        "codigo": "RJ115-P"
+    },
+    {
+        "titulo": "Tarde De Pesca",
+        "color": "FAB5B8",
+        "codigo": "RJ116-T"
+    },
+    {
+        "titulo": "Manzana Silvestre",
+        "color": "F9A6AD",
+        "codigo": "RJ117-T"
+    },
+    {
+        "titulo": "Sandía",
+        "color": "F48C8C",
+        "codigo": "RJ118-D"
+    },
+    {
+        "titulo": "Ponche De Frutas",
+        "color": "ED7777",
+        "codigo": "RJ119-D"
+    },
+    {
+        "titulo": "Rosa Perla",
+        "color": "FBECE5",
+        "codigo": "RJ120-P"
+    },
+    {
+        "titulo": "Rosa Calma",
+        "color": "FCDBD6",
+        "codigo": "RJ121-P"
+    },
+    {
+        "titulo": "Rosa Pique",
+        "color": "FCCDC9",
+        "codigo": "RJ122-P"
+    },
+    {
+        "titulo": "Perla Nueva",
+        "color": "F9BAB7",
+        "codigo": "RJ123-T"
+    },
+    {
+        "titulo": "Crema De Frutillas",
+        "color": "F6A9A6",
+        "codigo": "RJ124-T"
+    },
+    {
+        "titulo": "Durazno",
+        "color": "F08D85",
+        "codigo": "RJ125-D"
+    },
+    {
+        "titulo": "Sorbete De Rosas",
+        "color": "E77973",
+        "codigo": "RJ126-D"
+    },
+    {
+        "titulo": "Brillo Delicado",
+        "color": "FAE6D9",
+        "codigo": "RJ127-P"
+    },
+    {
+        "titulo": "Encanto Juvenil",
+        "color": "EEC7B7",
+        "codigo": "RJ128-P"
+    },
+    {
+        "titulo": "Malteada De Melón",
+        "color": "EDBBAA",
+        "codigo": "RJ129-P"
+    },
+    {
+        "titulo": "Tamarindo",
+        "color": "DDA491",
+        "codigo": "RJ130-T"
+    },
+    {
+        "titulo": "Piel Bronceada",
+        "color": "D2917D",
+        "codigo": "RJ131-T"
+    },
+    {
+        "titulo": "Cañón Rojo",
+        "color": "C4755E",
+        "codigo": "RJ132-D"
+    },
+    {
+        "titulo": "Valle De Cerezos",
+        "color": "B4664E",
+        "codigo": "RJ133-D"
+    },
+    {
+        "titulo": "Rojo Picante",
+        "color": "CB403B",
+        "codigo": "RJ134-A"
+    },
+    {
+        "titulo": "Pasión Frambuesa",
+        "color": "CA423C",
+        "codigo": "RJ135-A"
+    },
+    {
+        "titulo": "Ají",
+        "color": "BF4F45",
+        "codigo": "RJ136-A"
+    },
+    {
+        "titulo": "Selva Negra",
+        "color": "994F39",
+        "codigo": "RJ137-A"
+    },
+    {
+        "titulo": "Canela",
+        "color": "8E553E",
+        "codigo": "RJ138-A"
+    },
+    {
+        "titulo": "Barniz Belga",
+        "color": "724F43",
+        "codigo": "RJ139-A"
+    },
+    {
+        "titulo": "Coco Del Pacífico",
+        "color": "654C42",
+        "codigo": "RJ140-A"
+    },
+    {
+        "titulo": "Rosa Puro",
+        "color": "FDEBE4",
+        "codigo": "RJ141-P"
+    },
+    {
+        "titulo": "Coral Australiano",
+        "color": "FFD9D2",
+        "codigo": "RJ142-P"
+    },
+    {
+        "titulo": "Concha De Mar",
+        "color": "FDCFC8",
+        "codigo": "RJ143-P"
+    },
+    {
+        "titulo": "Perla De Fantasía",
+        "color": "FDBBB2",
+        "codigo": "RJ144-T"
+    },
+    {
+        "titulo": "Salsa Rosa",
+        "color": "F4AA9C",
+        "codigo": "RJ145-T"
+    },
+    {
+        "titulo": "Salmón Alaska",
+        "color": "EA9585",
+        "codigo": "RJ146-D"
+    },
+    {
+        "titulo": "Rosas Del Paraíso",
+        "color": "E37864",
+        "codigo": "RJ147-D"
+    },
+    {
+        "titulo": "Suave Y Sutil",
+        "color": "F8ECE4",
+        "codigo": "RJ148-P"
+    },
+    {
+        "titulo": "Cielo Rosa",
+        "color": "FBDCCE",
+        "codigo": "RJ149-P"
+    },
+    {
+        "titulo": "Suave Caramelo",
+        "color": "FCCEC1",
+        "codigo": "RJ150-P"
+    },
+    {
+        "titulo": "Actitud Juvenil",
+        "color": "F8BDAE",
+        "codigo": "RJ151-T"
+    },
+    {
+        "titulo": "Duraznos Al Atardecer",
+        "color": "F4B09F",
+        "codigo": "RJ152-T"
+    },
+    {
+        "titulo": "Costa De Coral",
+        "color": "F0967B",
+        "codigo": "RJ153-D"
+    },
+    {
+        "titulo": "Atardecer Sobre Coral",
+        "color": "EC8165",
+        "codigo": "RJ154-D"
+    },
+    {
+        "titulo": "Durazno Puro",
+        "color": "FBE5D7",
+        "codigo": "RJ155-P"
+    },
+    {
+        "titulo": "Crema Frambuesa",
+        "color": "F3CEBC",
+        "codigo": "RJ156-P"
+    },
+    {
+        "titulo": "Primer Amor",
+        "color": "EFC2AC",
+        "codigo": "RJ"
+    }
+]
